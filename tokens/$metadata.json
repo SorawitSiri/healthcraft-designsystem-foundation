@@ -1,3 +1,15 @@
 {
-  "tokenSetOrder": []
+  "tokenSetOrder": [
+    "Brand/Light",
+    "Brand/Dark",
+    "Color Primitives/Colors",
+    "Typography/Baseline",
+    "Typescale/Desktop",
+    "Typescale/Tablet",
+    "Typescale/Mobile",
+    "Responsive/Desktop",
+    "Responsive/Tablet",
+    "Responsive/Mobile",
+    "Primitives/Baseline"
+  ]
 }
