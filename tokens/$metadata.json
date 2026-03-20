@@ -1,13 +1,13 @@
 {
   "tokenSetOrder": [
-    "Brand/Light",
-    "Brand/Dark",
-    "Color Primitives/Colors",
-    "Typescale/Desktop",
-    "Typescale/Tablet",
-    "Responsive/Desktop",
-    "Responsive/Tablet",
-    "Responsive/Mobile",
-    "Primitives/Baseline"
+    "Primitive-Color/Default",
+    "Semantic-Color/Default",
+    "Theme-Mode (Primitive)/Default",
+    "Component Layer/Default",
+    "Semantic-Typescale/Desktop",
+    "Semantic-Typescale/Tablet",
+    "Semantic-Typescale/Mobile",
+    "Primitive-Core/Default",
+    "Semantic-Core/Default"
   ]
 }
