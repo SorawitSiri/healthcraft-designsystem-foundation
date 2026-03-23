@@ -383,7 +383,7 @@
         "$type": "number",
         "$value": 0
       },
-      "Extra-small": {
+      "ExtraSmall": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
@@ -627,49 +627,49 @@
         "$type": "number",
         "$value": 256
       },
-      "Negative-50": {
+      "Negative50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": -2
       },
-      "Negative-200": {
+      "Negative200": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": -8
       },
-      "Negative-100": {
+      "Negative100": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": -4
       },
-      "Negative-150": {
+      "Negative150": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": -6
       },
-      "Negative-300": {
+      "Negative300": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": -12
       },
-      "Negative-400": {
+      "Negative400": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": -16
       },
-      "Negative-500": {
+      "Negative500": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },

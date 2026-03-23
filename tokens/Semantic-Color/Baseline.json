@@ -18,7 +18,7 @@
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
-      "$value": "{Neutral.Gray-98}"
+      "$value": "{Neutral.Gray98}"
     },
     "Tertiary": {
       "$extensions": {
@@ -28,7 +28,7 @@
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
-      "$value": "{Neutral.Gray-96}"
+      "$value": "{Neutral.Gray96}"
     },
     "Inverse": {
       "$extensions": {
@@ -42,7 +42,7 @@
     }
   },
   "Overlay": {
-    "light": {
+    "Light": {
       "$extensions": {
         "com.figma.scopes": [
           "FRAME_FILL",
@@ -53,7 +53,7 @@
       "$type": "color",
       "$value": "{Alpha.White.40}"
     },
-    "dark": {
+    "Dark": {
       "$extensions": {
         "com.figma.scopes": [
           "FRAME_FILL",
@@ -82,7 +82,7 @@
         "$value": "{Brand Color.Primary}",
         "$description": "Bg/Default/Default"
       },
-      "Default Hover": {
+      "DefaultHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -94,7 +94,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Primary}",
+        "$value": "{Brand Color.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
       "Secondary": {
@@ -112,7 +112,7 @@
         "$value": "{Brand Color.Secondary}",
         "$description": "Bg/Default/Secondary"
       },
-      "Secondary Hover": {
+      "SecondaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -124,7 +124,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Secondary}",
+        "$value": "{Brand Color.OnSecondary}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Tertiary": {
@@ -142,7 +142,7 @@
         "$value": "{Brand Color.Tertiary}",
         "$description": "Bg/Default/Tertiary"
       },
-      "Tertiary Hover": {
+      "TertiaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -154,7 +154,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Tertiary}",
+        "$value": "{Brand Color.OnTertiary}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Quaternary": {
@@ -172,7 +172,7 @@
         "$value": "{Brand Color.Quaternary}",
         "$description": "Bg/Default/Tertiary Hover"
       },
-      "Quaternary Hover": {
+      "QuaternaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -184,7 +184,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Quaternary}",
+        "$value": "{Brand Color.OnQuaternary}",
         "$description": "Bg/Default/Tertiary Hover"
       }
     },
@@ -204,7 +204,7 @@
         "$value": "{State Status.Success.Primary}",
         "$description": "Bg/Default/Default"
       },
-      "Default Hover": {
+      "DefaultHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -216,7 +216,7 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Success.On-Primary}",
+        "$value": "{State Status.Success.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
       "Secondary": {
@@ -234,7 +234,7 @@
         "$value": "{Shared.Teal.Primary}",
         "$description": "Bg/Default/Secondary"
       },
-      "Secondary Hover": {
+      "SecondaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -246,7 +246,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 10}",
+        "$value": "{Shared.Teal.Tint10}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Tertiary": {
@@ -261,10 +261,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 20}",
+        "$value": "{Shared.Teal.Tint20}",
         "$description": "Bg/Default/Tertiary"
       },
-      "Tertiary Hover": {
+      "TertiaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -276,7 +276,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 50}",
+        "$value": "{Shared.Teal.Tint50}",
         "$description": "Bg/Default/Tertiary Hover"
       }
     },
@@ -296,7 +296,7 @@
         "$value": "{State Status.Warning.Primary}",
         "$description": "Bg/Default/Default"
       },
-      "Default Hover": {
+      "DefaultHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -308,7 +308,7 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Warning.On-Primary}",
+        "$value": "{State Status.Warning.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
       "Secondary": {
@@ -326,7 +326,7 @@
         "$value": "{Shared.Gold.Primary}",
         "$description": "Bg/Default/Secondary"
       },
-      "Secondary Hover": {
+      "SecondaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -338,7 +338,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Gold.Tint 20}",
+        "$value": "{Shared.Gold.Tint20}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Tertiary": {
@@ -353,10 +353,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Gold.Tint 30}",
+        "$value": "{Shared.Gold.Tint30}",
         "$description": "Bg/Default/Tertiary"
       },
-      "Tertiary Hover": {
+      "TertiaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -368,7 +368,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Marigold.Tint 50}",
+        "$value": "{Shared.Marigold.Tint50}",
         "$description": "Bg/Default/Tertiary Hover"
       }
     },
@@ -385,10 +385,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-96}",
+        "$value": "{Neutral.Gray96}",
         "$description": "Bg/Default/Default"
       },
-      "Default Hover": {
+      "DefaultHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -400,7 +400,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-96}",
+        "$value": "{Neutral.Gray96}",
         "$description": "Bg/Default/Default Hover"
       },
       "Secondary": {
@@ -415,10 +415,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-28}",
+        "$value": "{Neutral.Gray28}",
         "$description": "Bg/Default/Secondary"
       },
-      "Secondary Hover": {
+      "SecondaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -430,7 +430,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-24}",
+        "$value": "{Neutral.Gray24}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Tertiary": {
@@ -445,10 +445,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}",
+        "$value": "{Neutral.Gray38}",
         "$description": "Bg/Default/Tertiary"
       },
-      "Tertiary Hover": {
+      "TertiaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -460,12 +460,12 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}",
+        "$value": "{Neutral.Gray38}",
         "$description": "Bg/Default/Tertiary Hover"
       }
     },
     "Utilities": {
-      "Read-Only": {
+      "ReadOnly": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -477,10 +477,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.Read-Only}",
+        "$value": "{Brand Color.ReadOnly}",
         "$description": "Bg/Utilities/Scrim"
       },
-      "Button Background": {
+      "ButtonBackground": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -489,9 +489,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Button Background}"
+        "$value": "{Utilities.ButtonBackground}"
       },
-      "Tag Background": {
+      "TagBackground": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -500,9 +500,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Tag Background}"
+        "$value": "{Utilities.TagBackground}"
       },
-      "Tab Hover": {
+      "TabHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -511,9 +511,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Tab Hover}"
+        "$value": "{Utilities.TabHover}"
       },
-      "Disabled Background": {
+      "DisabledBackground": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -522,9 +522,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Disabled Background}"
+        "$value": "{Utilities.DisabledBackground}"
       },
-      "Component Border": {
+      "ComponentBorder": {
         "$extensions": {
           "com.figma.scopes": [
             "ALL_SCOPES"
@@ -532,9 +532,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Component Border}"
+        "$value": "{Utilities.ComponentBorder}"
       },
-      "Rate-Star": {
+      "RateStar": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL"
@@ -542,9 +542,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Rate-Star}"
+        "$value": "{Utilities.RateStar}"
       },
-      "Rate-Star Yellow": {
+      "RateStarYellow": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -553,11 +553,11 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Rate-Star Yellow}"
+        "$value": "{Utilities.RateStarYellow}"
       }
     },
     "Danger": {
-      "Tertiary Hover": {
+      "TertiaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -569,7 +569,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 60}",
+        "$value": "{Shared.Cranberry.Tint60}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Default": {
@@ -599,7 +599,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 20}",
+        "$value": "{Shared.Cranberry.Tint20}",
         "$description": "Bg/Default/Tertiary"
       },
       "Secondary": {
@@ -617,7 +617,7 @@
         "$value": "{Shared.Cranberry.Primary}",
         "$description": "Bg/Default/Secondary"
       },
-      "Secondary Hover": {
+      "SecondaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -629,10 +629,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 50}",
+        "$value": "{Shared.Cranberry.Tint50}",
         "$description": "Bg/Default/Secondary Hover"
       },
-      "Default Hover": {
+      "DefaultHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -644,7 +644,7 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Danger.On-Primary}",
+        "$value": "{State Status.Danger.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       }
     },
@@ -661,9 +661,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}"
+        "$value": "{Neutral.Gray38}"
       },
-      "Tertiary Hover": {
+      "TertiaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -675,7 +675,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-36}"
+        "$value": "{Neutral.Gray36}"
       },
       "Tertiary": {
         "$extensions": {
@@ -689,9 +689,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-26}"
+        "$value": "{Neutral.Gray26}"
       },
-      "Secondary Hover": {
+      "SecondaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -703,7 +703,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-24}"
+        "$value": "{Neutral.Gray24}"
       },
       "Secondary": {
         "$extensions": {
@@ -717,9 +717,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-12}"
+        "$value": "{Neutral.Gray12}"
       },
-      "Default Hover": {
+      "DefaultHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -731,9 +731,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-10}"
+        "$value": "{Neutral.Gray10}"
       },
-      "Quaternary Hover": {
+      "QuaternaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -745,7 +745,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-50}"
+        "$value": "{Neutral.Gray50}"
       },
       "Pure Black": {
         "$extensions": {
@@ -763,7 +763,7 @@
       }
     },
     "Neutral": {
-      "Quaternary Hover": {
+      "QuaternaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -775,9 +775,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-60}"
+        "$value": "{Neutral.Gray60}"
       },
-      "Tertiary Hover": {
+      "TertiaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -803,7 +803,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-88}"
+        "$value": "{Neutral.Gray88}"
       },
       "Tertiary": {
         "$extensions": {
@@ -817,9 +817,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-78}"
+        "$value": "{Neutral.Gray78}"
       },
-      "Secondary Hover": {
+      "SecondaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -831,7 +831,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-80}"
+        "$value": "{Neutral.Gray80}"
       },
       "Quaternary": {
         "$extensions": {
@@ -845,9 +845,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}"
+        "$value": "{Neutral.Gray68}"
       },
-      "Default Hover": {
+      "DefaultHover": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -859,9 +859,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-90}"
+        "$value": "{Neutral.Gray90}"
       },
-      "Pure White": {
+      "PureWhite": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
@@ -890,7 +890,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-78}"
+        "$value": "{Neutral.Gray78}"
       },
       "Secondary": {
         "$extensions": {
@@ -903,9 +903,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-88}"
+        "$value": "{Neutral.Gray88}"
       },
-      "Pure White": {
+      "PureWhite": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -918,7 +918,7 @@
         "$type": "color",
         "$value": "{Neutral.White}"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -929,9 +929,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-90}"
+        "$value": "{Neutral.Gray90}"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -942,9 +942,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-80}"
+        "$value": "{Neutral.Gray80}"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -955,9 +955,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-70}"
+        "$value": "{Neutral.Gray70}"
       },
-      "On Quaternary": {
+      "OnQuaternary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -968,7 +968,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-60}"
+        "$value": "{Neutral.Gray60}"
       },
       "Quaternary": {
         "$extensions": {
@@ -981,11 +981,11 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}"
+        "$value": "{Neutral.Gray68}"
       }
     },
     "Default": {
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -996,9 +996,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-36}"
+        "$value": "{Neutral.Gray36}"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1009,9 +1009,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-10}"
+        "$value": "{Neutral.Gray10}"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1022,7 +1022,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-24}"
+        "$value": "{Neutral.Gray24}"
       },
       "Tertiary": {
         "$extensions": {
@@ -1035,7 +1035,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-26}"
+        "$value": "{Neutral.Gray26}"
       },
       "Secondary": {
         "$extensions": {
@@ -1048,9 +1048,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-12}"
+        "$value": "{Neutral.Gray12}"
       },
-      "Pure Black": {
+      "PureBlack": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1074,9 +1074,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}"
+        "$value": "{Neutral.Gray38}"
       },
-      "On Quaternary": {
+      "OnQuaternary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1087,7 +1087,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-50}"
+        "$value": "{Neutral.Gray50}"
       }
     },
     "Primary": {
@@ -1130,7 +1130,7 @@
         "$type": "color",
         "$value": "{Brand Color.Tertiary}"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1141,9 +1141,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Primary}"
+        "$value": "{Brand Color.OnPrimary}"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1154,9 +1154,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Secondary}"
+        "$value": "{Brand Color.OnSecondary}"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1167,7 +1167,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Tertiary}"
+        "$value": "{Brand Color.OnTertiary}"
       }
     },
     "Warning": {
@@ -1185,7 +1185,7 @@
         "$value": "{State Status.Warning.Primary}",
         "$description": "Bg/Default/Default"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1196,10 +1196,10 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Warning.On-Primary}",
+        "$value": "{State Status.Warning.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1210,7 +1210,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Marigold.Tint 40}",
+        "$value": "{Shared.Marigold.Tint40}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Tertiary": {
@@ -1224,10 +1224,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Gold.Tint 30}",
+        "$value": "{Shared.Gold.Tint30}",
         "$description": "Bg/Default/Tertiary"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1238,7 +1238,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Gold.Tint 20}",
+        "$value": "{Shared.Gold.Tint20}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -1271,7 +1271,7 @@
         "$value": "{Shared.Cranberry.Primary}",
         "$description": "Bg/Default/Secondary"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1282,7 +1282,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 60}",
+        "$value": "{Shared.Cranberry.Tint60}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Tertiary": {
@@ -1296,10 +1296,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 20}",
+        "$value": "{Shared.Cranberry.Tint20}",
         "$description": "Bg/Default/Tertiary"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1310,10 +1310,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 50}",
+        "$value": "{Shared.Cranberry.Tint50}",
         "$description": "Bg/Default/Secondary Hover"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1324,7 +1324,7 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Danger.On-Primary}",
+        "$value": "{State Status.Danger.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
       "Default": {
@@ -1343,7 +1343,7 @@
       }
     },
     "Disabled": {
-      "On Disabled": {
+      "OnDisabled": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1354,7 +1354,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}",
+        "$value": "{Neutral.Gray68}",
         "$description": "Bg/Default/Secondary"
       },
       "Default": {
@@ -1368,10 +1368,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}",
+        "$value": "{Neutral.Gray68}",
         "$description": "Bg/Default/Default"
       },
-      "Tertiary Hover": {
+      "TertiaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1382,7 +1382,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}",
+        "$value": "{Neutral.Gray38}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Tertiary": {
@@ -1396,10 +1396,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}",
+        "$value": "{Neutral.Gray38}",
         "$description": "Bg/Default/Tertiary"
       },
-      "Secondary Hover": {
+      "SecondaryHover": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1410,7 +1410,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-24}",
+        "$value": "{Neutral.Gray24}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -1424,12 +1424,12 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-28}",
+        "$value": "{Neutral.Gray28}",
         "$description": "Bg/Default/Secondary"
       }
     },
     "Success": {
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1440,10 +1440,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 30}",
+        "$value": "{Shared.Teal.Tint30}",
         "$description": "Bg/Default/Tertiary Hover"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1454,7 +1454,7 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Success.On-Primary}",
+        "$value": "{State Status.Success.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
       "Tertiary": {
@@ -1468,10 +1468,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 20}",
+        "$value": "{Shared.Teal.Tint20}",
         "$description": "Bg/Default/Tertiary"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1482,7 +1482,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 10}",
+        "$value": "{Shared.Teal.Tint10}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -1515,7 +1515,7 @@
       }
     },
     "Utilities": {
-      "Read-Only": {
+      "ReadOnly": {
         "$extensions": {
           "com.figma.scopes": [
             "TEXT_FILL"
@@ -1526,7 +1526,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.Read-Only}",
+        "$value": "{Brand Color.ReadOnly}",
         "$description": "Bg/Utilities/Scrim"
       }
     }
@@ -1546,7 +1546,7 @@
         "$type": "color",
         "$value": "{Brand Color.Primary}"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1557,7 +1557,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Primary}"
+        "$value": "{Brand Color.OnPrimary}"
       },
       "Secondary": {
         "$extensions": {
@@ -1572,7 +1572,7 @@
         "$type": "color",
         "$value": "{Brand Color.Secondary}"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1583,7 +1583,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Secondary}"
+        "$value": "{Brand Color.OnSecondary}"
       },
       "Tertiary": {
         "$extensions": {
@@ -1598,7 +1598,7 @@
         "$type": "color",
         "$value": "{Brand Color.Tertiary}"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1609,7 +1609,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Tertiary}"
+        "$value": "{Brand Color.OnTertiary}"
       }
     },
     "Warning": {
@@ -1627,7 +1627,7 @@
         "$value": "{State Status.Warning.Primary}",
         "$description": "Bg/Default/Default"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1638,10 +1638,10 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Warning.On-Primary}",
+        "$value": "{State Status.Warning.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1652,7 +1652,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Marigold.Tint 40}",
+        "$value": "{Shared.Marigold.Tint40}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Tertiary": {
@@ -1666,10 +1666,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Gold.Tint 30}",
+        "$value": "{Shared.Gold.Tint30}",
         "$description": "Bg/Default/Tertiary"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1680,7 +1680,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Gold.Tint 20}",
+        "$value": "{Shared.Gold.Tint20}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -1710,10 +1710,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}",
+        "$value": "{Neutral.Gray68}",
         "$description": "Bg/Default/Default"
       },
-      "On Disabled": {
+      "OnDisabled": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1724,10 +1724,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}",
+        "$value": "{Neutral.Gray68}",
         "$description": "Bg/Default/Secondary"
       },
-      "Tertiary Hover": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1738,7 +1738,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}",
+        "$value": "{Neutral.Gray38}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Tertiary": {
@@ -1752,10 +1752,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}",
+        "$value": "{Neutral.Gray38}",
         "$description": "Bg/Default/Tertiary"
       },
-      "Secondary Hover": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1766,7 +1766,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-24}",
+        "$value": "{Neutral.Gray24}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -1780,12 +1780,12 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-28}",
+        "$value": "{Neutral.Gray28}",
         "$description": "Bg/Default/Secondary"
       }
     },
     "Success": {
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1796,10 +1796,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 30}",
+        "$value": "{Shared.Teal.Tint30}",
         "$description": "Bg/Default/Tertiary Hover"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1810,7 +1810,7 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Success.On-Primary}",
+        "$value": "{State Status.Success.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
       "Tertiary": {
@@ -1824,10 +1824,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 20}",
+        "$value": "{Shared.Teal.Tint20}",
         "$description": "Bg/Default/Tertiary"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1838,7 +1838,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 10}",
+        "$value": "{Shared.Teal.Tint10}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -1882,9 +1882,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}"
+        "$value": "{Neutral.Gray38}"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1895,7 +1895,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-36}"
+        "$value": "{Neutral.Gray36}"
       },
       "Tertiary": {
         "$extensions": {
@@ -1908,9 +1908,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-26}"
+        "$value": "{Neutral.Gray26}"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1921,7 +1921,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-24}"
+        "$value": "{Neutral.Gray24}"
       },
       "Secondary": {
         "$extensions": {
@@ -1934,9 +1934,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-12}"
+        "$value": "{Neutral.Gray12}"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1947,9 +1947,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-10}"
+        "$value": "{Neutral.Gray10}"
       },
-      "On Quaternary": {
+      "OnQuaternary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1960,9 +1960,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-50}"
+        "$value": "{Neutral.Gray50}"
       },
-      "Pure Black": {
+      "PureBlack": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1977,7 +1977,7 @@
       }
     },
     "Neutral": {
-      "On Quaternary": {
+      "OnQuaternary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -1988,9 +1988,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-60}"
+        "$value": "{Neutral.Gray60}"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2001,7 +2001,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-70}"
+        "$value": "{Neutral.Gray70}"
       },
       "Secondary": {
         "$extensions": {
@@ -2014,7 +2014,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-88}"
+        "$value": "{Neutral.Gray88}"
       },
       "Tertiary": {
         "$extensions": {
@@ -2027,9 +2027,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-78}"
+        "$value": "{Neutral.Gray78}"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2040,7 +2040,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-80}"
+        "$value": "{Neutral.Gray80}"
       },
       "Quaternary": {
         "$extensions": {
@@ -2053,9 +2053,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}"
+        "$value": "{Neutral.Gray68}"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2066,9 +2066,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-90}"
+        "$value": "{Neutral.Gray90}"
       },
-      "Pure White": {
+      "PureWhite": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2083,7 +2083,7 @@
       }
     },
     "Danger": {
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2094,7 +2094,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 60}",
+        "$value": "{Shared.Cranberry.Tint60}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Default": {
@@ -2122,10 +2122,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 20}",
+        "$value": "{Shared.Cranberry.Tint20}",
         "$description": "Bg/Default/Tertiary"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2136,7 +2136,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 50}",
+        "$value": "{Shared.Cranberry.Tint50}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -2153,7 +2153,7 @@
         "$value": "{Shared.Cranberry.Primary}",
         "$description": "Bg/Default/Secondary"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2164,12 +2164,12 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Danger.On-Primary}",
+        "$value": "{State Status.Danger.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       }
     },
     "Utilities": {
-      "Read-Only": {
+      "ReadOnly": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2180,10 +2180,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.Read-Only}",
+        "$value": "{Brand Color.ReadOnly}",
         "$description": "Bg/Utilities/Scrim"
       },
-      "Component Border": {
+      "ComponentBorder": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2191,9 +2191,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Component Border}"
+        "$value": "{Utilities.ComponentBorder}"
       },
-      "Rate-Star Yellow": {
+      "RateStarYellow": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2201,9 +2201,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Rate-Star Yellow}"
+        "$value": "{Utilities.RateStarYellow}"
       },
-      "Rate-Star": {
+      "RateStar": {
         "$extensions": {
           "com.figma.scopes": [
             "STROKE_COLOR"
@@ -2211,7 +2211,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Rate-Star}"
+        "$value": "{Utilities.RateStar}"
       }
     }
   },
@@ -2231,7 +2231,7 @@
         "$type": "color",
         "$value": "{Brand Color.Primary}"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2243,7 +2243,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Primary}"
+        "$value": "{Brand Color.OnPrimary}"
       },
       "Secondary": {
         "$extensions": {
@@ -2259,7 +2259,7 @@
         "$type": "color",
         "$value": "{Brand Color.Secondary}"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2271,7 +2271,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Secondary}"
+        "$value": "{Brand Color.OnSecondary}"
       },
       "Tertiary": {
         "$extensions": {
@@ -2287,7 +2287,7 @@
         "$type": "color",
         "$value": "{Brand Color.Tertiary}"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2299,7 +2299,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.On-Tertiary}"
+        "$value": "{Brand Color.OnTertiary}"
       }
     },
     "Warning": {
@@ -2318,7 +2318,7 @@
         "$value": "{State Status.Warning.Primary}",
         "$description": "Bg/Default/Default"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2330,10 +2330,10 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Warning.On-Primary}",
+        "$value": "{State Status.Warning.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2345,7 +2345,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Marigold.Tint 40}",
+        "$value": "{Shared.Marigold.Tint40}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Tertiary": {
@@ -2360,10 +2360,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Gold.Tint 30}",
+        "$value": "{Shared.Gold.Tint30}",
         "$description": "Bg/Default/Tertiary"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2375,7 +2375,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Gold.Tint 20}",
+        "$value": "{Shared.Gold.Tint20}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -2407,10 +2407,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}",
+        "$value": "{Neutral.Gray68}",
         "$description": "Bg/Default/Default"
       },
-      "On Disabled": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2422,10 +2422,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}",
+        "$value": "{Neutral.Gray68}",
         "$description": "Bg/Default/Secondary"
       },
-      "Tertiary Hover": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2437,7 +2437,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}",
+        "$value": "{Neutral.Gray38}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Tertiary": {
@@ -2452,10 +2452,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}",
+        "$value": "{Neutral.Gray38}",
         "$description": "Bg/Default/Tertiary"
       },
-      "Secondary Hover": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2467,7 +2467,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-24}",
+        "$value": "{Neutral.Gray24}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -2482,12 +2482,12 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-28}",
+        "$value": "{Neutral.Gray28}",
         "$description": "Bg/Default/Secondary"
       }
     },
     "Success": {
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2499,10 +2499,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 30}",
+        "$value": "{Shared.Teal.Tint30}",
         "$description": "Bg/Default/Tertiary Hover"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2514,7 +2514,7 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Success.On-Primary}",
+        "$value": "{State Status.Success.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       },
       "Tertiary": {
@@ -2529,10 +2529,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 20}",
+        "$value": "{Shared.Teal.Tint20}",
         "$description": "Bg/Default/Tertiary"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2544,7 +2544,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Teal.Tint 10}",
+        "$value": "{Shared.Teal.Tint10}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -2591,9 +2591,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-38}"
+        "$value": "{Neutral.Gray38}"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2605,7 +2605,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-36}"
+        "$value": "{Neutral.Gray36}"
       },
       "Tertiary": {
         "$extensions": {
@@ -2619,9 +2619,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-26}"
+        "$value": "{Neutral.Gray26}"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2633,7 +2633,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-24}"
+        "$value": "{Neutral.Gray24}"
       },
       "Secondary": {
         "$extensions": {
@@ -2647,9 +2647,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-12}"
+        "$value": "{Neutral.Gray12}"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2661,9 +2661,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-10}"
+        "$value": "{Neutral.Gray10}"
       },
-      "On Quaternary": {
+      "OnQuaternary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2675,9 +2675,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-50}"
+        "$value": "{Neutral.Gray50}"
       },
-      "Pure Black": {
+      "PureBlack": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2693,7 +2693,7 @@
       }
     },
     "Neutral": {
-      "On Quaternary": {
+      "OnQuaternary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2705,9 +2705,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-60}"
+        "$value": "{Neutral.Gray60}"
       },
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2719,7 +2719,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-70}"
+        "$value": "{Neutral.Gray70}"
       },
       "Secondary": {
         "$extensions": {
@@ -2733,7 +2733,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-88}"
+        "$value": "{Neutral.Gray88}"
       },
       "Tertiary": {
         "$extensions": {
@@ -2747,9 +2747,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-78}"
+        "$value": "{Neutral.Gray78}"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2761,7 +2761,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-80}"
+        "$value": "{Neutral.Gray80}"
       },
       "Quaternary": {
         "$extensions": {
@@ -2775,9 +2775,9 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-68}"
+        "$value": "{Neutral.Gray68}"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2789,7 +2789,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Neutral.Gray-90}"
+        "$value": "{Neutral.Gray90}"
       },
       "Pure White": {
         "$extensions": {
@@ -2807,7 +2807,7 @@
       }
     },
     "Danger": {
-      "On Tertiary": {
+      "OnTertiary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2819,7 +2819,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 60}",
+        "$value": "{Shared.Cranberry.Tint60}",
         "$description": "Bg/Default/Tertiary Hover"
       },
       "Default": {
@@ -2849,10 +2849,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 20}",
+        "$value": "{Shared.Cranberry.Tint20}",
         "$description": "Bg/Default/Tertiary"
       },
-      "On Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2864,7 +2864,7 @@
           }
         },
         "$type": "color",
-        "$value": "{Shared.Cranberry.Tint 50}",
+        "$value": "{Shared.Cranberry.Tint50}",
         "$description": "Bg/Default/Secondary Hover"
       },
       "Secondary": {
@@ -2882,7 +2882,7 @@
         "$value": "{Shared.Cranberry.Primary}",
         "$description": "Bg/Default/Secondary"
       },
-      "On Default": {
+      "OnDefault": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2894,12 +2894,12 @@
           }
         },
         "$type": "color",
-        "$value": "{State Status.Danger.On-Primary}",
+        "$value": "{State Status.Danger.OnPrimary}",
         "$description": "Bg/Default/Default Hover"
       }
     },
     "Utilities": {
-      "Read-Only": {
+      "ReadOnly": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2911,10 +2911,10 @@
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.Read-Only}",
+        "$value": "{Brand Color.ReadOnly}",
         "$description": "Bg/Utilities/Scrim"
       },
-      "Disabled Background": {
+      "DisabledBackground": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2923,9 +2923,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Disabled Background}"
+        "$value": "{Utilities.DisabledBackground}"
       },
-      "Rate-Star Yellow": {
+      "RateStar Yellow": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2934,9 +2934,9 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Rate-Star Yellow}"
+        "$value": "{Utilities.RateStarYellow}"
       },
-      "Rate-Star": {
+      "RateStar": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
@@ -2945,7 +2945,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "color",
-        "$value": "{Utilities.Rate-Star}"
+        "$value": "{Utilities.RateStar}"
       }
     }
   }

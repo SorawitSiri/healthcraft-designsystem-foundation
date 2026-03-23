@@ -21,21 +21,21 @@
       "$type": "color",
       "$value": "#000aa4"
     },
-    "On-Primary": {
+    "OnPrimary": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#000a82"
     },
-    "On-Secondary": {
+    "OnSecondary": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#367cf8"
     },
-    "On-Tertiary": {
+    "OnTertiary": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
@@ -49,14 +49,14 @@
       "$type": "color",
       "$value": "#cde3ff"
     },
-    "On-Quaternary": {
+    "OnQuaternary": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#e3efff"
     },
-    "Read-Only": {
+    "ReadOnly": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
@@ -73,7 +73,7 @@
         "$type": "color",
         "$value": "#2c2c2c"
       },
-      "On-Primary": {
+      "OnPrimary": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
@@ -87,7 +87,7 @@
         "$type": "color",
         "$value": "#f5f5f5"
       },
-      "On-Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
@@ -102,7 +102,7 @@
       "$type": "color",
       "$value": "#0c5ff3"
     },
-    "On-Secondary": {
+    "OnSecondary": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
@@ -116,7 +116,7 @@
       "$type": "color",
       "$value": "#0082fb"
     },
-    "On-Tertiary": {
+    "OnTertiary": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
@@ -130,7 +130,7 @@
       "$type": "color",
       "$value": "#cde3ff"
     },
-    "On-Quaternary": {
+    "OnQuaternary": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
@@ -145,7 +145,7 @@
         "$type": "color",
         "$value": "#f01328"
       },
-      "On-Primary": {
+      "OnPrimary": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
@@ -159,7 +159,7 @@
         "$type": "color",
         "$value": "#fdd3d0"
       },
-      "On-Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
@@ -175,7 +175,7 @@
         "$type": "color",
         "$value": "#19bb57"
       },
-      "On-Primary": {
+      "OnPrimary": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
@@ -189,7 +189,7 @@
         "$type": "color",
         "$value": "#cff7d3"
       },
-      "On-Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
@@ -205,7 +205,7 @@
         "$type": "color",
         "$value": "#e8b931"
       },
-      "On-Primary": {
+      "OnPrimary": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
@@ -219,7 +219,7 @@
         "$type": "color",
         "$value": "#fff1c2"
       },
-      "On-Secondary": {
+      "OnSecondary": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },

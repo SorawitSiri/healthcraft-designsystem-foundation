@@ -1,7 +1,7 @@
 {
   "Baseline": {
     "Display 1": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -23,7 +23,7 @@
         "$type": "number",
         "$value": "{Typography.Tracking.None}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -33,7 +33,7 @@
         "$type": "number",
         "$value": "{Typography.Line Height.700}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -45,7 +45,7 @@
       }
     },
     "Display 2": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -67,7 +67,7 @@
         "$type": "number",
         "$value": "{Typography.Tracking.None}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -77,7 +77,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.520}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -89,7 +89,7 @@
       }
     },
     "Display 3": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -99,7 +99,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -109,7 +109,7 @@
         "$type": "number",
         "$value": "{Typography.Line Height.540}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -133,7 +133,7 @@
       }
     },
     "Display 4": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -143,7 +143,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -153,7 +153,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.400}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -177,7 +177,7 @@
       }
     },
     "H1": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -187,7 +187,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -197,7 +197,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.360}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -221,7 +221,7 @@
       }
     },
     "H2": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -231,7 +231,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -241,7 +241,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.320}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -265,7 +265,7 @@
       }
     },
     "H3": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -275,7 +275,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -285,7 +285,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.280}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -309,7 +309,7 @@
       }
     },
     "H4": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -319,7 +319,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -329,7 +329,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.250}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -353,7 +353,7 @@
       }
     },
     "H5": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -363,7 +363,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -373,7 +373,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.220}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -397,7 +397,7 @@
       }
     },
     "H6": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -407,7 +407,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -417,7 +417,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.200}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -441,7 +441,7 @@
       }
     },
     "Title": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -451,7 +451,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -461,7 +461,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.180}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -485,7 +485,7 @@
       }
     },
     "Subtitle": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -495,7 +495,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -505,7 +505,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.160}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -529,7 +529,7 @@
       }
     },
     "Label-lg": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -539,7 +539,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -549,7 +549,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.140}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -573,7 +573,7 @@
       }
     },
     "Label-md": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -583,7 +583,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -593,7 +593,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.120}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -617,7 +617,7 @@
       }
     },
     "Label-sm": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -627,7 +627,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -637,7 +637,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.110}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -661,7 +661,7 @@
       }
     },
     "Paragraph": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -671,7 +671,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -681,7 +681,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.100}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -705,7 +705,7 @@
       }
     },
     "Caption-lg": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -715,7 +715,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -725,7 +725,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.90}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -749,7 +749,7 @@
       }
     },
     "Caption-md": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -759,7 +759,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -769,7 +769,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.80}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -793,7 +793,7 @@
       }
     },
     "Caption-sm": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -803,7 +803,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -813,7 +813,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.70}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"
@@ -837,7 +837,7 @@
       }
     },
     "Caption-xs": {
-      "Font-Family": {
+      "FontFamily": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_FAMILY"
@@ -847,7 +847,7 @@
         "$type": "text",
         "$value": "{Typography.Font Family.Plain}"
       },
-      "Font-Size": {
+      "FontSize": {
         "$extensions": {
           "com.figma.scopes": [
             "FONT_SIZE"
@@ -857,7 +857,7 @@
         "$type": "number",
         "$value": "{Typography.Font Size.60}"
       },
-      "Line-Height": {
+      "LineHeight": {
         "$extensions": {
           "com.figma.scopes": [
             "LINE_HEIGHT"

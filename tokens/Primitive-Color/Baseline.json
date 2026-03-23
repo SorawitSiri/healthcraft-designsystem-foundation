@@ -8,7 +8,7 @@
       "$value": "#000000",
       "$description": "#000000"
     },
-    "Gray-2": {
+    "Gray2": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -16,7 +16,7 @@
       "$value": "#050505",
       "$description": "#050505"
     },
-    "Gray-4": {
+    "Gray4": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -24,7 +24,7 @@
       "$value": "#0a0a0a",
       "$description": "#0A0A0A"
     },
-    "Gray-6": {
+    "Gray6": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -32,7 +32,7 @@
       "$value": "#0f0f0f",
       "$description": "#0F0F0F"
     },
-    "Gray-8": {
+    "Gray8": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -40,7 +40,7 @@
       "$value": "#141414",
       "$description": "#141414"
     },
-    "Gray-10": {
+    "Gray10": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -48,7 +48,7 @@
       "$value": "#1a1a1a",
       "$description": "#1A1A1A"
     },
-    "Gray-12": {
+    "Gray12": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -56,7 +56,7 @@
       "$value": "#1f1f1f",
       "$description": "#1F1F1F"
     },
-    "Gray-14": {
+    "Gray14": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -64,7 +64,7 @@
       "$value": "#242424",
       "$description": "#242424"
     },
-    "Gray-16": {
+    "Gray16": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -72,7 +72,7 @@
       "$value": "#292929",
       "$description": "#292929"
     },
-    "Gray-18": {
+    "Gray18": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -80,7 +80,7 @@
       "$value": "#2e2e2e",
       "$description": "#2E2E2E"
     },
-    "Gray-20": {
+    "Gray20": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -88,7 +88,7 @@
       "$value": "#333333",
       "$description": "#333333"
     },
-    "Gray-22": {
+    "Gray22": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -96,7 +96,7 @@
       "$value": "#383838",
       "$description": "#383838"
     },
-    "Gray-24": {
+    "Gray24": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -104,7 +104,7 @@
       "$value": "#3d3d3d",
       "$description": "#3D3D3D"
     },
-    "Gray-26": {
+    "Gray26": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -112,7 +112,7 @@
       "$value": "#424242",
       "$description": "#424242"
     },
-    "Gray-28": {
+    "Gray28": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -120,7 +120,7 @@
       "$value": "#474747",
       "$description": "#474747"
     },
-    "Gray-30": {
+    "Gray30": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -128,7 +128,7 @@
       "$value": "#4d4d4d",
       "$description": "#4D4D4D"
     },
-    "Gray-32": {
+    "Gray32": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -136,7 +136,7 @@
       "$value": "#525252",
       "$description": "#525252"
     },
-    "Gray-34": {
+    "Gray34": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -144,7 +144,7 @@
       "$value": "#575757",
       "$description": "#575757"
     },
-    "Gray-36": {
+    "Gray36": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -152,7 +152,7 @@
       "$value": "#5c5c5c",
       "$description": "#5C5C5C"
     },
-    "Gray-38": {
+    "Gray38": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -160,7 +160,7 @@
       "$value": "#616161",
       "$description": "#616161"
     },
-    "Gray-40": {
+    "Gray40": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -168,7 +168,7 @@
       "$value": "#666666",
       "$description": "#666666"
     },
-    "Gray-42": {
+    "Gray42": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -176,7 +176,7 @@
       "$value": "#6b6b6b",
       "$description": "#6B6B6B"
     },
-    "Gray-44": {
+    "Gray44": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -184,7 +184,7 @@
       "$value": "#707070",
       "$description": "#707070"
     },
-    "Gray-46": {
+    "Gray46": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -192,7 +192,7 @@
       "$value": "#757575",
       "$description": "#757575"
     },
-    "Gray-48": {
+    "Gray48": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -200,7 +200,7 @@
       "$value": "#7a7a7a",
       "$description": "#7A7A7A"
     },
-    "Gray-50": {
+    "Gray50": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -208,7 +208,7 @@
       "$value": "#808080",
       "$description": "#808080"
     },
-    "Gray-52": {
+    "Gray52": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -216,7 +216,7 @@
       "$value": "#858585",
       "$description": "#858585"
     },
-    "Gray-54": {
+    "Gray54": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -224,7 +224,7 @@
       "$value": "#8a8a8a",
       "$description": "#8A8A8A"
     },
-    "Gray-56": {
+    "Gray56": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -232,7 +232,7 @@
       "$value": "#8f8f8f",
       "$description": "#8F8F8F"
     },
-    "Gray-58": {
+    "Gray58": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -240,7 +240,7 @@
       "$value": "#949494",
       "$description": "#949494"
     },
-    "Gray-60": {
+    "Gray60": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -248,7 +248,7 @@
       "$value": "#999999",
       "$description": "#999999"
     },
-    "Gray-62": {
+    "Gray62": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -256,7 +256,7 @@
       "$value": "#9e9e9e",
       "$description": "#9E9E9E"
     },
-    "Gray-64": {
+    "Gray64": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -264,7 +264,7 @@
       "$value": "#a3a3a3",
       "$description": "#A3A3A3"
     },
-    "Gray-66": {
+    "Gray66": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -272,7 +272,7 @@
       "$value": "#a8a8a8",
       "$description": "#A8A8A8"
     },
-    "Gray-68": {
+    "Gray68": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -280,7 +280,7 @@
       "$value": "#adadad",
       "$description": "#ADADAD"
     },
-    "Gray-70": {
+    "Gray70": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -288,7 +288,7 @@
       "$value": "#b3b3b3",
       "$description": "#B3B3B3"
     },
-    "Gray-72": {
+    "Gray72": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -296,7 +296,7 @@
       "$value": "#b8b8b8",
       "$description": "#B8B8B8"
     },
-    "Gray-74": {
+    "Gray74": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -304,7 +304,7 @@
       "$value": "#bdbdbd",
       "$description": "#BDBDBD"
     },
-    "Gray-76": {
+    "Gray76": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -312,7 +312,7 @@
       "$value": "#c2c2c2",
       "$description": "#C2C2C2"
     },
-    "Gray-78": {
+    "Gray78": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -320,7 +320,7 @@
       "$value": "#c7c7c7",
       "$description": "#C7C7C7"
     },
-    "Gray-80": {
+    "Gray80": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -328,7 +328,7 @@
       "$value": "#cccccc",
       "$description": "#CCCCCC"
     },
-    "Gray-82": {
+    "Gray82": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -336,7 +336,7 @@
       "$value": "#d1d1d1",
       "$description": "#D1D1D1"
     },
-    "Gray-84": {
+    "Gray84": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -344,7 +344,7 @@
       "$value": "#d6d6d6",
       "$description": "#D6D6D6"
     },
-    "Gray-86": {
+    "Gray86": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -352,7 +352,7 @@
       "$value": "#dbdbdb",
       "$description": "#DBDBDB"
     },
-    "Gray-88": {
+    "Gray88": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -360,7 +360,7 @@
       "$value": "#e0e0e0",
       "$description": "#E0E0E0"
     },
-    "Gray-90": {
+    "Gray90": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -368,7 +368,7 @@
       "$value": "#e6e6e6",
       "$description": "#E6E6E6"
     },
-    "Gray-92": {
+    "Gray92": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -376,7 +376,7 @@
       "$value": "#ebebeb",
       "$description": "#EBEBEB"
     },
-    "Gray-94": {
+    "Gray94": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -384,7 +384,7 @@
       "$value": "#f0f0f0",
       "$description": "#F0F0F0"
     },
-    "Gray-96": {
+    "Gray96": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -392,7 +392,7 @@
       "$value": "#f5f5f5",
       "$description": "#F5F5F5"
     },
-    "Gray-98": {
+    "Gray98": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": true
       },
@@ -410,8 +410,8 @@
     }
   },
   "Shared": {
-    "Dark red": {
-      "Shade 50": {
+    "DarkRed": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -419,7 +419,7 @@
         "$value": "#130204",
         "$description": "#130204"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -427,7 +427,7 @@
         "$value": "#230308",
         "$description": "#230308"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -435,7 +435,7 @@
         "$value": "#420610",
         "$description": "#420610"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -443,7 +443,7 @@
         "$value": "#590815",
         "$description": "#590815"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -459,7 +459,7 @@
         "$value": "#750b1c",
         "$description": "#750B1C"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -467,7 +467,7 @@
         "$value": "#861b2c",
         "$description": "#861B2C"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -475,7 +475,7 @@
         "$value": "#962f3f",
         "$description": "#962F3F"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -483,7 +483,7 @@
         "$value": "#ac4f5e",
         "$description": "#AC4F5E"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -491,7 +491,7 @@
         "$value": "#d69ca5",
         "$description": "#D69CA5"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -499,7 +499,7 @@
         "$value": "#e9c7cd",
         "$description": "#E9C7CD"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -509,7 +509,7 @@
       }
     },
     "Burgundy": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -517,7 +517,7 @@
         "$value": "#1a0607",
         "$description": "#1A0607"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -525,7 +525,7 @@
         "$value": "#310b0d",
         "$description": "#310B0D"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -533,7 +533,7 @@
         "$value": "#5c1519",
         "$description": "#5C1519"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -541,7 +541,7 @@
         "$value": "#7d1d21",
         "$description": "#7D1D21"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -557,7 +557,7 @@
         "$value": "#a4262c",
         "$description": "#A4262C"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -565,7 +565,7 @@
         "$value": "#af393e",
         "$description": "#AF393E"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -573,7 +573,7 @@
         "$value": "#ba4d52",
         "$description": "#BA4D52"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -581,7 +581,7 @@
         "$value": "#c86c70",
         "$description": "#C86C70"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -589,7 +589,7 @@
         "$value": "#e4afb2",
         "$description": "#E4AFB2"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -597,7 +597,7 @@
         "$value": "#f0d3d4",
         "$description": "#F0D3D4"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -607,7 +607,7 @@
       }
     },
     "Cranberry": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -615,7 +615,7 @@
         "$value": "#200205",
         "$description": "#200205"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -623,7 +623,7 @@
         "$value": "#3b0509",
         "$description": "#3B0509"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -631,7 +631,7 @@
         "$value": "#6e0811",
         "$description": "#6E0811"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -639,7 +639,7 @@
         "$value": "#960b18",
         "$description": "#960B18"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -655,7 +655,7 @@
         "$value": "#c50f1f",
         "$description": "#C50F1F"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -663,7 +663,7 @@
         "$value": "#cc2635",
         "$description": "#CC2635"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -671,7 +671,7 @@
         "$value": "#d33f4c",
         "$description": "#D33F4C"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -679,7 +679,7 @@
         "$value": "#dc626d",
         "$description": "#DC626D"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -687,7 +687,7 @@
         "$value": "#eeacb2",
         "$description": "#EEACB2"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -695,7 +695,7 @@
         "$value": "#f6d1d5",
         "$description": "#F6D1D5"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -705,7 +705,7 @@
       }
     },
     "Red": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -713,7 +713,7 @@
         "$value": "#210809",
         "$description": "#210809"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -721,7 +721,7 @@
         "$value": "#2c0b0e",
         "$description": "#3F1011"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -729,7 +729,7 @@
         "$value": "#58151c",
         "$description": "#751D1F"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -737,7 +737,7 @@
         "$value": "#842029",
         "$description": "#9F282B"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -753,7 +753,7 @@
         "$value": "#e71226",
         "$description": "#D13438"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -761,7 +761,7 @@
         "$value": "#e35d6a",
         "$description": "#D7494C"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -769,7 +769,7 @@
         "$value": "#ea868f",
         "$description": "#DC5E62"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -777,7 +777,7 @@
         "$value": "#f1aeb5",
         "$description": "#E37D80"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -785,7 +785,7 @@
         "$value": "#f8d7da",
         "$description": "#F1BBBC"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -793,7 +793,7 @@
         "$value": "#f8dadb",
         "$description": "#F8DADB"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -802,8 +802,8 @@
         "$description": "#FDF6F6"
       }
     },
-    "Dark orange": {
-      "Shade 50": {
+    "DarkOrange": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -811,7 +811,7 @@
         "$value": "#230900",
         "$description": "#230900"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -819,7 +819,7 @@
         "$value": "#411200",
         "$description": "#411200"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -827,7 +827,7 @@
         "$value": "#7a2101",
         "$description": "#7A2101"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -835,7 +835,7 @@
         "$value": "#a62d01",
         "$description": "#A62D01"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -851,7 +851,7 @@
         "$value": "#da3b01",
         "$description": "#DA3B01"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -859,7 +859,7 @@
         "$value": "#de501c",
         "$description": "#DE501C"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -867,7 +867,7 @@
         "$value": "#e36537",
         "$description": "#E36537"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -875,7 +875,7 @@
         "$value": "#e9835e",
         "$description": "#E9835E"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -883,7 +883,7 @@
         "$value": "#f4bfab",
         "$description": "#F4BFAB"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -891,7 +891,7 @@
         "$value": "#f9dcd1",
         "$description": "#F9DCD1"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -901,7 +901,7 @@
       }
     },
     "Bronze": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -909,7 +909,7 @@
         "$value": "#1b0a01",
         "$description": "#1B0A01"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -917,7 +917,7 @@
         "$value": "#321303",
         "$description": "#321303"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -925,7 +925,7 @@
         "$value": "#5e2405",
         "$description": "#5E2405"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -933,7 +933,7 @@
         "$value": "#7f3107",
         "$description": "#7F3107"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -949,7 +949,7 @@
         "$value": "#a74109",
         "$description": "#A74109"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -957,7 +957,7 @@
         "$value": "#b2521e",
         "$description": "#B2521E"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -965,7 +965,7 @@
         "$value": "#bc6535",
         "$description": "#BC6535"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -973,7 +973,7 @@
         "$value": "#ca8057",
         "$description": "#CA8057"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -981,7 +981,7 @@
         "$value": "#e5bba4",
         "$description": "#E5BBA4"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -989,7 +989,7 @@
         "$value": "#f1d9cc",
         "$description": "#F1D9CC"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -999,7 +999,7 @@
       }
     },
     "Pumpkin": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1007,7 +1007,7 @@
         "$value": "#200d03",
         "$description": "#200D03"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1015,7 +1015,7 @@
         "$value": "#3d1805",
         "$description": "#3D1805"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1023,7 +1023,7 @@
         "$value": "#712d09",
         "$description": "#712D09"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1031,7 +1031,7 @@
         "$value": "#9a3d0c",
         "$description": "#9A3D0C"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1047,7 +1047,7 @@
         "$value": "#ca5010",
         "$description": "#CA5010"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1055,7 +1055,7 @@
         "$value": "#d06228",
         "$description": "#D06228"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1063,7 +1063,7 @@
         "$value": "#d77440",
         "$description": "#D77440"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1071,7 +1071,7 @@
         "$value": "#df8e64",
         "$description": "#DF8E64"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1079,7 +1079,7 @@
         "$value": "#efc4ad",
         "$description": "#EFC4AD"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1087,7 +1087,7 @@
         "$value": "#f7dfd2",
         "$description": "#F7DFD2"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1097,7 +1097,7 @@
       }
     },
     "Orange": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1105,7 +1105,7 @@
         "$value": "#271002",
         "$description": "#271002"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1113,7 +1113,7 @@
         "$value": "#331904",
         "$description": "#4A1E04"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1121,7 +1121,7 @@
         "$value": "#653208",
         "$description": "#8A3707"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1129,7 +1129,7 @@
         "$value": "#984c0c",
         "$description": "#BC4B09"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1145,7 +1145,7 @@
         "$value": "#fd7e14",
         "$description": "#F7630C"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1153,7 +1153,7 @@
         "$value": "#fd9843",
         "$description": "#F87528"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1161,7 +1161,7 @@
         "$value": "#feb272",
         "$description": "#F98845"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1169,7 +1169,7 @@
         "$value": "#fecba1",
         "$description": "#FAA06B"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1177,7 +1177,7 @@
         "$value": "#ffe5d0",
         "$description": "#FDCFB4"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1185,7 +1185,7 @@
         "$value": "#fff1e7",
         "$description": "#FEE5D7"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1195,7 +1195,7 @@
       }
     },
     "Peach": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1203,7 +1203,7 @@
         "$value": "#291600",
         "$description": "#291600"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1211,7 +1211,7 @@
         "$value": "#4d2a00",
         "$description": "#4D2A00"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1219,7 +1219,7 @@
         "$value": "#8f4e00",
         "$description": "#8F4E00"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1227,7 +1227,7 @@
         "$value": "#c26a00",
         "$description": "#C26A00"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1243,7 +1243,7 @@
         "$value": "#ff8c00",
         "$description": "#FF8C00"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1251,7 +1251,7 @@
         "$value": "#ff9a1f",
         "$description": "#FF9A1F"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1259,7 +1259,7 @@
         "$value": "#ffa83d",
         "$description": "#FFA83D"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1267,7 +1267,7 @@
         "$value": "#ffba66",
         "$description": "#FFBA66"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1275,7 +1275,7 @@
         "$value": "#ffddb3",
         "$description": "#FFDDB3"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1283,7 +1283,7 @@
         "$value": "#ffedd6",
         "$description": "#FFEDD6"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1293,7 +1293,7 @@
       }
     },
     "Marigold": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1301,7 +1301,7 @@
         "$value": "#251a00",
         "$description": "#251A00"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1309,7 +1309,7 @@
         "$value": "#463100",
         "$description": "#463100"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1317,7 +1317,7 @@
         "$value": "#835b00",
         "$description": "#835B00"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1325,7 +1325,7 @@
         "$value": "#b27c00",
         "$description": "#B27C00"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1341,7 +1341,7 @@
         "$value": "#eaa300",
         "$description": "#EAA300"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1349,7 +1349,7 @@
         "$value": "#edad1c",
         "$description": "#EDAD1C"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1357,7 +1357,7 @@
         "$value": "#efb839",
         "$description": "#EFB839"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1365,7 +1365,7 @@
         "$value": "#f2c661",
         "$description": "#F2C661"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1373,7 +1373,7 @@
         "$value": "#f9e2ae",
         "$description": "#F9E2AE"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1381,7 +1381,7 @@
         "$value": "#fcefd3",
         "$description": "#FCEFD3"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1391,7 +1391,7 @@
       }
     },
     "Yellow": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1399,7 +1399,7 @@
         "$value": "#282400",
         "$description": "#282400"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1407,7 +1407,7 @@
         "$value": "#4c4400",
         "$description": "#4C4400"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1415,7 +1415,7 @@
         "$value": "#817400",
         "$description": "#817400"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1423,7 +1423,7 @@
         "$value": "#c0ad00",
         "$description": "#C0AD00"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1439,7 +1439,7 @@
         "$value": "#fde300",
         "$description": "#FDE300"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1447,7 +1447,7 @@
         "$value": "#fde61e",
         "$description": "#FDE61E"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1455,7 +1455,7 @@
         "$value": "#fdea3d",
         "$description": "#FDEA3D"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1463,7 +1463,7 @@
         "$value": "#feee66",
         "$description": "#FEEE66"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1471,7 +1471,7 @@
         "$value": "#fef7b2",
         "$description": "#FEF7B2"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1479,7 +1479,7 @@
         "$value": "#fffad6",
         "$description": "#FFFAD6"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1489,7 +1489,7 @@
       }
     },
     "Gold": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1497,7 +1497,7 @@
         "$value": "#1f1900",
         "$description": "#1F1900"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1505,7 +1505,7 @@
         "$value": "#332701",
         "$description": "#3A2F00"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1513,7 +1513,7 @@
         "$value": "#664d03",
         "$description": "#6C5700"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1521,7 +1521,7 @@
         "$value": "#997404",
         "$description": "#937700"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1537,7 +1537,7 @@
         "$value": "#ffc107",
         "$description": "#C19C00"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1545,7 +1545,7 @@
         "$value": "#ffcd39",
         "$description": "#C8A718"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1553,7 +1553,7 @@
         "$value": "#ffda6a",
         "$description": "#D0B232"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1561,7 +1561,7 @@
         "$value": "#ffe69c",
         "$description": "#DAC157"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1569,7 +1569,7 @@
         "$value": "#ffe69c",
         "$description": "#ECDFA5"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1577,7 +1577,7 @@
         "$value": "#fff3cd",
         "$description": "#F5EECE"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1587,7 +1587,7 @@
       }
     },
     "Brass": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1595,7 +1595,7 @@
         "$value": "#181202",
         "$description": "#181202"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1603,7 +1603,7 @@
         "$value": "#2e2103",
         "$description": "#2E2103"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1611,7 +1611,7 @@
         "$value": "#553e06",
         "$description": "#553E06"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1619,7 +1619,7 @@
         "$value": "#745408",
         "$description": "#745408"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1635,7 +1635,7 @@
         "$value": "#986f0b",
         "$description": "#986F0B"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1643,7 +1643,7 @@
         "$value": "#a47d1e",
         "$description": "#A47D1E"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1651,7 +1651,7 @@
         "$value": "#b18c34",
         "$description": "#B18C34"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1659,7 +1659,7 @@
         "$value": "#c1a256",
         "$description": "#C1A256"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1667,7 +1667,7 @@
         "$value": "#e0cea2",
         "$description": "#E0CEA2"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1675,7 +1675,7 @@
         "$value": "#efe4cb",
         "$description": "#EFE4CB"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1685,7 +1685,7 @@
       }
     },
     "Brown": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1693,7 +1693,7 @@
         "$value": "#170e07",
         "$description": "#170E07"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1701,7 +1701,7 @@
         "$value": "#2b1a0e",
         "$description": "#2B1A0E"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1709,7 +1709,7 @@
         "$value": "#50301a",
         "$description": "#50301A"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1717,7 +1717,7 @@
         "$value": "#6c4123",
         "$description": "#6C4123"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1733,7 +1733,7 @@
         "$value": "#8e562e",
         "$description": "#8E562E"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1741,7 +1741,7 @@
         "$value": "#9c663f",
         "$description": "#9C663F"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1749,7 +1749,7 @@
         "$value": "#a97652",
         "$description": "#A97652"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1757,7 +1757,7 @@
         "$value": "#bb8f6f",
         "$description": "#BB8F6F"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1765,7 +1765,7 @@
         "$value": "#ddc3b0",
         "$description": "#DDC3B0"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1773,7 +1773,7 @@
         "$value": "#edded3",
         "$description": "#EDDED3"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1782,8 +1782,8 @@
         "$description": "#FAF7F4"
       }
     },
-    "Dark brown": {
-      "Shade 50": {
+    "DarkBrown": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1791,7 +1791,7 @@
         "$value": "#0c0704",
         "$description": "#0C0704"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1799,7 +1799,7 @@
         "$value": "#170c08",
         "$description": "#170C08"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1807,7 +1807,7 @@
         "$value": "#2b1710",
         "$description": "#2B1710"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1815,7 +1815,7 @@
         "$value": "#3a1f15",
         "$description": "#3A1F15"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1831,7 +1831,7 @@
         "$value": "#4d291c",
         "$description": "#4D291C"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1839,7 +1839,7 @@
         "$value": "#623a2b",
         "$description": "#623A2B"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1847,7 +1847,7 @@
         "$value": "#784d3e",
         "$description": "#784D3E"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1855,7 +1855,7 @@
         "$value": "#946b5c",
         "$description": "#946B5C"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1863,7 +1863,7 @@
         "$value": "#caada3",
         "$description": "#CAADA3"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1871,7 +1871,7 @@
         "$value": "#e3d2cb",
         "$description": "#E3D2CB"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1881,7 +1881,7 @@
       }
     },
     "Lime": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1889,7 +1889,7 @@
         "$value": "#121b06",
         "$description": "#121B06"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1897,7 +1897,7 @@
         "$value": "#23330b",
         "$description": "#23330B"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1905,7 +1905,7 @@
         "$value": "#405f14",
         "$description": "#405F14"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1913,7 +1913,7 @@
         "$value": "#57811b",
         "$description": "#57811B"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1929,7 +1929,7 @@
         "$value": "#73aa24",
         "$description": "#73AA24"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1937,7 +1937,7 @@
         "$value": "#81b437",
         "$description": "#81B437"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1945,7 +1945,7 @@
         "$value": "#90be4c",
         "$description": "#90BE4C"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1953,7 +1953,7 @@
         "$value": "#a4cc6c",
         "$description": "#A4CC6C"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1961,7 +1961,7 @@
         "$value": "#cfe5af",
         "$description": "#CFE5AF"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1969,7 +1969,7 @@
         "$value": "#e5f1d3",
         "$description": "#E5F1D3"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1979,7 +1979,7 @@
       }
     },
     "Forest": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1987,7 +1987,7 @@
         "$value": "#0c1501",
         "$description": "#0C1501"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -1995,7 +1995,7 @@
         "$value": "#162702",
         "$description": "#162702"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2003,7 +2003,7 @@
         "$value": "#294903",
         "$description": "#294903"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2011,7 +2011,7 @@
         "$value": "#376304",
         "$description": "#376304"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2027,7 +2027,7 @@
         "$value": "#498205",
         "$description": "#498205"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2035,7 +2035,7 @@
         "$value": "#599116",
         "$description": "#599116"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2043,7 +2043,7 @@
         "$value": "#6ba02b",
         "$description": "#6BA02B"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2051,7 +2051,7 @@
         "$value": "#85b44c",
         "$description": "#85B44C"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2059,7 +2059,7 @@
         "$value": "#bdd99b",
         "$description": "#BDD99B"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2067,7 +2067,7 @@
         "$value": "#dbebc7",
         "$description": "#DBEBC7"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2077,7 +2077,7 @@
       }
     },
     "Seafoam": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2085,7 +2085,7 @@
         "$value": "#002111",
         "$description": "#002111"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2093,7 +2093,7 @@
         "$value": "#003d20",
         "$description": "#003D20"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2101,7 +2101,7 @@
         "$value": "#00723b",
         "$description": "#00723B"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2109,7 +2109,7 @@
         "$value": "#009b51",
         "$description": "#009B51"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2125,7 +2125,7 @@
         "$value": "#00cc6a",
         "$description": "#00CC6A"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2133,7 +2133,7 @@
         "$value": "#19d279",
         "$description": "#19D279"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2141,7 +2141,7 @@
         "$value": "#34d889",
         "$description": "#34D889"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2149,7 +2149,7 @@
         "$value": "#5ae0a0",
         "$description": "#5AE0A0"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2157,7 +2157,7 @@
         "$value": "#a8f0cd",
         "$description": "#A8F0CD"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2165,7 +2165,7 @@
         "$value": "#cff7e4",
         "$description": "#CFF7E4"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2174,8 +2174,8 @@
         "$description": "#F3FDF8"
       }
     },
-    "Light green": {
-      "Shade 50": {
+    "LightGreen": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2183,7 +2183,7 @@
         "$value": "#031a02",
         "$description": "#031A02"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2191,7 +2191,7 @@
         "$value": "#063004",
         "$description": "#063004"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2199,7 +2199,7 @@
         "$value": "#0b5a08",
         "$description": "#0B5A08"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2207,7 +2207,7 @@
         "$value": "#0e7a0b",
         "$description": "#0E7A0B"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2223,7 +2223,7 @@
         "$value": "#13a10e",
         "$description": "#13A10E"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2231,7 +2231,7 @@
         "$value": "#27ac22",
         "$description": "#27AC22"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2239,7 +2239,7 @@
         "$value": "#3db838",
         "$description": "#3DB838"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2247,7 +2247,7 @@
         "$value": "#5ec75a",
         "$description": "#5EC75A"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2255,7 +2255,7 @@
         "$value": "#a7e3a5",
         "$description": "#A7E3A5"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2263,7 +2263,7 @@
         "$value": "#cef0cd",
         "$description": "#CEF0CD"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2273,7 +2273,7 @@
       }
     },
     "Green": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2281,7 +2281,7 @@
         "$value": "#031403",
         "$description": "#031403"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2289,7 +2289,7 @@
         "$value": "#052505",
         "$description": "#052505"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2297,7 +2297,7 @@
         "$value": "#094509",
         "$description": "#094509"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2305,7 +2305,7 @@
         "$value": "#0c5e0c",
         "$description": "#0C5E0C"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2321,7 +2321,7 @@
         "$value": "#107c10",
         "$description": "#107C10"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2329,7 +2329,7 @@
         "$value": "#218c21",
         "$description": "#218C21"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2337,7 +2337,7 @@
         "$value": "#359b35",
         "$description": "#359B35"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2345,7 +2345,7 @@
         "$value": "#54b054",
         "$description": "#54B054"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2353,7 +2353,7 @@
         "$value": "#9fd89f",
         "$description": "#9FD89F"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2361,7 +2361,7 @@
         "$value": "#c9eac9",
         "$description": "#C9EAC9"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2370,8 +2370,8 @@
         "$description": "#F1FAF1"
       }
     },
-    "Dark green": {
-      "Shade 50": {
+    "DarkGreen": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2379,7 +2379,7 @@
         "$value": "#021102",
         "$description": "#021102"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2387,7 +2387,7 @@
         "$value": "#051b11",
         "$description": "#032003"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2395,7 +2395,7 @@
         "$value": "#0a3622",
         "$description": "#063B06"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2403,7 +2403,7 @@
         "$value": "#0f5132",
         "$description": "#085108"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2419,7 +2419,7 @@
         "$value": "#198754",
         "$description": "#0B6A0B"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2427,7 +2427,7 @@
         "$value": "#479f76",
         "$description": "#1A7C1A"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2435,7 +2435,7 @@
         "$value": "#75b798",
         "$description": "#2D8E2D"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2443,7 +2443,7 @@
         "$value": "#a3cfbb",
         "$description": "#4DA64D"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2451,7 +2451,7 @@
         "$value": "#d1e7dd",
         "$description": "#9AD29A"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2459,7 +2459,7 @@
         "$value": "#e1ede8",
         "$description": "#C6E7C6"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2468,8 +2468,8 @@
         "$description": "#F0F9F0"
       }
     },
-    "Light teal": {
-      "Shade 50": {
+    "LightTeal": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2477,7 +2477,7 @@
         "$value": "#001d1f",
         "$description": "#001D1F"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2485,7 +2485,7 @@
         "$value": "#00373a",
         "$description": "#00373A"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2493,7 +2493,7 @@
         "$value": "#00666d",
         "$description": "#00666D"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2501,7 +2501,7 @@
         "$value": "#008b94",
         "$description": "#008B94"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2517,7 +2517,7 @@
         "$value": "#00b7c3",
         "$description": "#00B7C3"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2525,7 +2525,7 @@
         "$value": "#18bfca",
         "$description": "#18BFCA"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2533,7 +2533,7 @@
         "$value": "#32c8d1",
         "$description": "#32C8D1"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2541,7 +2541,7 @@
         "$value": "#58d3db",
         "$description": "#58D3DB"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2549,7 +2549,7 @@
         "$value": "#a6e9ed",
         "$description": "#A6E9ED"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2557,7 +2557,7 @@
         "$value": "#cef3f5",
         "$description": "#CEF3F5"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2567,7 +2567,7 @@
       }
     },
     "Teal": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2575,7 +2575,7 @@
         "$value": "#06281e",
         "$description": "#001516"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2583,7 +2583,7 @@
         "$value": "#0d503c",
         "$description": "#012728"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2591,7 +2591,7 @@
         "$value": "#13795b",
         "$description": "#02494C"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2599,7 +2599,7 @@
         "$value": "#1aa179",
         "$description": "#026467"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2615,7 +2615,7 @@
         "$value": "#20c997",
         "$description": "#038387"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2623,7 +2623,7 @@
         "$value": "#4dd4ac",
         "$description": "#159195"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2631,7 +2631,7 @@
         "$value": "#79dfc1",
         "$description": "#2AA0A4"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2639,7 +2639,7 @@
         "$value": "#a6e9d5",
         "$description": "#4CB4B7"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2647,7 +2647,7 @@
         "$value": "#d2f4ea",
         "$description": "#9BD9DB"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2655,7 +2655,7 @@
         "$value": "#daf3eb",
         "$description": "#C7EBEC"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2665,7 +2665,7 @@
       }
     },
     "Dark teal": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2673,7 +2673,7 @@
         "$value": "#001010",
         "$description": "#001010"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2681,7 +2681,7 @@
         "$value": "#001f1f",
         "$description": "#001F1F"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2689,7 +2689,7 @@
         "$value": "#003939",
         "$description": "#003939"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2697,7 +2697,7 @@
         "$value": "#004e4e",
         "$description": "#004E4E"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2713,7 +2713,7 @@
         "$value": "#006666",
         "$description": "#006666"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2721,7 +2721,7 @@
         "$value": "#0e7878",
         "$description": "#0E7878"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2729,7 +2729,7 @@
         "$value": "#218b8b",
         "$description": "#218B8B"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2737,7 +2737,7 @@
         "$value": "#41a3a3",
         "$description": "#41A3A3"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2745,7 +2745,7 @@
         "$value": "#92d1d1",
         "$description": "#92D1D1"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2753,7 +2753,7 @@
         "$value": "#c2e7e7",
         "$description": "#C2E7E7"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2763,7 +2763,7 @@
       }
     },
     "Cyan": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2771,7 +2771,7 @@
         "$value": "#00181e",
         "$description": "#00181E"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2779,7 +2779,7 @@
         "$value": "#032830",
         "$description": "#002E38"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2787,7 +2787,7 @@
         "$value": "#055160",
         "$description": "#005669"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2795,7 +2795,7 @@
         "$value": "#087990",
         "$description": "#00748F"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2811,7 +2811,7 @@
         "$value": "#0dcaf0",
         "$description": "#0099BC"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2819,7 +2819,7 @@
         "$value": "#3dd5f3",
         "$description": "#18A4C4"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2827,7 +2827,7 @@
         "$value": "#6edff6",
         "$description": "#31AFCC"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2835,7 +2835,7 @@
         "$value": "#9eeaf9",
         "$description": "#56BFD7"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2843,7 +2843,7 @@
         "$value": "#cff4fc",
         "$description": "#A4DEEB"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2851,7 +2851,7 @@
         "$value": "#e1f6fb",
         "$description": "#CDEDF4"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2861,7 +2861,7 @@
       }
     },
     "Steel": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2869,7 +2869,7 @@
         "$value": "#000f12",
         "$description": "#000F12"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2877,7 +2877,7 @@
         "$value": "#001b22",
         "$description": "#001B22"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2885,7 +2885,7 @@
         "$value": "#00333f",
         "$description": "#00333F"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2893,7 +2893,7 @@
         "$value": "#004555",
         "$description": "#004555"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2909,7 +2909,7 @@
         "$value": "#005b70",
         "$description": "#005B70"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2917,7 +2917,7 @@
         "$value": "#0f6c81",
         "$description": "#0F6C81"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2925,7 +2925,7 @@
         "$value": "#237d92",
         "$description": "#237D92"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2933,7 +2933,7 @@
         "$value": "#4496a9",
         "$description": "#4496A9"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2941,7 +2941,7 @@
         "$value": "#94c8d4",
         "$description": "#94C8D4"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2949,7 +2949,7 @@
         "$value": "#c3e1e8",
         "$description": "#C3E1E8"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2958,8 +2958,8 @@
         "$description": "#EFF7F9"
       }
     },
-    "Light blue": {
-      "Shade 50": {
+    "LightBlue": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2967,7 +2967,7 @@
         "$value": "#091823",
         "$description": "#091823"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2975,7 +2975,7 @@
         "$value": "#112d42",
         "$description": "#112D42"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2983,7 +2983,7 @@
         "$value": "#20547c",
         "$description": "#20547C"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -2991,7 +2991,7 @@
         "$value": "#2c72a8",
         "$description": "#2C72A8"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3007,7 +3007,7 @@
         "$value": "#3a96dd",
         "$description": "#3A96DD"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3015,7 +3015,7 @@
         "$value": "#4fa1e1",
         "$description": "#4FA1E1"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3023,7 +3023,7 @@
         "$value": "#65ade5",
         "$description": "#65ADE5"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3031,7 +3031,7 @@
         "$value": "#83bdeb",
         "$description": "#83BDEB"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3039,7 +3039,7 @@
         "$value": "#bfddf5",
         "$description": "#BFDDF5"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3047,7 +3047,7 @@
         "$value": "#dcedfa",
         "$description": "#DCEDFA"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3057,7 +3057,7 @@
       }
     },
     "Blue": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3065,7 +3065,7 @@
         "$value": "#001322",
         "$description": "#001322"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3073,7 +3073,7 @@
         "$value": "#001c46",
         "$description": "#002440"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3081,7 +3081,7 @@
         "$value": "#002f74",
         "$description": "#004377"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3089,7 +3089,7 @@
         "$value": "#0042a2",
         "$description": "#005BA1"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3105,7 +3105,7 @@
         "$value": "#0065f8",
         "$description": "#0078D4"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3113,7 +3113,7 @@
         "$value": "#2e83ff",
         "$description": "#1A86D9"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3121,7 +3121,7 @@
         "$value": "#5d9fff",
         "$description": "#3595DE"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3129,7 +3129,7 @@
         "$value": "#8bbaff",
         "$description": "#5CAAE5"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3137,7 +3137,7 @@
         "$value": "#b9d6ff",
         "$description": "#A9D3F2"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3145,7 +3145,7 @@
         "$value": "#d0e3ff",
         "$description": "#D0E7F8"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3154,8 +3154,8 @@
         "$description": "#F3F9FD"
       }
     },
-    "Royal blue": {
-      "Shade 50": {
+    "RoyalBlue": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3163,7 +3163,7 @@
         "$value": "#000c16",
         "$description": "#000C16"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3171,7 +3171,7 @@
         "$value": "#00172a",
         "$description": "#00172A"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3179,7 +3179,7 @@
         "$value": "#002c4e",
         "$description": "#002C4E"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3187,7 +3187,7 @@
         "$value": "#003b6a",
         "$description": "#003B6A"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3203,7 +3203,7 @@
         "$value": "#004e8c",
         "$description": "#004E8C"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3211,7 +3211,7 @@
         "$value": "#125e9a",
         "$description": "#125E9A"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3219,7 +3219,7 @@
         "$value": "#286fa8",
         "$description": "#286FA8"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3227,7 +3227,7 @@
         "$value": "#4a89ba",
         "$description": "#4A89BA"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3235,7 +3235,7 @@
         "$value": "#9abfdc",
         "$description": "#9ABFDC"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3243,7 +3243,7 @@
         "$value": "#c7dced",
         "$description": "#C7DCED"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3253,7 +3253,7 @@
       }
     },
     "Dark blue": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3261,7 +3261,7 @@
         "$value": "#000910",
         "$description": "#000910"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3269,7 +3269,7 @@
         "$value": "#00111f",
         "$description": "#00111F"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3277,7 +3277,7 @@
         "$value": "#002039",
         "$description": "#002039"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3285,7 +3285,7 @@
         "$value": "#002b4e",
         "$description": "#002B4E"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3301,7 +3301,7 @@
         "$value": "#003966",
         "$description": "#003966"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3309,7 +3309,7 @@
         "$value": "#0e4a78",
         "$description": "#0E4A78"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3317,7 +3317,7 @@
         "$value": "#215c8b",
         "$description": "#215C8B"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3325,7 +3325,7 @@
         "$value": "#4178a3",
         "$description": "#4178A3"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3333,7 +3333,7 @@
         "$value": "#92b5d1",
         "$description": "#92B5D1"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3341,7 +3341,7 @@
         "$value": "#c2d6e7",
         "$description": "#C2D6E7"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3351,7 +3351,7 @@
       }
     },
     "Cornflower": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3359,7 +3359,7 @@
         "$value": "#0d1126",
         "$description": "#0D1126"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3367,7 +3367,7 @@
         "$value": "#182047",
         "$description": "#182047"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3375,7 +3375,7 @@
         "$value": "#2c3c85",
         "$description": "#2C3C85"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3383,7 +3383,7 @@
         "$value": "#3c51b4",
         "$description": "#3C51B4"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3399,7 +3399,7 @@
         "$value": "#4f6bed",
         "$description": "#4F6BED"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3407,7 +3407,7 @@
         "$value": "#637cef",
         "$description": "#637CEF"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3415,7 +3415,7 @@
         "$value": "#778df1",
         "$description": "#778DF1"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3423,7 +3423,7 @@
         "$value": "#93a4f4",
         "$description": "#93A4F4"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3431,7 +3431,7 @@
         "$value": "#c8d1fa",
         "$description": "#C8D1FA"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3439,7 +3439,7 @@
         "$value": "#e1e6fc",
         "$description": "#E1E6FC"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3449,7 +3449,7 @@
       }
     },
     "Navy": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3457,7 +3457,7 @@
         "$value": "#00061d",
         "$description": "#00061D"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3465,7 +3465,7 @@
         "$value": "#000c36",
         "$description": "#000C36"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3473,7 +3473,7 @@
         "$value": "#001665",
         "$description": "#001665"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3481,7 +3481,7 @@
         "$value": "#001e89",
         "$description": "#001E89"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3497,7 +3497,7 @@
         "$value": "#0027b4",
         "$description": "#0027B4"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3505,7 +3505,7 @@
         "$value": "#173bbd",
         "$description": "#173BBD"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3513,7 +3513,7 @@
         "$value": "#3050c6",
         "$description": "#3050C6"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3521,7 +3521,7 @@
         "$value": "#546fd2",
         "$description": "#546FD2"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3529,7 +3529,7 @@
         "$value": "#a3b2e8",
         "$description": "#A3B2E8"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3537,7 +3537,7 @@
         "$value": "#ccd5f3",
         "$description": "#CCD5F3"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3547,7 +3547,7 @@
       }
     },
     "Lavender": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3555,7 +3555,7 @@
         "$value": "#120f25",
         "$description": "#120F25"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3563,7 +3563,7 @@
         "$value": "#140330",
         "$description": "#221D46"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3571,7 +3571,7 @@
         "$value": "#290661",
         "$description": "#3F3682"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3579,7 +3579,7 @@
         "$value": "#3d0a91",
         "$description": "#5649B0"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3595,7 +3595,7 @@
         "$value": "#6610f2",
         "$description": "#7160E8"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3603,7 +3603,7 @@
         "$value": "#8540f5",
         "$description": "#8172EB"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3611,7 +3611,7 @@
         "$value": "#a370f7",
         "$description": "#9184EE"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3619,7 +3619,7 @@
         "$value": "#c29ffa",
         "$description": "#A79CF1"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3627,7 +3627,7 @@
         "$value": "#e0cffc",
         "$description": "#D2CCF8"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3635,7 +3635,7 @@
         "$value": "#d2ccf8",
         "$description": "#E7E4FB"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3645,7 +3645,7 @@
       }
     },
     "Purple": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3653,7 +3653,7 @@
         "$value": "#0f0717",
         "$description": "#0F0717"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3661,7 +3661,7 @@
         "$value": "#160d27",
         "$description": "#1C0E2B"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3669,7 +3669,7 @@
         "$value": "#2c1a4d",
         "$description": "#341A51"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3677,7 +3677,7 @@
         "$value": "#432874",
         "$description": "#46236E"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3693,7 +3693,7 @@
         "$value": "#6f42c1",
         "$description": "#5C2E91"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3701,7 +3701,7 @@
         "$value": "#8c68cd",
         "$description": "#6B3F9E"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3709,7 +3709,7 @@
         "$value": "#a98eda",
         "$description": "#7C52AB"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3717,7 +3717,7 @@
         "$value": "#c5b3e6",
         "$description": "#9470BD"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3725,7 +3725,7 @@
         "$value": "#e2d9f3",
         "$description": "#C6B1DE"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3733,7 +3733,7 @@
         "$value": "#e0d3ed",
         "$description": "#E0D3ED"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3742,8 +3742,8 @@
         "$description": "#F7F4FB"
       }
     },
-    "Dark purple": {
-      "Shade 50": {
+    "DarkPurple": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3751,7 +3751,7 @@
         "$value": "#0a0411",
         "$description": "#0A0411"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3759,7 +3759,7 @@
         "$value": "#130820",
         "$description": "#130820"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3767,7 +3767,7 @@
         "$value": "#240f3c",
         "$description": "#240F3C"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3775,7 +3775,7 @@
         "$value": "#311552",
         "$description": "#311552"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3791,7 +3791,7 @@
         "$value": "#401b6c",
         "$description": "#401B6C"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3799,7 +3799,7 @@
         "$value": "#512b7e",
         "$description": "#512B7E"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3807,7 +3807,7 @@
         "$value": "#633e8f",
         "$description": "#633E8F"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3815,7 +3815,7 @@
         "$value": "#7e5ca7",
         "$description": "#7E5CA7"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3823,7 +3823,7 @@
         "$value": "#b9a3d3",
         "$description": "#B9A3D3"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3831,7 +3831,7 @@
         "$value": "#d8cce7",
         "$description": "#D8CCE7"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3841,7 +3841,7 @@
       }
     },
     "Orchid": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3849,7 +3849,7 @@
         "$value": "#16101d",
         "$description": "#16101D"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3857,7 +3857,7 @@
         "$value": "#281e37",
         "$description": "#281E37"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3865,7 +3865,7 @@
         "$value": "#4c3867",
         "$description": "#4C3867"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3873,7 +3873,7 @@
         "$value": "#674c8c",
         "$description": "#674C8C"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3889,7 +3889,7 @@
         "$value": "#8764b8",
         "$description": "#8764B8"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3897,7 +3897,7 @@
         "$value": "#9373c0",
         "$description": "#9373C0"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3905,7 +3905,7 @@
         "$value": "#a083c9",
         "$description": "#A083C9"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3913,7 +3913,7 @@
         "$value": "#b29ad4",
         "$description": "#B29AD4"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3921,7 +3921,7 @@
         "$value": "#d7caea",
         "$description": "#D7CAEA"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3929,7 +3929,7 @@
         "$value": "#e9e2f4",
         "$description": "#E9E2F4"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3939,7 +3939,7 @@
       }
     },
     "Grape": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3947,7 +3947,7 @@
         "$value": "#160418",
         "$description": "#160418"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3955,7 +3955,7 @@
         "$value": "#29072e",
         "$description": "#29072E"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3963,7 +3963,7 @@
         "$value": "#4c0d55",
         "$description": "#4C0D55"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3971,7 +3971,7 @@
         "$value": "#671174",
         "$description": "#671174"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3987,7 +3987,7 @@
         "$value": "#881798",
         "$description": "#881798"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -3995,7 +3995,7 @@
         "$value": "#952aa4",
         "$description": "#952AA4"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4003,7 +4003,7 @@
         "$value": "#a33fb1",
         "$description": "#A33FB1"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4011,7 +4011,7 @@
         "$value": "#b55fc1",
         "$description": "#B55FC1"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4019,7 +4019,7 @@
         "$value": "#d9a7e0",
         "$description": "#D9A7E0"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4027,7 +4027,7 @@
         "$value": "#eaceef",
         "$description": "#EACEEF"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4037,7 +4037,7 @@
       }
     },
     "Berry": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4045,7 +4045,7 @@
         "$value": "#1f091d",
         "$description": "#1F091D"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4053,7 +4053,7 @@
         "$value": "#3a1136",
         "$description": "#3A1136"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4061,7 +4061,7 @@
         "$value": "#6d2064",
         "$description": "#6D2064"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4069,7 +4069,7 @@
         "$value": "#932b88",
         "$description": "#932B88"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4085,7 +4085,7 @@
         "$value": "#c239b3",
         "$description": "#C239B3"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4093,7 +4093,7 @@
         "$value": "#c94cbc",
         "$description": "#C94CBC"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4101,7 +4101,7 @@
         "$value": "#d161c4",
         "$description": "#D161C4"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4109,7 +4109,7 @@
         "$value": "#da7ed0",
         "$description": "#DA7ED0"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4117,7 +4117,7 @@
         "$value": "#edbbe7",
         "$description": "#EDBBE7"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4125,7 +4125,7 @@
         "$value": "#f5daf2",
         "$description": "#F5DAF2"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4135,7 +4135,7 @@
       }
     },
     "Lilac": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4143,7 +4143,7 @@
         "$value": "#1c0b1f",
         "$description": "#1C0B1F"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4151,7 +4151,7 @@
         "$value": "#35153a",
         "$description": "#35153A"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4159,7 +4159,7 @@
         "$value": "#63276d",
         "$description": "#63276D"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4167,7 +4167,7 @@
         "$value": "#863593",
         "$description": "#863593"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4183,7 +4183,7 @@
         "$value": "#b146c2",
         "$description": "#B146C2"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4191,7 +4191,7 @@
         "$value": "#ba58c9",
         "$description": "#BA58C9"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4199,7 +4199,7 @@
         "$value": "#c36bd1",
         "$description": "#C36BD1"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4207,7 +4207,7 @@
         "$value": "#cf87da",
         "$description": "#CF87DA"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4215,7 +4215,7 @@
         "$value": "#e6bfed",
         "$description": "#E6BFED"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4223,7 +4223,7 @@
         "$value": "#f2dcf5",
         "$description": "#F2DCF5"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4233,7 +4233,7 @@
       }
     },
     "Pink": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4241,7 +4241,7 @@
         "$value": "#24091b",
         "$description": "#24091B"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4249,7 +4249,7 @@
         "$value": "#2b0a1a",
         "$description": "#441232"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4257,7 +4257,7 @@
         "$value": "#561435",
         "$description": "#80215D"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4265,7 +4265,7 @@
         "$value": "#801f4f",
         "$description": "#AD2D7E"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4281,7 +4281,7 @@
         "$value": "#d63384",
         "$description": "#E43BA6"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4289,7 +4289,7 @@
         "$value": "#de5c9d",
         "$description": "#E750B0"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4297,7 +4297,7 @@
         "$value": "#e685b5",
         "$description": "#EA66BA"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4305,7 +4305,7 @@
         "$value": "#efadce",
         "$description": "#EF85C8"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4313,7 +4313,7 @@
         "$value": "#f7d6e6",
         "$description": "#F7C0E3"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4321,7 +4321,7 @@
         "$value": "#f8e6ef",
         "$description": "#FBDDF0"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4330,8 +4330,8 @@
         "$description": "#FEF6FB"
       }
     },
-    "Hot pink": {
-      "Shade 50": {
+    "HotPink": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4339,7 +4339,7 @@
         "$value": "#240016",
         "$description": "#240016"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4347,7 +4347,7 @@
         "$value": "#44002a",
         "$description": "#44002A"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4355,7 +4355,7 @@
         "$value": "#7f004e",
         "$description": "#7F004E"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4363,7 +4363,7 @@
         "$value": "#ad006a",
         "$description": "#AD006A"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4379,7 +4379,7 @@
         "$value": "#e3008c",
         "$description": "#E3008C"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4387,7 +4387,7 @@
         "$value": "#e61c99",
         "$description": "#E61C99"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4395,7 +4395,7 @@
         "$value": "#ea38a6",
         "$description": "#EA38A6"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4403,7 +4403,7 @@
         "$value": "#ee5fb7",
         "$description": "#EE5FB7"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4411,7 +4411,7 @@
         "$value": "#f7adda",
         "$description": "#F7ADDA"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4419,7 +4419,7 @@
         "$value": "#fbd2eb",
         "$description": "#FBD2EB"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4429,7 +4429,7 @@
       }
     },
     "Magenta": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4437,7 +4437,7 @@
         "$value": "#1f0013",
         "$description": "#1F0013"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4445,7 +4445,7 @@
         "$value": "#390024",
         "$description": "#390024"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4453,7 +4453,7 @@
         "$value": "#6b0043",
         "$description": "#6B0043"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4461,7 +4461,7 @@
         "$value": "#91005a",
         "$description": "#91005A"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4477,7 +4477,7 @@
         "$value": "#bf0077",
         "$description": "#BF0077"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4485,7 +4485,7 @@
         "$value": "#c71885",
         "$description": "#C71885"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4493,7 +4493,7 @@
         "$value": "#ce3293",
         "$description": "#CE3293"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4501,7 +4501,7 @@
         "$value": "#d957a8",
         "$description": "#D957A8"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4509,7 +4509,7 @@
         "$value": "#eca5d1",
         "$description": "#ECA5D1"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4517,7 +4517,7 @@
         "$value": "#f5cee6",
         "$description": "#F5CEE6"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4527,7 +4527,7 @@
       }
     },
     "Plum": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4535,7 +4535,7 @@
         "$value": "#13000c",
         "$description": "#13000C"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4543,7 +4543,7 @@
         "$value": "#240017",
         "$description": "#240017"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4551,7 +4551,7 @@
         "$value": "#43002b",
         "$description": "#43002B"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4575,7 +4575,7 @@
         "$value": "#77004d",
         "$description": "#77004D"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4583,7 +4583,7 @@
         "$value": "#87105d",
         "$description": "#87105D"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4591,7 +4591,7 @@
         "$value": "#98246f",
         "$description": "#98246F"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4599,7 +4599,7 @@
         "$value": "#ad4589",
         "$description": "#AD4589"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4607,7 +4607,7 @@
         "$value": "#d696c0",
         "$description": "#D696C0"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4615,7 +4615,7 @@
         "$value": "#e9c4dc",
         "$description": "#E9C4DC"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4625,7 +4625,7 @@
       }
     },
     "Beige": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4633,7 +4633,7 @@
         "$value": "#141313",
         "$description": "#141313"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4641,7 +4641,7 @@
         "$value": "#252323",
         "$description": "#252323"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4649,7 +4649,7 @@
         "$value": "#444241",
         "$description": "#444241"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4657,7 +4657,7 @@
         "$value": "#5d5958",
         "$description": "#5D5958"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4673,7 +4673,7 @@
         "$value": "#7a7574",
         "$description": "#7A7574"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4681,7 +4681,7 @@
         "$value": "#8a8584",
         "$description": "#8A8584"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4689,7 +4689,7 @@
         "$value": "#9a9594",
         "$description": "#9A9594"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4697,7 +4697,7 @@
         "$value": "#afabaa",
         "$description": "#AFABAA"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4705,7 +4705,7 @@
         "$value": "#d7d4d4",
         "$description": "#D7D4D4"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4713,7 +4713,7 @@
         "$value": "#eae8e8",
         "$description": "#EAE8E8"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4723,7 +4723,7 @@
       }
     },
     "Mink": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4731,7 +4731,7 @@
         "$value": "#0f0e0e",
         "$description": "#0F0E0E"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4739,7 +4739,7 @@
         "$value": "#1c1b1a",
         "$description": "#1C1B1A"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4747,7 +4747,7 @@
         "$value": "#343231",
         "$description": "#343231"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4755,7 +4755,7 @@
         "$value": "#474443",
         "$description": "#474443"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4771,7 +4771,7 @@
         "$value": "#5d5a58",
         "$description": "#5D5A58"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4779,7 +4779,7 @@
         "$value": "#706d6b",
         "$description": "#706D6B"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4787,7 +4787,7 @@
         "$value": "#84817e",
         "$description": "#84817E"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4795,7 +4795,7 @@
         "$value": "#9e9b99",
         "$description": "#9E9B99"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4803,7 +4803,7 @@
         "$value": "#cecccb",
         "$description": "#CECCCB"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4811,7 +4811,7 @@
         "$value": "#e5e4e3",
         "$description": "#E5E4E3"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4821,7 +4821,7 @@
       }
     },
     "Silver": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4829,7 +4829,7 @@
         "$value": "#151818",
         "$description": "#151818"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4837,7 +4837,7 @@
         "$value": "#282d2e",
         "$description": "#282D2E"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4845,7 +4845,7 @@
         "$value": "#4a5356",
         "$description": "#4A5356"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4853,7 +4853,7 @@
         "$value": "#657174",
         "$description": "#657174"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4869,7 +4869,7 @@
         "$value": "#859599",
         "$description": "#859599"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4877,7 +4877,7 @@
         "$value": "#92a1a5",
         "$description": "#92A1A5"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4885,7 +4885,7 @@
         "$value": "#a0aeb1",
         "$description": "#A0AEB1"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4893,7 +4893,7 @@
         "$value": "#b3bfc2",
         "$description": "#B3BFC2"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4901,7 +4901,7 @@
         "$value": "#d8dfe0",
         "$description": "#D8DFE0"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4909,7 +4909,7 @@
         "$value": "#eaeeef",
         "$description": "#EAEEEF"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4919,7 +4919,7 @@
       }
     },
     "Platinum": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4927,7 +4927,7 @@
         "$value": "#111314",
         "$description": "#111314"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4935,7 +4935,7 @@
         "$value": "#1f2426",
         "$description": "#1F2426"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4943,7 +4943,7 @@
         "$value": "#3b4447",
         "$description": "#3B4447"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4951,7 +4951,7 @@
         "$value": "#505c60",
         "$description": "#505C60"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4967,7 +4967,7 @@
         "$value": "#69797e",
         "$description": "#69797E"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4975,7 +4975,7 @@
         "$value": "#79898d",
         "$description": "#79898D"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4983,7 +4983,7 @@
         "$value": "#89989d",
         "$description": "#89989D"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4991,7 +4991,7 @@
         "$value": "#a0adb2",
         "$description": "#A0ADB2"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -4999,7 +4999,7 @@
         "$value": "#cdd6d8",
         "$description": "#CDD6D8"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5007,7 +5007,7 @@
         "$value": "#e4e9ea",
         "$description": "#E4E9EA"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5017,7 +5017,7 @@
       }
     },
     "Anchor": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5025,7 +5025,7 @@
         "$value": "#090a0b",
         "$description": "#090A0B"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5033,7 +5033,7 @@
         "$value": "#111315",
         "$description": "#111315"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5041,7 +5041,7 @@
         "$value": "#202427",
         "$description": "#202427"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5049,7 +5049,7 @@
         "$value": "#2b3135",
         "$description": "#2B3135"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5065,7 +5065,7 @@
         "$value": "#394146",
         "$description": "#394146"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5073,7 +5073,7 @@
         "$value": "#4d565c",
         "$description": "#4D565C"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5081,7 +5081,7 @@
         "$value": "#626c72",
         "$description": "#626C72"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5089,7 +5089,7 @@
         "$value": "#808a90",
         "$description": "#808A90"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5097,7 +5097,7 @@
         "$value": "#bcc3c7",
         "$description": "#BCC3C7"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5105,7 +5105,7 @@
         "$value": "#dbdfe1",
         "$description": "#DBDFE1"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5115,7 +5115,7 @@
       }
     },
     "Charcoal": {
-      "Shade 50": {
+      "Shade50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5123,7 +5123,7 @@
         "$value": "#090909",
         "$description": "#090909"
       },
-      "Shade 40": {
+      "Shade40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5131,7 +5131,7 @@
         "$value": "#111111",
         "$description": "#111111"
       },
-      "Shade 30": {
+      "Shade30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5139,7 +5139,7 @@
         "$value": "#202020",
         "$description": "#202020"
       },
-      "Shade 20": {
+      "Shade20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5147,7 +5147,7 @@
         "$value": "#2b2b2b",
         "$description": "#2B2B2B"
       },
-      "Shade 10": {
+      "Shade10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5163,7 +5163,7 @@
         "$value": "#393939",
         "$description": "#393939"
       },
-      "Tint 10": {
+      "Tint10": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5171,7 +5171,7 @@
         "$value": "#515151",
         "$description": "#515151"
       },
-      "Tint 20": {
+      "Tint20": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5179,7 +5179,7 @@
         "$value": "#686868",
         "$description": "#686868"
       },
-      "Tint 30": {
+      "Tint30": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5187,7 +5187,7 @@
         "$value": "#888888",
         "$description": "#888888"
       },
-      "Tint 40": {
+      "Tint40": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5195,7 +5195,7 @@
         "$value": "#c4c4c4",
         "$description": "#C4C4C4"
       },
-      "Tint 50": {
+      "Tint50": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5203,7 +5203,7 @@
         "$value": "#dfdfdf",
         "$description": "#DFDFDF"
       },
-      "Tint 60": {
+      "Tint60": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
@@ -5394,7 +5394,7 @@
         "$description": "#000000E5"
       }
     },
-    "Grey 14": {
+    "Grey14": {
       "5": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
@@ -5476,7 +5476,7 @@
         "$description": "#242424E5"
       }
     },
-    "Grey 12": {
+    "Grey12": {
       "5": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
@@ -5558,7 +5558,7 @@
         "$description": "#1F1F1FE5"
       }
     },
-    "Grey 10": {
+    "Grey10": {
       "5": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
@@ -5642,49 +5642,49 @@
     }
   },
   "Utilities": {
-    "Component Border": {
+    "ComponentBorder": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#d1d9e0"
     },
-    "Button Background": {
+    "ButtonBackground": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#f6f8fa"
     },
-    "Disabled Background": {
+    "DisabledBackground": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#818b98"
     },
-    "Tag Background": {
+    "TagBackground": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#ddf4ff"
     },
-    "Tab Hover": {
+    "TabHover": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#edefff"
     },
-    "Rate-Star": {
+    "RateStar": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#ffda6a"
     },
-    "Rate-Star Yellow": {
+    "RateStarYellow": {
       "$extensions": {
         "com.figma.hiddenFromPublishing": false
       },

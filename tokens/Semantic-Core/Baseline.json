@@ -93,28 +93,28 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Static.Spacing.Negative-300}"
+        "$value": "{Static.Spacing.Negative300}"
       },
       "4xs": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Static.Spacing.Negative-200}"
+        "$value": "{Static.Spacing.Negative200}"
       },
       "3xs": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Static.Spacing.Negative-150}"
+        "$value": "{Static.Spacing.Negative150}"
       },
       "2xs": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Static.Spacing.Negative-100}"
+        "$value": "{Static.Spacing.Negative100}"
       },
       "16xl": {
         "$extensions": {
@@ -184,7 +184,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Static.Spacing.Negative-400}"
+        "$value": "{Static.Spacing.Negative400}"
       },
       "7xl": {
         "$extensions": {
@@ -198,7 +198,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Static.Spacing.Negative-500}"
+        "$value": "{Static.Spacing.Negative500}"
       },
       "12xl": {
         "$extensions": {
@@ -212,7 +212,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Static.Spacing.Negative-50}"
+        "$value": "{Static.Spacing.Negative50}"
       }
     },
     "Padding": {
