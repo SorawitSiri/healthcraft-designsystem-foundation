@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
-    "",
     "Primitive-Color/Baseline",
     "Semantic-Color/Baseline",
+    "Semantic-Color/Dark Mode",
     "Theme-Mode (Primitive)/Baseline",
     "Component Layer/Baseline",
     "Semantic-Typescale/Desktop",
