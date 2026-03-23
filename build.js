@@ -169,7 +169,7 @@ const desktop = readFileSync('build/css/_desktop.css', 'utf8');
 const tablet = readFileSync('build/css/_tablet.css', 'utf8');
 const mobile = readFileSync('build/css/_mobile.css', 'utf8');
 
-writeFileSync('build/css/tokens-light.css', header + desktop + '\n' + tablet + '\n' + mobile);
+writeFileSync('build/css/tokens.css', header + desktop + '\n' + tablet + '\n' + mobile);
 
 // Clean up temp files
 import { unlinkSync } from 'fs';
