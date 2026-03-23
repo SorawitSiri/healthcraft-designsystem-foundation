@@ -1,8 +1,5 @@
 import { register } from '@tokens-studio/sd-transforms';
 import StyleDictionary from 'style-dictionary';
-import { readFileSync } from 'fs';
-
-const config = JSON.parse(readFileSync('./config.json', 'utf-8'));
 
 register(StyleDictionary, {
   excludeParentKeys: true,
@@ -20,9 +17,63 @@ StyleDictionary.registerTransform({
   transform: (token) => `${token.$value}px`,
 });
 
-const sd = new StyleDictionary(config);
-await sd.cleanAllPlatforms();
-await sd.buildAllPlatforms();
+// Shared token sources (non-color semantics, primitives, etc.)
+const sharedSources = [
+  'tokens/Semantic-Core/Baseline.json',
+  'tokens/Semantic-Typescale/*.json',
+  'tokens/Component Layer/*.json',
+  'tokens/Primitive-Color/*.json',
+  'tokens/Primitive-Core/*.json',
+  'tokens/Theme-Mode (Primitive)/*.json',
+];
+
+const platformBase = {
+  transformGroup: 'tokens-studio',
+  transforms: ['number/px'],
+  buildPath: 'build/css/',
+};
+
+// Light mode — Semantic-Color/Baseline.json
+const sdLight = new StyleDictionary({
+  source: [...sharedSources, 'tokens/Semantic-Color/Baseline.json'],
+  platforms: {
+    css: {
+      ...platformBase,
+      files: [
+        {
+          destination: 'tokens-light.css',
+          format: 'css/variables',
+          options: { outputReferences: false },
+        },
+      ],
+    },
+  },
+});
+
+// Dark mode — Semantic-Color/Dark Mode.json
+const sdDark = new StyleDictionary({
+  source: [...sharedSources, 'tokens/Semantic-Color/Dark Mode.json'],
+  platforms: {
+    css: {
+      ...platformBase,
+      files: [
+        {
+          destination: 'tokens-dark.css',
+          format: 'css/variables',
+          options: {
+            outputReferences: false,
+            selector: '[data-theme="dark"]',
+          },
+        },
+      ],
+    },
+  },
+});
+
+await sdLight.cleanAllPlatforms();
+await sdDark.cleanAllPlatforms();
+await sdLight.buildAllPlatforms();
+await sdDark.buildAllPlatforms();
 
 console.log('\n==============================================');
 console.log('\nBuild completed!');

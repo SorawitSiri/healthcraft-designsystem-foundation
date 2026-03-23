@@ -7,7 +7,7 @@ npm install style-dictionary --save-dev
 npm install @tokens-studio/sd-transforms
 ```
 
-## Run
+## Setup
 Note: Must check `config.json`
 ```
 {
@@ -34,6 +34,8 @@ Note: Must check `config.json`
   }
 }
 ```
+
+## Run
 ```
 npm run build
 ```

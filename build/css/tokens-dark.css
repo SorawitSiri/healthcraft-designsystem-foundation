@@ -2,171 +2,51 @@
  * Do not edit directly, this file was auto-generated.
  */
 
-:root {
-  --backgroundPrimary: #ffffff;
-  --backgroundSecondary: #fafafa;
-  --backgroundTertiary: #f5f5f5;
-  --backgroundInverse: #000000;
-  --overlayLight: rgba(255, 255, 255, 0.4);
-  --overlayDark: rgba(0, 0, 0, 0.7);
-  --surfacePrimaryDefault: #000aa4; /** Bg/Default/Default */
-  --surfacePrimaryDefaultHover: #000a82; /** Bg/Default/Default Hover */
-  --surfacePrimarySecondary: #0c5ff3; /** Bg/Default/Secondary */
-  --surfacePrimarySecondaryHover: #367cf8; /** Bg/Default/Secondary Hover */
-  --surfacePrimaryTertiary: #0082fb; /** Bg/Default/Tertiary */
-  --surfacePrimaryTertiaryHover: #349cfe; /** Bg/Default/Tertiary Hover */
-  --surfacePrimaryQuaternary: #cde3ff; /** Bg/Default/Tertiary Hover */
-  --surfacePrimaryQuaternaryHover: #e3efff; /** Bg/Default/Tertiary Hover */
-  --surfaceSuccessDefault: #19bb57; /** Bg/Default/Default */
-  --surfaceSuccessDefaultHover: #009951; /** Bg/Default/Default Hover */
-  --surfaceSuccessSecondary: #20c997; /** Bg/Default/Secondary */
-  --surfaceSuccessSecondaryHover: #4dd4ac; /** Bg/Default/Secondary Hover */
-  --surfaceSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
-  --surfaceSuccessTertiaryHover: #daf3eb; /** Bg/Default/Tertiary Hover */
-  --surfaceWarningDefault: #e8b931; /** Bg/Default/Default */
-  --surfaceWarningDefaultHover: #e5a000; /** Bg/Default/Default Hover */
-  --surfaceWarningSecondary: #ffc107; /** Bg/Default/Secondary */
-  --surfaceWarningSecondaryHover: #ffda6a; /** Bg/Default/Secondary Hover */
-  --surfaceWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
-  --surfaceWarningTertiaryHover: #fcefd3; /** Bg/Default/Tertiary Hover */
-  --surfaceDisabledDefault: #f5f5f5; /** Bg/Default/Default */
-  --surfaceDisabledDefaultHover: #f5f5f5; /** Bg/Default/Default Hover */
-  --surfaceDisabledSecondary: #474747; /** Bg/Default/Secondary */
-  --surfaceDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
-  --surfaceDisabledTertiary: #616161; /** Bg/Default/Tertiary */
-  --surfaceDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
-  --surfaceUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
-  --surfaceUtilitiesButtonBackground: #f6f8fa;
-  --surfaceUtilitiesTagBackground: #ddf4ff;
-  --surfaceUtilitiesTabHover: #edefff;
-  --surfaceUtilitiesDisabledBackground: #818b98;
-  --surfaceUtilitiesComponentBorder: #d1d9e0;
-  --surfaceUtilitiesRateStar: #ffda6a;
-  --surfaceUtilitiesRateStarYellow: #eaa300;
-  --surfaceDangerTertiaryHover: #fee9e7; /** Bg/Default/Tertiary Hover */
-  --surfaceDangerDefault: #f01328; /** Bg/Default/Default */
-  --surfaceDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
-  --surfaceDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
-  --surfaceDangerSecondaryHover: #f6d1d5; /** Bg/Default/Secondary Hover */
-  --surfaceDangerDefaultHover: #de0f1a; /** Bg/Default/Default Hover */
-  --surfaceDefaultQuaternary: #616161;
-  --surfaceDefaultTertiaryHover: #5c5c5c;
-  --surfaceDefaultTertiary: #424242;
-  --surfaceDefaultSecondaryHover: #3d3d3d;
-  --surfaceDefaultSecondary: #1f1f1f;
-  --surfaceDefaultDefaultHover: #1a1a1a;
-  --surfaceDefaultQuaternaryHover: #808080;
-  --surfaceDefaultPureBlack: #000000;
-  --surfaceNeutralQuaternaryHover: #999999;
-  --surfaceNeutralTertiaryHover: #b3b3b3;
-  --surfaceNeutralSecondary: #e0e0e0;
-  --surfaceNeutralTertiary: #c7c7c7;
-  --surfaceNeutralSecondaryHover: #cccccc;
-  --surfaceNeutralQuaternary: #adadad;
-  --surfaceNeutralDefaultHover: #e6e6e6;
-  --surfaceNeutralPureWhite: #ffffff;
-  --textNeutralTertiary: #c7c7c7;
-  --textNeutralSecondary: #e0e0e0;
-  --textNeutralPureWhite: #ffffff;
-  --textNeutralOnDefault: #e6e6e6;
-  --textNeutralOnSecondary: #cccccc;
-  --textNeutralOnTertiary: #b3b3b3;
-  --textNeutralOnQuaternary: #999999;
-  --textNeutralQuaternary: #adadad;
-  --textDefaultOnTertiary: #5c5c5c;
-  --textDefaultOnDefault: #1a1a1a;
-  --textDefaultOnSecondary: #3d3d3d;
-  --textDefaultTertiary: #424242;
-  --textDefaultSecondary: #1f1f1f;
-  --textDefaultPureBlack: #000000;
-  --textDefaultQuaternary: #616161;
-  --textDefaultOnQuaternary: #808080;
-  --textPrimaryDefault: #000aa4;
-  --textPrimarySecondary: #0c5ff3;
-  --textPrimaryTertiary: #0082fb;
-  --textPrimaryOnDefault: #000a82;
-  --textPrimaryOnSecondary: #367cf8;
-  --textPrimaryOnTertiary: #349cfe;
-  --textWarningDefault: #e8b931; /** Bg/Default/Default */
-  --textWarningOnDefault: #e5a000; /** Bg/Default/Default Hover */
-  --textWarningOnTertiary: #f9e2ae; /** Bg/Default/Tertiary Hover */
-  --textWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
-  --textWarningOnSecondary: #ffda6a; /** Bg/Default/Secondary Hover */
-  --textWarningSecondary: #ffc107; /** Bg/Default/Secondary */
-  --textDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
-  --textDangerOnTertiary: #fee9e7; /** Bg/Default/Tertiary Hover */
-  --textDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
-  --textDangerOnSecondary: #f6d1d5; /** Bg/Default/Secondary Hover */
-  --textDangerOnDefault: #de0f1a; /** Bg/Default/Default Hover */
-  --textDangerDefault: #f01328; /** Bg/Default/Default */
-  --textDisabledOnDisabled: #adadad; /** Bg/Default/Secondary */
-  --textDisabledDefault: #adadad; /** Bg/Default/Default */
-  --textDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
-  --textDisabledTertiary: #616161; /** Bg/Default/Tertiary */
-  --textDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
-  --textDisabledSecondary: #474747; /** Bg/Default/Secondary */
-  --textSuccessOnTertiary: #a6e9d5; /** Bg/Default/Tertiary Hover */
-  --textSuccessOnDefault: #009951; /** Bg/Default/Default Hover */
-  --textSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
-  --textSuccessOnSecondary: #4dd4ac; /** Bg/Default/Secondary Hover */
-  --textSuccessSecondary: #20c997; /** Bg/Default/Secondary */
-  --textSuccessDefault: #19bb57; /** Bg/Default/Default */
-  --textUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
-  --borderPrimaryDefault: #000aa4;
-  --borderPrimaryOnDefault: #000a82;
-  --borderPrimarySecondary: #0c5ff3;
-  --borderPrimaryOnSecondary: #367cf8;
-  --borderPrimaryTertiary: #0082fb;
-  --borderPrimaryOnTertiary: #349cfe;
-  --borderWarningDefault: #e8b931; /** Bg/Default/Default */
-  --borderWarningOnDefault: #e5a000; /** Bg/Default/Default Hover */
-  --borderWarningOnTertiary: #f9e2ae; /** Bg/Default/Tertiary Hover */
-  --borderWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
-  --borderWarningOnSecondary: #ffda6a; /** Bg/Default/Secondary Hover */
-  --borderWarningSecondary: #ffc107; /** Bg/Default/Secondary */
-  --borderDisabledDefault: #adadad; /** Bg/Default/Default */
-  --borderDisabledOnDisabled: #adadad; /** Bg/Default/Secondary */
-  --borderDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
-  --borderDisabledTertiary: #616161; /** Bg/Default/Tertiary */
-  --borderDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
-  --borderDisabledSecondary: #474747; /** Bg/Default/Secondary */
-  --borderSuccessOnTertiary: #a6e9d5; /** Bg/Default/Tertiary Hover */
-  --borderSuccessOnDefault: #009951; /** Bg/Default/Default Hover */
-  --borderSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
-  --borderSuccessOnSecondary: #4dd4ac; /** Bg/Default/Secondary Hover */
-  --borderSuccessSecondary: #20c997; /** Bg/Default/Secondary */
-  --borderSuccessDefault: #19bb57; /** Bg/Default/Default */
-  --borderDefaultQuaternary: #616161;
-  --borderDefaultOnTertiary: #5c5c5c;
-  --borderDefaultTertiary: #424242;
-  --borderDefaultOnSecondary: #3d3d3d;
-  --borderDefaultSecondary: #1f1f1f;
-  --borderDefaultOnDefault: #1a1a1a;
-  --borderDefaultOnQuaternary: #808080;
-  --borderDefaultPureBlack: #000000;
-  --borderNeutralOnQuaternary: #999999;
-  --borderNeutralOnTertiary: #b3b3b3;
-  --borderNeutralSecondary: #e0e0e0;
-  --borderNeutralTertiary: #c7c7c7;
-  --borderNeutralOnSecondary: #cccccc;
-  --borderNeutralQuaternary: #adadad;
-  --borderNeutralOnDefault: #e6e6e6;
-  --borderNeutralPureWhite: #ffffff;
-  --borderDangerOnTertiary: #fee9e7; /** Bg/Default/Tertiary Hover */
-  --borderDangerDefault: #f01328; /** Bg/Default/Default */
-  --borderDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
-  --borderDangerOnSecondary: #f6d1d5; /** Bg/Default/Secondary Hover */
-  --borderDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
-  --borderDangerOnDefault: #de0f1a; /** Bg/Default/Default Hover */
-  --borderUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
-  --borderUtilitiesComponentBorder: #d1d9e0;
-  --borderUtilitiesRateStarYellow: #eaa300;
-  --borderUtilitiesRateStar: #ffda6a;
-  --borderXs: 1px;
-  --borderSm: 2px;
-  --borderMd: 3px;
-  --borderLg: 4px;
-  --borderXl: 5px;
+[data-theme="dark"] {
+  --spacingGapLg: 8px;
+  --spacingGapMd: 4px;
+  --spacingGapXl: 12px;
+  --spacingGapSm: 2px;
+  --spacingGapNone: 0;
+  --spacingGap2xl: 16px;
+  --spacingGap3xl: 20px;
+  --spacingGap4xl: 24px;
+  --spacingGap11xl: 72px;
+  --spacingGap5xs: -12px;
+  --spacingGap4xs: -8px;
+  --spacingGap3xs: -6px;
+  --spacingGap2xs: -4px;
+  --spacingGap16xl: 256px;
+  --spacingGap6xl: 32px;
+  --spacingGap15xl: 192px;
+  --spacingGap14xl: 128px;
+  --spacingGap13xl: 96px;
+  --spacingGap10xl: 64px;
+  --spacingGap9xl: 56px;
+  --spacingGap8xl: 48px;
+  --spacingGap5xl: 28px;
+  --spacingGap6xs: -16px;
+  --spacingGap7xl: 40px;
+  --spacingGap7xs: -20px;
+  --spacingGap12xl: 80px;
+  --spacingGapXs: -2px;
+  --spacingPaddingXs: 2px;
+  --spacingPaddingSm: 4px;
+  --spacingPaddingNone: 0;
+  --spacingPaddingMd: 6px;
+  --spacingPaddingLg: 8px;
+  --spacingPaddingXl: 12px;
+  --icon2xl: 24px;
+  --iconXl: 20px;
+  --iconSm: 12px;
+  --iconLg: 16px;
+  --iconMd: 14px;
+  --iconXs: 10px;
+  --icon2xs: 8px;
+  --icon5xl: 36px;
+  --icon4xl: 32px;
+  --icon3xl: 28px;
+  --icon6xl: 40px;
   --iconPrimaryDefault: #000aa4;
   --iconPrimaryOnDefault: #000a82;
   --iconPrimarySecondary: #0c5ff3;
@@ -217,50 +97,6 @@
   --iconUtilitiesDisabledBackground: #818b98;
   --iconUtilitiesRateStarYellow: #eaa300;
   --iconUtilitiesRateStar: #ffda6a;
-  --icon2xl: 24px;
-  --iconXl: 20px;
-  --iconSm: 12px;
-  --iconLg: 16px;
-  --iconMd: 14px;
-  --iconXs: 10px;
-  --icon2xs: 8px;
-  --icon5xl: 36px;
-  --icon4xl: 32px;
-  --icon3xl: 28px;
-  --icon6xl: 40px;
-  --spacingGapLg: 8px;
-  --spacingGapMd: 4px;
-  --spacingGapXl: 12px;
-  --spacingGapSm: 2px;
-  --spacingGapNone: 0;
-  --spacingGap2xl: 16px;
-  --spacingGap3xl: 20px;
-  --spacingGap4xl: 24px;
-  --spacingGap11xl: 72px;
-  --spacingGap5xs: -12px;
-  --spacingGap4xs: -8px;
-  --spacingGap3xs: -6px;
-  --spacingGap2xs: -4px;
-  --spacingGap16xl: 256px;
-  --spacingGap6xl: 32px;
-  --spacingGap15xl: 192px;
-  --spacingGap14xl: 128px;
-  --spacingGap13xl: 96px;
-  --spacingGap10xl: 64px;
-  --spacingGap9xl: 56px;
-  --spacingGap8xl: 48px;
-  --spacingGap5xl: 28px;
-  --spacingGap6xs: -16px;
-  --spacingGap7xl: 40px;
-  --spacingGap7xs: -20px;
-  --spacingGap12xl: 80px;
-  --spacingGapXs: -2px;
-  --spacingPaddingXs: 2px;
-  --spacingPaddingSm: 4px;
-  --spacingPaddingNone: 0;
-  --spacingPaddingMd: 6px;
-  --spacingPaddingLg: 8px;
-  --spacingPaddingXl: 12px;
   --radiusXs: 0;
   --radiusSm: 2px;
   --radiusMd: 4px;
@@ -272,6 +108,61 @@
   --radius5xl: 28px;
   --radius6xl: 32px;
   --radiusCircular: 9999px;
+  --borderXs: 1px;
+  --borderSm: 2px;
+  --borderMd: 3px;
+  --borderLg: 4px;
+  --borderXl: 5px;
+  --borderPrimaryDefault: #000aa4;
+  --borderPrimaryOnDefault: #000a82;
+  --borderPrimarySecondary: #0c5ff3;
+  --borderPrimaryOnSecondary: #367cf8;
+  --borderPrimaryTertiary: #0082fb;
+  --borderPrimaryOnTertiary: #349cfe;
+  --borderWarningDefault: #e8b931; /** Bg/Default/Default */
+  --borderWarningOnDefault: #e5a000; /** Bg/Default/Default Hover */
+  --borderWarningOnTertiary: #f9e2ae; /** Bg/Default/Tertiary Hover */
+  --borderWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
+  --borderWarningOnSecondary: #ffda6a; /** Bg/Default/Secondary Hover */
+  --borderWarningSecondary: #ffc107; /** Bg/Default/Secondary */
+  --borderDisabledDefault: #adadad; /** Bg/Default/Default */
+  --borderDisabledOnDisabled: #adadad; /** Bg/Default/Secondary */
+  --borderDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
+  --borderDisabledTertiary: #616161; /** Bg/Default/Tertiary */
+  --borderDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
+  --borderDisabledSecondary: #474747; /** Bg/Default/Secondary */
+  --borderSuccessOnTertiary: #a6e9d5; /** Bg/Default/Tertiary Hover */
+  --borderSuccessOnDefault: #009951; /** Bg/Default/Default Hover */
+  --borderSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
+  --borderSuccessOnSecondary: #4dd4ac; /** Bg/Default/Secondary Hover */
+  --borderSuccessSecondary: #20c997; /** Bg/Default/Secondary */
+  --borderSuccessDefault: #19bb57; /** Bg/Default/Default */
+  --borderDefaultQuaternary: #616161;
+  --borderDefaultOnTertiary: #5c5c5c;
+  --borderDefaultTertiary: #424242;
+  --borderDefaultOnSecondary: #3d3d3d;
+  --borderDefaultSecondary: #1f1f1f;
+  --borderDefaultOnDefault: #1a1a1a;
+  --borderDefaultOnQuaternary: #808080;
+  --borderDefaultPureBlack: #000000;
+  --borderNeutralOnQuaternary: #999999;
+  --borderNeutralOnTertiary: #b3b3b3;
+  --borderNeutralSecondary: #e0e0e0;
+  --borderNeutralTertiary: #c7c7c7;
+  --borderNeutralOnSecondary: #cccccc;
+  --borderNeutralQuaternary: #adadad;
+  --borderNeutralOnDefault: #e6e6e6;
+  --borderNeutralPureWhite: #ffffff;
+  --borderDangerOnTertiary: #fee9e7; /** Bg/Default/Tertiary Hover */
+  --borderDangerDefault: #f01328; /** Bg/Default/Default */
+  --borderDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
+  --borderDangerOnSecondary: #f6d1d5; /** Bg/Default/Secondary Hover */
+  --borderDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
+  --borderDangerOnDefault: #de0f1a; /** Bg/Default/Default Hover */
+  --borderUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
+  --borderUtilitiesComponentBorder: #d1d9e0;
+  --borderUtilitiesRateStarYellow: #eaa300;
+  --borderUtilitiesRateStar: #ffda6a;
   --baselineDisplay1FontFamily: Sukhumvit Set;
   --baselineDisplay1Tracking: 0;
   --baselineDisplay1LineHeight: 70px;
@@ -1760,4 +1651,113 @@
   --stateStatusWarningOnPrimary: #e5a000;
   --stateStatusWarningSecondary: #fff1c2;
   --stateStatusWarningOnSecondary: #ffe8a3;
+  --backgroundPrimary: #c50f1f;
+  --backgroundSecondary: #fafafa;
+  --backgroundTertiary: #f5f5f5;
+  --backgroundInverse: #000000;
+  --overlayLight: rgba(255, 255, 255, 0.4);
+  --overlayDark: rgba(0, 0, 0, 0.7);
+  --surfacePrimaryDefault: #000aa4; /** Bg/Default/Default */
+  --surfacePrimaryDefaultHover: #000a82; /** Bg/Default/Default Hover */
+  --surfacePrimarySecondary: #0c5ff3; /** Bg/Default/Secondary */
+  --surfacePrimarySecondaryHover: #367cf8; /** Bg/Default/Secondary Hover */
+  --surfacePrimaryTertiary: #0082fb; /** Bg/Default/Tertiary */
+  --surfacePrimaryTertiaryHover: #349cfe; /** Bg/Default/Tertiary Hover */
+  --surfacePrimaryQuaternary: #cde3ff; /** Bg/Default/Tertiary Hover */
+  --surfacePrimaryQuaternaryHover: #e3efff; /** Bg/Default/Tertiary Hover */
+  --surfaceSuccessDefault: #19bb57; /** Bg/Default/Default */
+  --surfaceSuccessDefaultHover: #009951; /** Bg/Default/Default Hover */
+  --surfaceSuccessSecondary: #20c997; /** Bg/Default/Secondary */
+  --surfaceSuccessSecondaryHover: #4dd4ac; /** Bg/Default/Secondary Hover */
+  --surfaceSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
+  --surfaceSuccessTertiaryHover: #daf3eb; /** Bg/Default/Tertiary Hover */
+  --surfaceWarningDefault: #e8b931; /** Bg/Default/Default */
+  --surfaceWarningDefaultHover: #e5a000; /** Bg/Default/Default Hover */
+  --surfaceWarningSecondary: #ffc107; /** Bg/Default/Secondary */
+  --surfaceWarningSecondaryHover: #ffda6a; /** Bg/Default/Secondary Hover */
+  --surfaceWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
+  --surfaceWarningTertiaryHover: #fcefd3; /** Bg/Default/Tertiary Hover */
+  --surfaceDisabledDefault: #f5f5f5; /** Bg/Default/Default */
+  --surfaceDisabledDefaultHover: #f5f5f5; /** Bg/Default/Default Hover */
+  --surfaceDisabledSecondary: #474747; /** Bg/Default/Secondary */
+  --surfaceDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
+  --surfaceDisabledTertiary: #616161; /** Bg/Default/Tertiary */
+  --surfaceDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
+  --surfaceUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
+  --surfaceUtilitiesButtonBackground: #f6f8fa;
+  --surfaceUtilitiesTagBackground: #ddf4ff;
+  --surfaceUtilitiesTabHover: #edefff;
+  --surfaceUtilitiesDisabledBackground: #818b98;
+  --surfaceUtilitiesComponentBorder: #d1d9e0;
+  --surfaceUtilitiesRateStar: #ffda6a;
+  --surfaceUtilitiesRateStarYellow: #eaa300;
+  --surfaceDangerTertiaryHover: #fee9e7; /** Bg/Default/Tertiary Hover */
+  --surfaceDangerDefault: #f01328; /** Bg/Default/Default */
+  --surfaceDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
+  --surfaceDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
+  --surfaceDangerSecondaryHover: #f6d1d5; /** Bg/Default/Secondary Hover */
+  --surfaceDangerDefaultHover: #de0f1a; /** Bg/Default/Default Hover */
+  --surfaceDefaultQuaternary: #616161;
+  --surfaceDefaultTertiaryHover: #5c5c5c;
+  --surfaceDefaultTertiary: #424242;
+  --surfaceDefaultSecondaryHover: #3d3d3d;
+  --surfaceDefaultSecondary: #1f1f1f;
+  --surfaceDefaultDefaultHover: #1a1a1a;
+  --surfaceDefaultQuaternaryHover: #808080;
+  --surfaceDefaultPureBlack: #000000;
+  --surfaceNeutralQuaternaryHover: #999999;
+  --surfaceNeutralTertiaryHover: #b3b3b3;
+  --surfaceNeutralSecondary: #e0e0e0;
+  --surfaceNeutralTertiary: #c7c7c7;
+  --surfaceNeutralSecondaryHover: #cccccc;
+  --surfaceNeutralQuaternary: #adadad;
+  --surfaceNeutralDefaultHover: #e6e6e6;
+  --surfaceNeutralPureWhite: #ffffff;
+  --textNeutralTertiary: #c7c7c7;
+  --textNeutralSecondary: #e0e0e0;
+  --textNeutralPureWhite: #ffffff;
+  --textNeutralOnDefault: #e6e6e6;
+  --textNeutralOnSecondary: #cccccc;
+  --textNeutralOnTertiary: #b3b3b3;
+  --textNeutralOnQuaternary: #999999;
+  --textNeutralQuaternary: #adadad;
+  --textDefaultOnTertiary: #5c5c5c;
+  --textDefaultOnDefault: #1a1a1a;
+  --textDefaultOnSecondary: #3d3d3d;
+  --textDefaultTertiary: #424242;
+  --textDefaultSecondary: #1f1f1f;
+  --textDefaultPureBlack: #000000;
+  --textDefaultQuaternary: #616161;
+  --textDefaultOnQuaternary: #808080;
+  --textPrimaryDefault: #000aa4;
+  --textPrimarySecondary: #0c5ff3;
+  --textPrimaryTertiary: #0082fb;
+  --textPrimaryOnDefault: #000a82;
+  --textPrimaryOnSecondary: #367cf8;
+  --textPrimaryOnTertiary: #349cfe;
+  --textWarningDefault: #e8b931; /** Bg/Default/Default */
+  --textWarningOnDefault: #e5a000; /** Bg/Default/Default Hover */
+  --textWarningOnTertiary: #f9e2ae; /** Bg/Default/Tertiary Hover */
+  --textWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
+  --textWarningOnSecondary: #ffda6a; /** Bg/Default/Secondary Hover */
+  --textWarningSecondary: #ffc107; /** Bg/Default/Secondary */
+  --textDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
+  --textDangerOnTertiary: #fee9e7; /** Bg/Default/Tertiary Hover */
+  --textDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
+  --textDangerOnSecondary: #f6d1d5; /** Bg/Default/Secondary Hover */
+  --textDangerOnDefault: #de0f1a; /** Bg/Default/Default Hover */
+  --textDangerDefault: #f01328; /** Bg/Default/Default */
+  --textDisabledOnDisabled: #adadad; /** Bg/Default/Secondary */
+  --textDisabledDefault: #adadad; /** Bg/Default/Default */
+  --textDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
+  --textDisabledTertiary: #616161; /** Bg/Default/Tertiary */
+  --textDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
+  --textDisabledSecondary: #474747; /** Bg/Default/Secondary */
+  --textSuccessOnTertiary: #a6e9d5; /** Bg/Default/Tertiary Hover */
+  --textSuccessOnDefault: #009951; /** Bg/Default/Default Hover */
+  --textSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
+  --textSuccessOnSecondary: #4dd4ac; /** Bg/Default/Secondary Hover */
+  --textSuccessSecondary: #20c997; /** Bg/Default/Secondary */
+  --textSuccessDefault: #19bb57; /** Bg/Default/Default */
+  --textUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
 }
