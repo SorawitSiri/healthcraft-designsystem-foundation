@@ -234,12 +234,26 @@
       }
     },
     "Line Height": {
+      "80": {
+        "$extensions": {
+          "com.figma.hiddenFromPublishing": false
+        },
+        "$type": "number",
+        "$value": 8
+      },
       "90": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": 9
+      },
+      "100": {
+        "$extensions": {
+          "com.figma.hiddenFromPublishing": false
+        },
+        "$type": "number",
+        "$value": 10
       },
       "120": {
         "$extensions": {

@@ -13,7 +13,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Default}",
+              "$value": "{Surface.Primary.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -25,7 +25,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Default Hover}"
+              "$value": "{Surface.Primary.Default Hover}"
             }
           },
           "Secondary": {
@@ -38,7 +38,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Secondary}",
+              "$value": "{Surface.Primary.Secondary}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -50,7 +50,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Secondary Hover}"
+              "$value": "{Surface.Primary.Secondary Hover}"
             }
           },
           "Tertiary": {
@@ -63,7 +63,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Tertiary}",
+              "$value": "{Surface.Primary.Tertiary}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -75,7 +75,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Tertiary Hover}"
+              "$value": "{Surface.Primary.Tertiary Hover}"
             }
           },
           "Success": {
@@ -88,7 +88,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Default}",
+              "$value": "{Surface.Success.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -100,7 +100,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Default Hover}"
+              "$value": "{Surface.Success.Default Hover}"
             }
           },
           "Warning": {
@@ -113,7 +113,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Default}",
+              "$value": "{Surface.Warning.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -125,7 +125,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Default Hover}"
+              "$value": "{Surface.Warning.Default Hover}"
             }
           },
           "Danger": {
@@ -138,7 +138,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Default}",
+              "$value": "{Surface.Danger.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -150,7 +150,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Default Hover}"
+              "$value": "{Surface.Danger.Default Hover}"
             }
           },
           "Default": {
@@ -163,7 +163,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Default}",
+              "$value": "{Surface.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -175,7 +175,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Default Hover}",
+              "$value": "{Surface.Default.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -189,7 +189,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Default Hover}",
+              "$value": "{Surface.Neutral.Default Hover}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -201,7 +201,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Secondary Hover}",
+              "$value": "{Surface.Neutral.Secondary Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -215,7 +215,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -227,7 +227,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default Hover}",
+              "$value": "{Surface.Disabled.Default Hover}",
               "$description": "v10: $ui-background"
             }
           }
@@ -242,7 +242,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}",
+              "$value": "{Text.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -265,7 +265,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}",
+              "$value": "{Text.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -288,7 +288,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}",
+              "$value": "{Text.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -311,7 +311,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}",
+              "$value": "{Text.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -334,7 +334,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}",
+              "$value": "{Text.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -357,7 +357,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}",
+              "$value": "{Text.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -380,7 +380,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}",
+              "$value": "{Text.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -404,7 +404,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Default.Default}",
+              "$value": "{Text.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -454,7 +454,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}",
+              "$value": "{Icon.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -500,7 +500,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}",
+              "$value": "{Icon.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -523,7 +523,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}",
+              "$value": "{Icon.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -546,7 +546,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}",
+              "$value": "{Icon.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -569,7 +569,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}",
+              "$value": "{Icon.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -592,7 +592,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}",
+              "$value": "{Icon.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -616,7 +616,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Border.Default.Default}",
+              "$value": "{Border.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -627,7 +627,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Default.Default}",
+              "$value": "{Icon.Default.Pure Black}",
               "$description": "v10: $ui-background"
             }
           },
@@ -891,7 +891,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}"
+              "$value": "{Text.Neutral.Pure White}"
             }
           },
           "Secondary": {
@@ -914,7 +914,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}"
+              "$value": "{Text.Neutral.Pure White}"
             }
           },
           "Tertiary": {
@@ -937,7 +937,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}"
+              "$value": "{Text.Neutral.Pure White}"
             }
           },
           "Success": {
@@ -960,7 +960,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}"
+              "$value": "{Text.Neutral.Pure White}"
             }
           },
           "Warning": {
@@ -983,7 +983,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}"
+              "$value": "{Text.Neutral.Pure White}"
             }
           },
           "Danger": {
@@ -1018,7 +1018,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Default.Default}",
+              "$value": "{Text.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1029,7 +1029,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}",
+              "$value": "{Text.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1042,7 +1042,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Default.Default}",
+              "$value": "{Text.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1103,7 +1103,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}"
+              "$value": "{Icon.Neutral.Pure White}"
             }
           },
           "Secondary": {
@@ -1126,7 +1126,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}"
+              "$value": "{Icon.Neutral.Pure White}"
             }
           },
           "Tertiary": {
@@ -1149,7 +1149,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}"
+              "$value": "{Icon.Neutral.Pure White}"
             }
           },
           "Success": {
@@ -1172,7 +1172,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}"
+              "$value": "{Icon.Neutral.Pure White}"
             }
           },
           "Warning": {
@@ -1195,7 +1195,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}"
+              "$value": "{Icon.Neutral.Pure White}"
             }
           },
           "Danger": {
@@ -1230,7 +1230,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Default.Default}",
+              "$value": "{Icon.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1254,7 +1254,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Default.Default}",
+              "$value": "{Icon.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1265,7 +1265,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Default.Default}",
+              "$value": "{Icon.Default.Pure Black}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1305,7 +1305,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1317,7 +1317,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default Hover}",
+              "$value": "{Surface.Disabled.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1331,7 +1331,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1343,7 +1343,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Default Hover}",
+              "$value": "{Surface.Primary.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1357,7 +1357,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1369,7 +1369,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Secondary Hover}",
+              "$value": "{Surface.Primary.Secondary Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1383,7 +1383,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1395,7 +1395,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Tertiary Hover}",
+              "$value": "{Surface.Primary.Tertiary Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1409,7 +1409,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Default}",
+              "$value": "{Surface.Success.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1421,7 +1421,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Default Hover}",
+              "$value": "{Surface.Success.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1435,7 +1435,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Default}",
+              "$value": "{Surface.Warning.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1447,7 +1447,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Default Hover}",
+              "$value": "{Surface.Warning.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1461,7 +1461,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Secondary}",
+              "$value": "{Surface.Danger.Secondary}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1473,7 +1473,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Secondary Hover}",
+              "$value": "{Surface.Danger.Secondary Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1487,7 +1487,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Utilities.Button Background}",
+              "$value": "{Surface.Utilities.Button Background}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1499,7 +1499,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Default Hover}",
+              "$value": "{Surface.Default.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1513,7 +1513,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Secondary}",
+              "$value": "{Surface.Neutral.Secondary}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1525,7 +1525,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Secondary Hover}",
+              "$value": "{Surface.Neutral.Secondary Hover}",
               "$description": "v10: $ui-background"
             }
           }
@@ -1543,7 +1543,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1555,7 +1555,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default Hover}",
+              "$value": "{Surface.Disabled.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1569,7 +1569,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1581,7 +1581,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default Hover}",
+              "$value": "{Surface.Disabled.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1595,7 +1595,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1607,7 +1607,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default Hover}",
+              "$value": "{Surface.Disabled.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1621,7 +1621,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Tertiary Hover}",
+              "$value": "{Surface.Success.Tertiary Hover}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1633,7 +1633,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Tertiary Hover}",
+              "$value": "{Surface.Success.Tertiary Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1647,7 +1647,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Secondary}",
+              "$value": "{Surface.Warning.Secondary}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1659,7 +1659,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Tertiary Hover}",
+              "$value": "{Surface.Warning.Tertiary Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1673,7 +1673,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Secondary}",
+              "$value": "{Surface.Danger.Secondary}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1685,7 +1685,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Tertiary Hover}",
+              "$value": "{Surface.Danger.Tertiary Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1699,7 +1699,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Secondary}",
+              "$value": "{Surface.Primary.Secondary}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1711,7 +1711,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Quaternary Hover}",
+              "$value": "{Surface.Primary.Quaternary Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1725,7 +1725,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Secondary}",
+              "$value": "{Surface.Neutral.Secondary}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1737,7 +1737,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Default Hover}",
+              "$value": "{Surface.Neutral.Default Hover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -1751,7 +1751,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1763,7 +1763,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default Hover}",
+              "$value": "{Surface.Disabled.Default Hover}",
               "$description": "v10: $ui-background"
             }
           }
@@ -1916,7 +1916,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Default.Default}",
+              "$value": "{Text.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -2128,7 +2128,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Default.Default}",
+              "$value": "{Icon.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -2603,7 +2603,7 @@
               "com.figma.hiddenFromPublishing": false
             },
             "$type": "color",
-            "$value": "{Text.Default.Default}"
+            "$value": "{Text.Default.Pure Black}"
           },
           "Placeholder": {
             "$extensions": {
@@ -2664,7 +2664,7 @@
                 "com.figma.hiddenFromPublishing": false
               },
               "$type": "color",
-              "$value": "{Text.Default.Default}"
+              "$value": "{Text.Default.Pure Black}"
             },
             "Disabled": {
               "$extensions": {
@@ -2708,7 +2708,7 @@
               "com.figma.hiddenFromPublishing": false
             },
             "$type": "color",
-            "$value": "{Surface.Surface.Neutral.Default}"
+            "$value": "{Surface.Neutral.Pure White}"
           },
           "Read-Only": {
             "$extensions": {
@@ -2719,7 +2719,7 @@
               "com.figma.hiddenFromPublishing": false
             },
             "$type": "color",
-            "$value": "{Surface.Surface.Utilities.Read-Only}"
+            "$value": "{Surface.Utilities.Read-Only}"
           },
           "Disabled": {
             "$extensions": {
@@ -2730,7 +2730,7 @@
               "com.figma.hiddenFromPublishing": false
             },
             "$type": "color",
-            "$value": "{Surface.Surface.Neutral.Default Hover}"
+            "$value": "{Surface.Neutral.Default Hover}"
           }
         }
       }
@@ -3034,7 +3034,7 @@
       }
     }
   },
-  "Utilities Component": {
+  "Component": {
     "Color": {
       "Default": {
         "Label": {
@@ -3238,7 +3238,7 @@
             }
           },
           "Default": {
-            "Default": {
+            "Pure Black": {
               "$extensions": {
                 "com.figma.scopes": [
                   "TEXT_FILL"
@@ -3246,7 +3246,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Default.Default}",
+              "$value": "{Text.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3328,7 +3328,7 @@
             }
           },
           "Neutral": {
-            "Default": {
+            "Pure White": {
               "$extensions": {
                 "com.figma.scopes": [
                   "TEXT_FILL"
@@ -3336,7 +3336,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Text.Neutral.Default}",
+              "$value": "{Text.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3570,6 +3570,74 @@
               "$value": "{Text.Warning.On Tertiary}",
               "$description": "Bg/Default/Default Hover"
             }
+          },
+          "Utilities": {
+            "Default": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "TEXT_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Text.Disabled.Default}",
+              "$description": "v10: $ui-background"
+            },
+            "On Default": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "TEXT_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Text.Disabled.On Disabled}",
+              "$description": "v10: $ui-background"
+            },
+            "Secondary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "TEXT_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Text.Disabled.Secondary}",
+              "$description": "v10: $ui-background"
+            },
+            "On Secondary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "TEXT_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Text.Disabled.Secondary Hover}",
+              "$description": "v10: $ui-background"
+            },
+            "Tertiary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "TEXT_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Text.Disabled.Tertiary}",
+              "$description": "v10: $ui-background"
+            },
+            "On Tertiary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "TEXT_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Text.Disabled.Tertiary Hover}",
+              "$description": "v10: $ui-background"
+            }
           }
         },
         "Background": {
@@ -3583,7 +3651,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Default}",
+              "$value": "{Surface.Primary.Default}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3595,7 +3663,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Default Hover}"
+              "$value": "{Surface.Primary.Default Hover}"
             }
           },
           "Secondary": {
@@ -3608,7 +3676,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Secondary}",
+              "$value": "{Surface.Primary.Secondary}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3620,7 +3688,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Secondary Hover}"
+              "$value": "{Surface.Primary.Secondary Hover}"
             }
           },
           "Tertiary": {
@@ -3633,7 +3701,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Tertiary}",
+              "$value": "{Surface.Primary.Tertiary}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3645,7 +3713,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Tertiary Hover}"
+              "$value": "{Surface.Primary.Tertiary Hover}"
             }
           },
           "Success": {
@@ -3658,7 +3726,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Default}",
+              "$value": "{Surface.Success.Default}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3670,7 +3738,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Default Hover}"
+              "$value": "{Surface.Success.Default Hover}"
             },
             "On Tertiary": {
               "$extensions": {
@@ -3681,7 +3749,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Tertiary Hover}"
+              "$value": "{Surface.Success.Tertiary Hover}"
             },
             "Tertiary": {
               "$extensions": {
@@ -3692,7 +3760,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Tertiary}",
+              "$value": "{Surface.Success.Tertiary}",
               "$description": "v10: $ui-background"
             },
             "On Secondary": {
@@ -3704,7 +3772,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Secondary Hover}"
+              "$value": "{Surface.Success.Secondary Hover}"
             },
             "Secondary": {
               "$extensions": {
@@ -3715,7 +3783,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Success.Secondary}",
+              "$value": "{Surface.Success.Secondary}",
               "$description": "v10: $ui-background"
             }
           },
@@ -3729,7 +3797,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Default}",
+              "$value": "{Surface.Warning.Default}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3741,7 +3809,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Default Hover}"
+              "$value": "{Surface.Warning.Default Hover}"
             },
             "On Tertiary": {
               "$extensions": {
@@ -3752,7 +3820,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Tertiary Hover}"
+              "$value": "{Surface.Warning.Tertiary Hover}"
             },
             "On Secondary": {
               "$extensions": {
@@ -3763,7 +3831,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Secondary Hover}"
+              "$value": "{Surface.Warning.Secondary Hover}"
             },
             "Tertiary": {
               "$extensions": {
@@ -3774,7 +3842,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Tertiary}",
+              "$value": "{Surface.Warning.Tertiary}",
               "$description": "v10: $ui-background"
             },
             "Secondary": {
@@ -3786,7 +3854,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Warning.Secondary}",
+              "$value": "{Surface.Warning.Secondary}",
               "$description": "v10: $ui-background"
             }
           },
@@ -3800,7 +3868,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Default}",
+              "$value": "{Surface.Danger.Default}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3812,7 +3880,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Default Hover}"
+              "$value": "{Surface.Danger.Default Hover}"
             },
             "On Tertiary": {
               "$extensions": {
@@ -3823,7 +3891,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Tertiary Hover}"
+              "$value": "{Surface.Danger.Tertiary Hover}"
             },
             "On Secondary": {
               "$extensions": {
@@ -3834,7 +3902,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Secondary Hover}"
+              "$value": "{Surface.Danger.Secondary Hover}"
             },
             "Tertiary": {
               "$extensions": {
@@ -3845,7 +3913,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Tertiary}",
+              "$value": "{Surface.Danger.Tertiary}",
               "$description": "v10: $ui-background"
             },
             "Secondary": {
@@ -3857,12 +3925,12 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Danger.Secondary}",
+              "$value": "{Surface.Danger.Secondary}",
               "$description": "v10: $ui-background"
             }
           },
           "Default": {
-            "Default": {
+            "Pure Black": {
               "$extensions": {
                 "com.figma.scopes": [
                   "FRAME_FILL",
@@ -3871,7 +3939,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Default}",
+              "$value": "{Surface.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3883,7 +3951,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Default Hover}",
+              "$value": "{Surface.Default.Default Hover}",
               "$description": "v10: $ui-background"
             },
             "Quaternary": {
@@ -3895,7 +3963,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Quaternary}",
+              "$value": "{Surface.Default.Quaternary}",
               "$description": "v10: $ui-background"
             },
             "On Tertiary": {
@@ -3907,7 +3975,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Tertiary Hover}"
+              "$value": "{Surface.Default.Tertiary Hover}"
             },
             "On Quaternary": {
               "$extensions": {
@@ -3918,7 +3986,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Quaternary Hover}"
+              "$value": "{Surface.Default.Quaternary Hover}"
             },
             "On Secondary": {
               "$extensions": {
@@ -3929,7 +3997,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Secondary Hover}"
+              "$value": "{Surface.Default.Secondary Hover}"
             },
             "Tertiary": {
               "$extensions": {
@@ -3940,7 +4008,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Tertiary}",
+              "$value": "{Surface.Default.Tertiary}",
               "$description": "v10: $ui-background"
             },
             "Secondary": {
@@ -3952,12 +4020,12 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Default.Secondary}",
+              "$value": "{Surface.Default.Secondary}",
               "$description": "v10: $ui-background"
             }
           },
           "Neutral": {
-            "Default": {
+            "Pure White": {
               "$extensions": {
                 "com.figma.scopes": [
                   "FRAME_FILL",
@@ -3966,7 +4034,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Default}",
+              "$value": "{Surface.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -3978,7 +4046,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Default Hover}",
+              "$value": "{Surface.Neutral.Default Hover}",
               "$description": "v10: $ui-background"
             },
             "Quaternary": {
@@ -3990,7 +4058,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Quaternary}",
+              "$value": "{Surface.Neutral.Quaternary}",
               "$description": "v10: $ui-background"
             },
             "On Tertiary": {
@@ -4002,7 +4070,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Tertiary Hover}"
+              "$value": "{Surface.Neutral.Tertiary Hover}"
             },
             "On Quaternary": {
               "$extensions": {
@@ -4013,7 +4081,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Quaternary Hover}"
+              "$value": "{Surface.Neutral.Quaternary Hover}"
             },
             "On Secondary": {
               "$extensions": {
@@ -4024,7 +4092,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Secondary Hover}"
+              "$value": "{Surface.Neutral.Secondary Hover}"
             },
             "Tertiary": {
               "$extensions": {
@@ -4035,7 +4103,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Tertiary}",
+              "$value": "{Surface.Neutral.Tertiary}",
               "$description": "v10: $ui-background"
             },
             "Secondary": {
@@ -4047,7 +4115,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Neutral.Secondary}",
+              "$value": "{Surface.Neutral.Secondary}",
               "$description": "v10: $ui-background"
             }
           },
@@ -4061,7 +4129,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default}",
+              "$value": "{Surface.Disabled.Default}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -4073,7 +4141,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Default Hover}",
+              "$value": "{Surface.Disabled.Default Hover}",
               "$description": "v10: $ui-background"
             },
             "Tertiary": {
@@ -4085,7 +4153,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Tertiary}",
+              "$value": "{Surface.Disabled.Tertiary}",
               "$description": "v10: $ui-background"
             },
             "On Tertiary": {
@@ -4097,7 +4165,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Tertiary Hover}"
+              "$value": "{Surface.Disabled.Tertiary Hover}"
             },
             "On Secondary": {
               "$extensions": {
@@ -4108,7 +4176,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Secondary Hover}"
+              "$value": "{Surface.Disabled.Secondary Hover}"
             },
             "Secondary": {
               "$extensions": {
@@ -4119,13 +4187,14 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Disabled.Secondary}",
+              "$value": "{Surface.Disabled.Secondary}",
               "$description": "v10: $ui-background"
             },
             "Disabled Background": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "ALL_SCOPES"
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
                 ],
                 "com.figma.hiddenFromPublishing": false
               },
@@ -4143,7 +4212,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Quaternary}",
+              "$value": "{Surface.Primary.Quaternary}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -4155,8 +4224,159 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Surface.Primary.Quaternary Hover}",
+              "$value": "{Surface.Primary.Quaternary Hover}",
               "$description": "v10: $ui-background"
+            }
+          },
+          "Utilities": {
+            "Default": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Surface.Disabled.Default}",
+              "$description": "v10: $ui-background"
+            },
+            "On Default": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Surface.Disabled.Default Hover}",
+              "$description": "v10: $ui-background"
+            },
+            "Secondary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Surface.Disabled.Secondary}",
+              "$description": "v10: $ui-background"
+            },
+            "On Secondary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Surface.Disabled.Secondary Hover}"
+            },
+            "Tertiary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Surface.Disabled.Tertiary}",
+              "$description": "v10: $ui-background"
+            },
+            "On Tertiary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Surface.Disabled.Tertiary Hover}"
+            },
+            "Disabled Background": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Utilities.Disabled Background}"
+            },
+            "Tab Hover": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Utilities.Tab Hover}"
+            },
+            "Tag Background": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Utilities.Tag Background}"
+            },
+            "Button Background": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Utilities.Button Background}"
+            },
+            "Read-Only": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "FRAME_FILL",
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": true,
+                "com.figma.codeSyntax": {
+                  "Web": "var(--sds-color-background-utilities-scrim)"
+                }
+              },
+              "$type": "color",
+              "$value": "{Brand Color.Read-Only}",
+              "$description": "Bg/Utilities/Scrim"
+            },
+            "Rate-Star": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Surface.Utilities.Rate-Star}"
+            },
+            "Rate-Star Yellow": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Surface.Utilities.Rate-Star Yellow}"
             }
           }
         },
@@ -4165,7 +4385,8 @@
             "Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4176,7 +4397,8 @@
             "On Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4188,7 +4410,8 @@
             "Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4199,7 +4422,8 @@
             "On Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4211,7 +4435,8 @@
             "Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4222,7 +4447,8 @@
             "On Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4234,7 +4460,8 @@
             "Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4245,7 +4472,8 @@
             "On Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4255,7 +4483,8 @@
             "Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4266,7 +4495,8 @@
             "On Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4276,7 +4506,8 @@
             "Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4287,7 +4518,8 @@
             "On Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4299,7 +4531,8 @@
             "Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4310,7 +4543,8 @@
             "On Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4320,7 +4554,8 @@
             "Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4331,7 +4566,8 @@
             "On Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4341,7 +4577,8 @@
             "On Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4351,7 +4588,8 @@
             "Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4364,7 +4602,8 @@
             "Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4375,7 +4614,8 @@
             "On Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4385,7 +4625,8 @@
             "Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4396,7 +4637,8 @@
             "On Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4406,7 +4648,8 @@
             "Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4417,7 +4660,8 @@
             "On Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4426,21 +4670,23 @@
             }
           },
           "Default": {
-            "Default": {
+            "Pure Black": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Default.Default}",
+              "$value": "{Icon.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4451,7 +4697,8 @@
             "Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4462,7 +4709,8 @@
             "On Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4472,7 +4720,8 @@
             "On Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4482,7 +4731,8 @@
             "Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4493,7 +4743,8 @@
             "Quaternary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4504,7 +4755,8 @@
             "On Quaternary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4513,21 +4765,23 @@
             }
           },
           "Neutral": {
-            "Default": {
+            "Pure White": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Default}",
+              "$value": "{Icon.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4538,7 +4792,8 @@
             "On Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4548,7 +4803,8 @@
             "Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4559,28 +4815,31 @@
             "Quaternary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Default.Quaternary}",
+              "$value": "{Icon.Neutral.Quaternary}",
               "$description": "v10: $ui-background"
             },
             "On Quaternary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Default.On Quaternary}"
+              "$value": "{Icon.Neutral.On Quaternary}"
             },
             "On Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4590,7 +4849,8 @@
             "Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4603,7 +4863,8 @@
             "Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4614,7 +4875,8 @@
             "On Default": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4625,7 +4887,8 @@
             "On Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4635,7 +4898,8 @@
             "On Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4645,7 +4909,8 @@
             "Tertiary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4656,7 +4921,8 @@
             "Secondary": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": true
               },
@@ -4667,12 +4933,133 @@
             "Disabled Background": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "SHAPE_FILL"
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": false
               },
               "$type": "color",
               "$value": "{Utilities.Disabled Background}"
+            }
+          },
+          "Utilities": {
+            "Default": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Icon.Disabled.Default}",
+              "$description": "v10: $ui-background"
+            },
+            "On Default": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Icon.Disabled.On Disabled}",
+              "$description": "v10: $ui-background"
+            },
+            "Secondary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Icon.Disabled.Secondary}",
+              "$description": "v10: $ui-background"
+            },
+            "On Secondary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Icon.Disabled.Secondary Hover}"
+            },
+            "Tertiary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Icon.Disabled.Tertiary}",
+              "$description": "v10: $ui-background"
+            },
+            "On Tertiary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Icon.Disabled.Tertiary Hover}"
+            },
+            "Disabled Background": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Utilities.Disabled Background}"
+            },
+            "Read-Only": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true,
+                "com.figma.codeSyntax": {
+                  "Web": "var(--sds-color-background-utilities-scrim)"
+                }
+              },
+              "$type": "color",
+              "$value": "{Brand Color.Read-Only}",
+              "$description": "Bg/Utilities/Scrim"
+            },
+            "Rate-Star Yellow": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Icon.Utilities.Rate-Star Yellow}"
+            },
+            "Rate-Star": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Icon.Utilities.Rate-Star}"
             }
           }
         },
@@ -4942,7 +5329,7 @@
             }
           },
           "Default": {
-            "Default": {
+            "Pure Black": {
               "$extensions": {
                 "com.figma.scopes": [
                   "STROKE_COLOR"
@@ -4950,7 +5337,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Border.Default.Default}",
+              "$value": "{Border.Default.Pure Black}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -5029,7 +5416,7 @@
             }
           },
           "Neutral": {
-            "Default": {
+            "Pure White": {
               "$extensions": {
                 "com.figma.scopes": [
                   "STROKE_COLOR"
@@ -5037,7 +5424,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Border.Neutral.Default}",
+              "$value": "{Border.Neutral.Pure White}",
               "$description": "v10: $ui-background"
             },
             "On Default": {
@@ -5183,12 +5570,120 @@
             "Disabled Background": {
               "$extensions": {
                 "com.figma.scopes": [
-                  "ALL_SCOPES"
+                  "STROKE_COLOR"
                 ],
                 "com.figma.hiddenFromPublishing": false
               },
               "$type": "color",
               "$value": "{Utilities.Disabled Background}"
+            }
+          },
+          "Utilities": {
+            "Default": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Border.Disabled.Default}",
+              "$description": "v10: $ui-background"
+            },
+            "On Default": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Border.Disabled.On Disabled}",
+              "$description": "v10: $ui-background"
+            },
+            "Secondary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Border.Disabled.Secondary}",
+              "$description": "v10: $ui-background"
+            },
+            "On Secondary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Border.Disabled.Secondary Hover}"
+            },
+            "Tertiary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Border.Disabled.Tertiary}",
+              "$description": "v10: $ui-background"
+            },
+            "On Tertiary": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": true
+              },
+              "$type": "color",
+              "$value": "{Border.Disabled.Tertiary Hover}"
+            },
+            "Disabled Background": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Utilities.Disabled Background}"
+            },
+            "Component Border": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Utilities.Component Border}"
+            },
+            "Rate-Star Yellow": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Border.Utilities.Rate-Star Yellow}"
+            },
+            "Rate-Star": {
+              "$extensions": {
+                "com.figma.scopes": [
+                  "SHAPE_FILL",
+                  "STROKE_COLOR"
+                ],
+                "com.figma.hiddenFromPublishing": false
+              },
+              "$type": "color",
+              "$value": "{Border.Utilities.Rate-Star}"
             }
           }
         }
@@ -5339,80 +5834,6 @@
       }
     },
     "Spacing": {
-      "Small": {
-        "Padding": {
-          "x": {
-            "$extensions": {
-              "com.figma.scopes": [
-                "GAP"
-              ],
-              "com.figma.hiddenFromPublishing": false
-            },
-            "$type": "number",
-            "$value": "{Spacing.Padding.md}"
-          },
-          "y": {
-            "$extensions": {
-              "com.figma.scopes": [
-                "GAP"
-              ],
-              "com.figma.hiddenFromPublishing": false
-            },
-            "$type": "number",
-            "$value": "{Spacing.Padding.sm}"
-          }
-        }
-      },
-      "Medium": {
-        "Padding": {
-          "x": {
-            "$extensions": {
-              "com.figma.scopes": [
-                "GAP"
-              ],
-              "com.figma.hiddenFromPublishing": false
-            },
-            "$type": "number",
-            "$value": "{Spacing.Padding.md}"
-          },
-          "y": {
-            "$extensions": {
-              "com.figma.scopes": [
-                "GAP"
-              ],
-              "com.figma.hiddenFromPublishing": false
-            },
-            "$type": "number",
-            "$value": "{Spacing.Padding.sm}"
-          }
-        }
-      },
-      "Large": {
-        "Padding": {
-          "x": {
-            "$extensions": {
-              "com.figma.scopes": [
-                "GAP"
-              ],
-              "com.figma.hiddenFromPublishing": false
-            },
-            "$type": "number",
-            "$value": "{Spacing.Padding.lg}"
-          },
-          "y": {
-            "$extensions": {
-              "com.figma.scopes": [
-                "GAP"
-              ],
-              "com.figma.hiddenFromPublishing": false
-            },
-            "$type": "number",
-            "$value": "{Spacing.Padding.md}"
-          }
-        }
-      }
-    },
-    "Gap": {
       "none": {
         "$extensions": {
           "com.figma.scopes": [

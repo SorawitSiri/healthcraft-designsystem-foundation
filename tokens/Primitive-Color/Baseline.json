@@ -750,7 +750,7 @@
           "com.figma.hiddenFromPublishing": true
         },
         "$type": "color",
-        "$value": "#dc3545",
+        "$value": "#e71226",
         "$description": "#D13438"
       },
       "Tint 10": {
@@ -5644,9 +5644,6 @@
   "Utilities": {
     "Component Border": {
       "$extensions": {
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ],
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
@@ -5654,9 +5651,6 @@
     },
     "Button Background": {
       "$extensions": {
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ],
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
@@ -5664,9 +5658,6 @@
     },
     "Disabled Background": {
       "$extensions": {
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ],
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
@@ -5674,13 +5665,31 @@
     },
     "Tag Background": {
       "$extensions": {
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ],
         "com.figma.hiddenFromPublishing": false
       },
       "$type": "color",
       "$value": "#ddf4ff"
+    },
+    "Tab Hover": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#edefff"
+    },
+    "Rate-Star": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffda6a"
+    },
+    "Rate-Star Yellow": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eaa300"
     }
   }
 }

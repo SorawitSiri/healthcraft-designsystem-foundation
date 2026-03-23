@@ -1,13 +1,14 @@
 {
   "tokenSetOrder": [
-    "Primitive-Color/Default",
-    "Semantic-Color/Default",
-    "Theme-Mode (Primitive)/Default",
-    "Component Layer/Default",
+    "",
+    "Primitive-Color/Baseline",
+    "Semantic-Color/Baseline",
+    "Theme-Mode (Primitive)/Baseline",
+    "Component Layer/Baseline",
     "Semantic-Typescale/Desktop",
     "Semantic-Typescale/Tablet",
     "Semantic-Typescale/Mobile",
-    "Primitive-Core/Default",
-    "Semantic-Core/Default"
+    "Primitive-Core/Baseline",
+    "Semantic-Core/Baseline"
   ]
 }
