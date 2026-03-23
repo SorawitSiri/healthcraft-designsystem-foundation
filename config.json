@@ -11,11 +11,15 @@
   "platforms": {
     "css": {
       "transformGroup": "tokens-studio",
+      "transforms": ["number/px"],
       "buildPath": "build/css/",
       "files": [
         {
           "destination": "tokens.css",
-          "format": "css/variables"
+          "format": "css/variables",
+          "options": {
+            "outputReferences": false
+          }
         }
       ]
     }
