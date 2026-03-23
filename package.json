@@ -1,0 +1,25 @@
+{
+  "name": "healthcraft-designsystem-foundation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorawitSiri/healthcraft-designsystem-foundation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SorawitSiri/healthcraft-designsystem-foundation/issues"
+  },
+  "homepage": "https://github.com/SorawitSiri/healthcraft-designsystem-foundation#readme",
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^2.0.3",
+    "style-dictionary": "^5.4.0"
+  }
+}
