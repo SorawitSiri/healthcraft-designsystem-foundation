@@ -53,24 +53,24 @@
   --iconPrimaryOnSecondary: #367cf8;
   --iconPrimaryTertiary: #0082fb;
   --iconPrimaryOnTertiary: #349cfe;
-  --iconWarningDefault: #e8b931; /** Bg/Default/Default */
-  --iconWarningOnDefault: #e5a000; /** Bg/Default/Default Hover */
-  --iconWarningOnTertiary: #f9e2ae; /** Bg/Default/Tertiary Hover */
-  --iconWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
-  --iconWarningOnSecondary: #ffda6a; /** Bg/Default/Secondary Hover */
-  --iconWarningSecondary: #ffc107; /** Bg/Default/Secondary */
-  --iconDisabledDefault: #adadad; /** Bg/Default/Default */
-  --iconDisabledOnDisabled: #adadad; /** Bg/Default/Secondary */
-  --iconDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
-  --iconDisabledTertiary: #616161; /** Bg/Default/Tertiary */
-  --iconDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
-  --iconDisabledSecondary: #474747; /** Bg/Default/Secondary */
-  --iconSuccessOnTertiary: #a6e9d5; /** Bg/Default/Tertiary Hover */
-  --iconSuccessOnDefault: #009951; /** Bg/Default/Default Hover */
-  --iconSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
-  --iconSuccessOnSecondary: #4dd4ac; /** Bg/Default/Secondary Hover */
-  --iconSuccessSecondary: #20c997; /** Bg/Default/Secondary */
-  --iconSuccessDefault: #19bb57; /** Bg/Default/Default */
+  --iconWarningDefault: #e8b931;
+  --iconWarningOnDefault: #e5a000;
+  --iconWarningOnTertiary: #f9e2ae;
+  --iconWarningTertiary: #ffe69c;
+  --iconWarningOnSecondary: #ffda6a;
+  --iconWarningSecondary: #ffc107;
+  --iconDisabledDefault: #adadad;
+  --iconDisabledOnDefault: #adadad;
+  --iconDisabledOnTertiary: #616161;
+  --iconDisabledTertiary: #616161;
+  --iconDisabledOnSecondary: #3d3d3d;
+  --iconDisabledSecondary: #474747;
+  --iconSuccessOnTertiary: #a6e9d5;
+  --iconSuccessOnDefault: #009951;
+  --iconSuccessTertiary: #79dfc1;
+  --iconSuccessOnSecondary: #4dd4ac;
+  --iconSuccessSecondary: #20c997;
+  --iconSuccessDefault: #19bb57;
   --iconDefaultQuaternary: #616161;
   --iconDefaultOnTertiary: #5c5c5c;
   --iconDefaultTertiary: #424242;
@@ -87,13 +87,13 @@
   --iconNeutralQuaternary: #adadad;
   --iconNeutralOnDefault: #e6e6e6;
   --iconNeutralPureWhite: #ffffff;
-  --iconDangerOnTertiary: #fee9e7; /** Bg/Default/Tertiary Hover */
-  --iconDangerDefault: #f01328; /** Bg/Default/Default */
-  --iconDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
-  --iconDangerOnSecondary: #f6d1d5; /** Bg/Default/Secondary Hover */
-  --iconDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
-  --iconDangerOnDefault: #de0f1a; /** Bg/Default/Default Hover */
-  --iconUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
+  --iconDangerOnTertiary: #fee9e7;
+  --iconDangerDefault: #f01328;
+  --iconDangerTertiary: #d33f4c;
+  --iconDangerOnSecondary: #f6d1d5;
+  --iconDangerSecondary: #c50f1f;
+  --iconDangerOnDefault: #de0f1a;
+  --iconUtilitiesReadOnly: #eff2f5;
   --iconUtilitiesDisabledBackground: #818b98;
   --iconUtilitiesRateStarYellow: #eaa300;
   --iconUtilitiesRateStar: #ffda6a;
@@ -119,24 +119,24 @@
   --borderPrimaryOnSecondary: #367cf8;
   --borderPrimaryTertiary: #0082fb;
   --borderPrimaryOnTertiary: #349cfe;
-  --borderWarningDefault: #e8b931; /** Bg/Default/Default */
-  --borderWarningOnDefault: #e5a000; /** Bg/Default/Default Hover */
-  --borderWarningOnTertiary: #f9e2ae; /** Bg/Default/Tertiary Hover */
-  --borderWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
-  --borderWarningOnSecondary: #ffda6a; /** Bg/Default/Secondary Hover */
-  --borderWarningSecondary: #ffc107; /** Bg/Default/Secondary */
-  --borderDisabledDefault: #adadad; /** Bg/Default/Default */
-  --borderDisabledOnDisabled: #adadad; /** Bg/Default/Secondary */
-  --borderDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
-  --borderDisabledTertiary: #616161; /** Bg/Default/Tertiary */
-  --borderDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
-  --borderDisabledSecondary: #474747; /** Bg/Default/Secondary */
-  --borderSuccessOnTertiary: #a6e9d5; /** Bg/Default/Tertiary Hover */
-  --borderSuccessOnDefault: #009951; /** Bg/Default/Default Hover */
-  --borderSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
-  --borderSuccessOnSecondary: #4dd4ac; /** Bg/Default/Secondary Hover */
-  --borderSuccessSecondary: #20c997; /** Bg/Default/Secondary */
-  --borderSuccessDefault: #19bb57; /** Bg/Default/Default */
+  --borderWarningDefault: #e8b931;
+  --borderWarningOnDefault: #e5a000;
+  --borderWarningOnTertiary: #f9e2ae;
+  --borderWarningTertiary: #ffe69c;
+  --borderWarningOnSecondary: #ffda6a;
+  --borderWarningSecondary: #ffc107;
+  --borderDisabledDefault: #adadad;
+  --borderDisabledOnDisabled: #adadad;
+  --borderDisabledOnTertiary: #616161;
+  --borderDisabledTertiary: #616161;
+  --borderDisabledOnSecondary: #3d3d3d;
+  --borderDisabledSecondary: #474747;
+  --borderSuccessOnTertiary: #a6e9d5;
+  --borderSuccessOnDefault: #009951;
+  --borderSuccessTertiary: #79dfc1;
+  --borderSuccessOnSecondary: #4dd4ac;
+  --borderSuccessSecondary: #20c997;
+  --borderSuccessDefault: #19bb57;
   --borderDefaultQuaternary: #616161;
   --borderDefaultOnTertiary: #5c5c5c;
   --borderDefaultTertiary: #424242;
@@ -153,276 +153,196 @@
   --borderNeutralQuaternary: #adadad;
   --borderNeutralOnDefault: #e6e6e6;
   --borderNeutralPureWhite: #ffffff;
-  --borderDangerOnTertiary: #fee9e7; /** Bg/Default/Tertiary Hover */
-  --borderDangerDefault: #f01328; /** Bg/Default/Default */
-  --borderDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
-  --borderDangerOnSecondary: #f6d1d5; /** Bg/Default/Secondary Hover */
-  --borderDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
-  --borderDangerOnDefault: #de0f1a; /** Bg/Default/Default Hover */
-  --borderUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
+  --borderDangerOnTertiary: #fee9e7;
+  --borderDangerDefault: #f01328;
+  --borderDangerTertiary: #d33f4c;
+  --borderDangerOnSecondary: #f6d1d5;
+  --borderDangerSecondary: #c50f1f;
+  --borderDangerOnDefault: #de0f1a;
+  --borderUtilitiesReadOnly: #eff2f5;
   --borderUtilitiesComponentBorder: #d1d9e0;
   --borderUtilitiesRateStarYellow: #eaa300;
   --borderUtilitiesRateStar: #ffda6a;
-  --baselineDisplay1FontFamily: Sukhumvit Set;
-  --baselineDisplay1Tracking: 0;
-  --baselineDisplay1LineHeight: 70px;
-  --baselineDisplay1FontSize: 58px;
-  --baselineDisplay2FontFamily: Sukhumvit Set;
-  --baselineDisplay2Tracking: 0;
-  --baselineDisplay2FontSize: 52px;
-  --baselineDisplay2LineHeight: 62px;
-  --baselineDisplay3FontFamily: Sukhumvit Set;
-  --baselineDisplay3LineHeight: 54px;
-  --baselineDisplay3FontSize: 45px;
-  --baselineDisplay3Tracking: 0;
-  --baselineDisplay4FontFamily: Sukhumvit Set;
-  --baselineDisplay4FontSize: 40px;
-  --baselineDisplay4LineHeight: 48px;
-  --baselineDisplay4Tracking: 0;
-  --baselineH1FontFamily: Sukhumvit Set;
-  --baselineH1FontSize: 36px;
-  --baselineH1LineHeight: 44px;
-  --baselineH1Tracking: 0;
-  --baselineH2FontFamily: Sukhumvit Set;
-  --baselineH2FontSize: 32px;
-  --baselineH2LineHeight: 39px;
-  --baselineH2Tracking: 0;
-  --baselineH3FontFamily: Sukhumvit Set;
-  --baselineH3FontSize: 28px;
-  --baselineH3LineHeight: 34px;
-  --baselineH3Tracking: 0;
-  --baselineH4FontFamily: Sukhumvit Set;
-  --baselineH4FontSize: 25px;
-  --baselineH4LineHeight: 30px;
-  --baselineH4Tracking: 0;
-  --baselineH5FontFamily: Sukhumvit Set;
-  --baselineH5FontSize: 22px;
-  --baselineH5LineHeight: 27px;
-  --baselineH5Tracking: 0;
-  --baselineH6FontFamily: Sukhumvit Set;
-  --baselineH6FontSize: 20px;
-  --baselineH6LineHeight: 25px;
-  --baselineH6Tracking: 0;
-  --baselineTitleFontFamily: Sukhumvit Set;
-  --baselineTitleFontSize: 18px;
-  --baselineTitleLineHeight: 25px;
-  --baselineTitleTracking: 0;
-  --baselineSubtitleFontFamily: Sukhumvit Set;
-  --baselineSubtitleFontSize: 16px;
-  --baselineSubtitleLineHeight: 20px;
-  --baselineSubtitleTracking: 0;
-  --baselineLabelLgFontFamily: Sukhumvit Set;
-  --baselineLabelLgFontSize: 14px;
-  --baselineLabelLgLineHeight: 20px;
-  --baselineLabelLgTracking: 0;
-  --baselineLabelMdFontFamily: Sukhumvit Set;
-  --baselineLabelMdFontSize: 12px;
-  --baselineLabelMdLineHeight: 16px;
-  --baselineLabelMdTracking: 0;
-  --baselineLabelSmFontFamily: Sukhumvit Set;
-  --baselineLabelSmFontSize: 11px;
-  --baselineLabelSmLineHeight: 14px;
-  --baselineLabelSmTracking: 0;
-  --baselineParagraphFontFamily: Sukhumvit Set;
-  --baselineParagraphFontSize: 10px;
-  --baselineParagraphLineHeight: 14px;
-  --baselineParagraphTracking: 0;
-  --baselineCaptionLgFontFamily: Sukhumvit Set;
-  --baselineCaptionLgFontSize: 9px;
-  --baselineCaptionLgLineHeight: 10px;
-  --baselineCaptionLgTracking: 0;
-  --baselineCaptionMdFontFamily: Sukhumvit Set;
-  --baselineCaptionMdFontSize: 8px;
-  --baselineCaptionMdLineHeight: 10px;
-  --baselineCaptionMdTracking: 0;
-  --baselineCaptionSmFontFamily: Sukhumvit Set;
-  --baselineCaptionSmFontSize: 7px;
-  --baselineCaptionSmLineHeight: 10px;
-  --baselineCaptionSmTracking: 0;
-  --baselineCaptionXsFontFamily: Sukhumvit Set;
-  --baselineCaptionXsFontSize: 6px;
-  --baselineCaptionXsLineHeight: 8px;
-  --baselineCaptionXsTracking: 0;
-  --buttonColorDefaultBackgroundPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --buttonColorDefaultBackgroundPrimaryDefault: #000aa4;
   --buttonColorDefaultBackgroundPrimaryHover: #000a82;
-  --buttonColorDefaultBackgroundSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --buttonColorDefaultBackgroundSecondaryDefault: #0c5ff3;
   --buttonColorDefaultBackgroundSecondaryHover: #367cf8;
-  --buttonColorDefaultBackgroundTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --buttonColorDefaultBackgroundTertiaryDefault: #0082fb;
   --buttonColorDefaultBackgroundTertiaryHover: #349cfe;
-  --buttonColorDefaultBackgroundSuccessDefault: #19bb57; /** v10: $ui-background */
+  --buttonColorDefaultBackgroundSuccessDefault: #19bb57;
   --buttonColorDefaultBackgroundSuccessHover: #009951;
-  --buttonColorDefaultBackgroundWarningDefault: #e8b931; /** v10: $ui-background */
+  --buttonColorDefaultBackgroundWarningDefault: #e8b931;
   --buttonColorDefaultBackgroundWarningHover: #e5a000;
-  --buttonColorDefaultBackgroundDangerDefault: #f01328; /** v10: $ui-background */
+  --buttonColorDefaultBackgroundDangerDefault: #f01328;
   --buttonColorDefaultBackgroundDangerHover: #de0f1a;
-  --buttonColorDefaultBackgroundDefaultDefault: #000000; /** v10: $ui-background */
-  --buttonColorDefaultBackgroundDefaultHover: #1a1a1a; /** v10: $ui-background */
-  --buttonColorDefaultBackgroundNeutralDefault: #e6e6e6; /** v10: $ui-background */
-  --buttonColorDefaultBackgroundNeutralHover: #cccccc; /** v10: $ui-background */
-  --buttonColorDefaultBackgroundDisabledDefault: #f5f5f5; /** v10: $ui-background */
-  --buttonColorDefaultBackgroundDisabledHover: #f5f5f5; /** v10: $ui-background */
-  --buttonColorDefaultLabelPrimaryDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultBackgroundDefaultDefault: #000000;
+  --buttonColorDefaultBackgroundDefaultHover: #1a1a1a;
+  --buttonColorDefaultBackgroundNeutralDefault: #e6e6e6;
+  --buttonColorDefaultBackgroundNeutralHover: #cccccc;
+  --buttonColorDefaultBackgroundDisabledDefault: #f5f5f5;
+  --buttonColorDefaultBackgroundDisabledHover: #f5f5f5;
+  --buttonColorDefaultLabelPrimaryDefault: #ffffff;
   --buttonColorDefaultLabelPrimaryHover: #e6e6e6;
-  --buttonColorDefaultLabelSecondaryDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultLabelSecondaryDefault: #ffffff;
   --buttonColorDefaultLabelSecondaryHover: #e6e6e6;
-  --buttonColorDefaultLabelTertiaryDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultLabelTertiaryDefault: #ffffff;
   --buttonColorDefaultLabelTertiaryHover: #e6e6e6;
-  --buttonColorDefaultLabelSuccessDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultLabelSuccessDefault: #ffffff;
   --buttonColorDefaultLabelSuccessHover: #e6e6e6;
-  --buttonColorDefaultLabelWarningDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultLabelWarningDefault: #ffffff;
   --buttonColorDefaultLabelWarningHover: #e6e6e6;
-  --buttonColorDefaultLabelDangerDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultLabelDangerDefault: #ffffff;
   --buttonColorDefaultLabelDangerHover: #e6e6e6;
-  --buttonColorDefaultLabelDefaultDefault: #ffffff; /** v10: $ui-background */
-  --buttonColorDefaultLabelDefaultHover: #e6e6e6; /** v10: $ui-background */
-  --buttonColorDefaultLabelNeutralDefault: #000000; /** v10: $ui-background */
-  --buttonColorDefaultLabelNeutralHover: #1a1a1a; /** v10: $ui-background */
-  --buttonColorDefaultLabelDisabledDefault: #adadad; /** v10: $ui-background */
-  --buttonColorDefaultLabelDisabledHover: #adadad; /** v10: $ui-background */
-  --buttonColorDefaultIconPrimaryDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultLabelDefaultDefault: #ffffff;
+  --buttonColorDefaultLabelDefaultHover: #e6e6e6;
+  --buttonColorDefaultLabelNeutralDefault: #000000;
+  --buttonColorDefaultLabelNeutralHover: #1a1a1a;
+  --buttonColorDefaultLabelDisabledDefault: #adadad;
+  --buttonColorDefaultLabelDisabledHover: #adadad;
+  --buttonColorDefaultIconPrimaryDefault: #ffffff;
   --buttonColorDefaultIconPrimaryHover: #e6e6e6;
-  --buttonColorDefaultIconSecondaryDefault: #e0e0e0; /** v10: $ui-background */
+  --buttonColorDefaultIconSecondaryDefault: #e0e0e0;
   --buttonColorDefaultIconSecondaryHover: #cccccc;
-  --buttonColorDefaultIconTertiaryDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultIconTertiaryDefault: #ffffff;
   --buttonColorDefaultIconTertiaryHover: #e6e6e6;
-  --buttonColorDefaultIconSuccessDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultIconSuccessDefault: #ffffff;
   --buttonColorDefaultIconSuccessHover: #e6e6e6;
-  --buttonColorDefaultIconWarningDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultIconWarningDefault: #ffffff;
   --buttonColorDefaultIconWarningHover: #e6e6e6;
-  --buttonColorDefaultIconDangerDefault: #ffffff; /** v10: $ui-background */
+  --buttonColorDefaultIconDangerDefault: #ffffff;
   --buttonColorDefaultIconDangerHover: #e6e6e6;
-  --buttonColorDefaultIconDefaultDefault: #ffffff; /** v10: $ui-background */
-  --buttonColorDefaultIconDefaultHover: #e6e6e6; /** v10: $ui-background */
-  --buttonColorDefaultIconNeutralDefault: #000000; /** v10: $ui-background */
-  --buttonColorDefaultIconNeutralHover: #000000; /** v10: $ui-background */
-  --buttonColorDefaultIconDisabledDefault: #adadad; /** v10: $ui-background */
-  --buttonColorDefaultIconDisabledHover: #adadad; /** v10: $ui-background */
-  --buttonColorOutlineBorderPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --buttonColorDefaultIconDefaultDefault: #ffffff;
+  --buttonColorDefaultIconDefaultHover: #e6e6e6;
+  --buttonColorDefaultIconNeutralDefault: #000000;
+  --buttonColorDefaultIconNeutralHover: #000000;
+  --buttonColorDefaultIconDisabledDefault: #adadad;
+  --buttonColorDefaultIconDisabledHover: #adadad;
+  --buttonColorOutlineBorderPrimaryDefault: #000aa4;
   --buttonColorOutlineBorderPrimaryHover: #000a82;
-  --buttonColorOutlineBorderSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --buttonColorOutlineBorderSecondaryDefault: #0c5ff3;
   --buttonColorOutlineBorderSecondaryHover: #367cf8;
-  --buttonColorOutlineBorderTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --buttonColorOutlineBorderTertiaryDefault: #0082fb;
   --buttonColorOutlineBorderTertiaryHover: #349cfe;
-  --buttonColorOutlineBorderSuccessDefault: #19bb57; /** v10: $ui-background */
+  --buttonColorOutlineBorderSuccessDefault: #19bb57;
   --buttonColorOutlineBorderSuccessHover: #009951;
-  --buttonColorOutlineBorderWarningDefault: #e8b931; /** v10: $ui-background */
+  --buttonColorOutlineBorderWarningDefault: #e8b931;
   --buttonColorOutlineBorderWarningHover: #e5a000;
-  --buttonColorOutlineBorderDangerDefault: #f01328; /** v10: $ui-background */
+  --buttonColorOutlineBorderDangerDefault: #f01328;
   --buttonColorOutlineBorderDangerHover: #de0f1a;
-  --buttonColorOutlineBorderDefaultDefault: #d1d9e0; /** v10: $ui-background */
-  --buttonColorOutlineBorderDefaultHover: #1a1a1a; /** v10: $ui-background */
-  --buttonColorOutlineBorderNeutralDefault: #e0e0e0; /** v10: $ui-background */
-  --buttonColorOutlineBorderNeutralHover: #cccccc; /** v10: $ui-background */
-  --buttonColorOutlineBorderDisabledDefault: #adadad; /** v10: $ui-background */
-  --buttonColorOutlineBorderDisabledHover: #adadad; /** v10: $ui-background */
-  --buttonColorOutlineLabelPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --buttonColorOutlineBorderDefaultDefault: #d1d9e0;
+  --buttonColorOutlineBorderDefaultHover: #1a1a1a;
+  --buttonColorOutlineBorderNeutralDefault: #e0e0e0;
+  --buttonColorOutlineBorderNeutralHover: #cccccc;
+  --buttonColorOutlineBorderDisabledDefault: #adadad;
+  --buttonColorOutlineBorderDisabledHover: #adadad;
+  --buttonColorOutlineLabelPrimaryDefault: #000aa4;
   --buttonColorOutlineLabelPrimaryHover: #ffffff;
-  --buttonColorOutlineLabelSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --buttonColorOutlineLabelSecondaryDefault: #0c5ff3;
   --buttonColorOutlineLabelSecondaryHover: #ffffff;
-  --buttonColorOutlineLabelTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --buttonColorOutlineLabelTertiaryDefault: #0082fb;
   --buttonColorOutlineLabelTertiaryHover: #ffffff;
-  --buttonColorOutlineLabelSuccessDefault: #19bb57; /** v10: $ui-background */
+  --buttonColorOutlineLabelSuccessDefault: #19bb57;
   --buttonColorOutlineLabelSuccessHover: #ffffff;
-  --buttonColorOutlineLabelWarningDefault: #e8b931; /** v10: $ui-background */
+  --buttonColorOutlineLabelWarningDefault: #e8b931;
   --buttonColorOutlineLabelWarningHover: #ffffff;
-  --buttonColorOutlineLabelDangerDefault: #f01328; /** v10: $ui-background */
+  --buttonColorOutlineLabelDangerDefault: #f01328;
   --buttonColorOutlineLabelDangerHover: #f01328;
-  --buttonColorOutlineLabelDefaultDefault: #000000; /** v10: $ui-background */
-  --buttonColorOutlineLabelDefaultHover: #ffffff; /** v10: $ui-background */
-  --buttonColorOutlineLabelNeutralDefault: #000000; /** v10: $ui-background */
-  --buttonColorOutlineLabelNeutralHover: #1a1a1a; /** v10: $ui-background */
-  --buttonColorOutlineLabelDisabledDefault: #adadad; /** v10: $ui-background */
-  --buttonColorOutlineLabelDisabledHover: #adadad; /** v10: $ui-background */
-  --buttonColorOutlineIconPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --buttonColorOutlineLabelDefaultDefault: #000000;
+  --buttonColorOutlineLabelDefaultHover: #ffffff;
+  --buttonColorOutlineLabelNeutralDefault: #000000;
+  --buttonColorOutlineLabelNeutralHover: #1a1a1a;
+  --buttonColorOutlineLabelDisabledDefault: #adadad;
+  --buttonColorOutlineLabelDisabledHover: #adadad;
+  --buttonColorOutlineIconPrimaryDefault: #000aa4;
   --buttonColorOutlineIconPrimaryHover: #ffffff;
-  --buttonColorOutlineIconSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --buttonColorOutlineIconSecondaryDefault: #0c5ff3;
   --buttonColorOutlineIconSecondaryHover: #ffffff;
-  --buttonColorOutlineIconTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --buttonColorOutlineIconTertiaryDefault: #0082fb;
   --buttonColorOutlineIconTertiaryHover: #ffffff;
-  --buttonColorOutlineIconSuccessDefault: #19bb57; /** v10: $ui-background */
+  --buttonColorOutlineIconSuccessDefault: #19bb57;
   --buttonColorOutlineIconSuccessHover: #ffffff;
-  --buttonColorOutlineIconWarningDefault: #e8b931; /** v10: $ui-background */
+  --buttonColorOutlineIconWarningDefault: #e8b931;
   --buttonColorOutlineIconWarningHover: #ffffff;
-  --buttonColorOutlineIconDangerDefault: #f01328; /** v10: $ui-background */
+  --buttonColorOutlineIconDangerDefault: #f01328;
   --buttonColorOutlineIconDangerHover: #f01328;
-  --buttonColorOutlineIconDefaultDefault: #000000; /** v10: $ui-background */
-  --buttonColorOutlineIconDefaultHover: #e6e6e6; /** v10: $ui-background */
-  --buttonColorOutlineIconNeutralDefault: #000000; /** v10: $ui-background */
-  --buttonColorOutlineIconNeutralHover: #000000; /** v10: $ui-background */
-  --buttonColorOutlineIconDisabledDefault: #adadad; /** v10: $ui-background */
-  --buttonColorOutlineIconDisabledHover: #adadad; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundDisabledDefault: #f5f5f5; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundDisabledHover: #f5f5f5; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundPrimaryDefault: #f5f5f5; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundPrimaryHover: #000a82; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundSecondaryDefault: #f5f5f5; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundSecondaryHover: #367cf8; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundTertiaryDefault: #f5f5f5; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundTertiaryHover: #349cfe; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundSuccessDefault: #19bb57; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundSuccessHover: #009951; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundWarningDefault: #e8b931; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundWarningHover: #e5a000; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundDangerDefault: #c50f1f; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundDangerHover: #f6d1d5; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundDefaultDefault: #f6f8fa; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundDefaultHover: #1a1a1a; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundNeutralDefault: #e0e0e0; /** v10: $ui-background */
-  --buttonColorOutlineBackgroundNeutralHover: #cccccc; /** v10: $ui-background */
-  --buttonColorLinkBackgroundPrimaryDefault: #f5f5f5; /** v10: $ui-background */
-  --buttonColorLinkBackgroundPrimaryHover: #f5f5f5; /** v10: $ui-background */
-  --buttonColorLinkBackgroundSecondaryDefault: #f5f5f5; /** v10: $ui-background */
-  --buttonColorLinkBackgroundSecondaryHover: #f5f5f5; /** v10: $ui-background */
-  --buttonColorLinkBackgroundTertiaryDefault: #f5f5f5; /** v10: $ui-background */
-  --buttonColorLinkBackgroundTertiaryHover: #f5f5f5; /** v10: $ui-background */
-  --buttonColorLinkBackgroundSuccessDefault: #daf3eb; /** v10: $ui-background */
-  --buttonColorLinkBackgroundSuccessHover: #daf3eb; /** v10: $ui-background */
-  --buttonColorLinkBackgroundWarningDefault: #ffc107; /** v10: $ui-background */
-  --buttonColorLinkBackgroundWarningHover: #fcefd3; /** v10: $ui-background */
-  --buttonColorLinkBackgroundDangerDefault: #c50f1f; /** v10: $ui-background */
-  --buttonColorLinkBackgroundDangerHover: #fee9e7; /** v10: $ui-background */
-  --buttonColorLinkBackgroundDefaultDefault: #0c5ff3; /** v10: $ui-background */
-  --buttonColorLinkBackgroundDefaultHover: #e3efff; /** v10: $ui-background */
-  --buttonColorLinkBackgroundNeutralDefault: #e0e0e0; /** v10: $ui-background */
-  --buttonColorLinkBackgroundNeutralHover: #e6e6e6; /** v10: $ui-background */
-  --buttonColorLinkBackgroundDisabledDefault: #f5f5f5; /** v10: $ui-background */
-  --buttonColorLinkBackgroundDisabledHover: #f5f5f5; /** v10: $ui-background */
-  --buttonColorLinkLabelPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --buttonColorOutlineIconDefaultDefault: #000000;
+  --buttonColorOutlineIconDefaultHover: #e6e6e6;
+  --buttonColorOutlineIconNeutralDefault: #000000;
+  --buttonColorOutlineIconNeutralHover: #000000;
+  --buttonColorOutlineIconDisabledDefault: #adadad;
+  --buttonColorOutlineIconDisabledHover: #adadad;
+  --buttonColorOutlineBackgroundDisabledDefault: #f5f5f5;
+  --buttonColorOutlineBackgroundDisabledHover: #f5f5f5;
+  --buttonColorOutlineBackgroundPrimaryDefault: #f5f5f5;
+  --buttonColorOutlineBackgroundPrimaryHover: #000a82;
+  --buttonColorOutlineBackgroundSecondaryDefault: #f5f5f5;
+  --buttonColorOutlineBackgroundSecondaryHover: #367cf8;
+  --buttonColorOutlineBackgroundTertiaryDefault: #f5f5f5;
+  --buttonColorOutlineBackgroundTertiaryHover: #349cfe;
+  --buttonColorOutlineBackgroundSuccessDefault: #19bb57;
+  --buttonColorOutlineBackgroundSuccessHover: #009951;
+  --buttonColorOutlineBackgroundWarningDefault: #e8b931;
+  --buttonColorOutlineBackgroundWarningHover: #e5a000;
+  --buttonColorOutlineBackgroundDangerDefault: #c50f1f;
+  --buttonColorOutlineBackgroundDangerHover: #f6d1d5;
+  --buttonColorOutlineBackgroundDefaultDefault: #f6f8fa;
+  --buttonColorOutlineBackgroundDefaultHover: #1a1a1a;
+  --buttonColorOutlineBackgroundNeutralDefault: #e0e0e0;
+  --buttonColorOutlineBackgroundNeutralHover: #cccccc;
+  --buttonColorLinkBackgroundPrimaryDefault: #f5f5f5;
+  --buttonColorLinkBackgroundPrimaryHover: #f5f5f5;
+  --buttonColorLinkBackgroundSecondaryDefault: #f5f5f5;
+  --buttonColorLinkBackgroundSecondaryHover: #f5f5f5;
+  --buttonColorLinkBackgroundTertiaryDefault: #f5f5f5;
+  --buttonColorLinkBackgroundTertiaryHover: #f5f5f5;
+  --buttonColorLinkBackgroundSuccessDefault: #daf3eb;
+  --buttonColorLinkBackgroundSuccessHover: #daf3eb;
+  --buttonColorLinkBackgroundWarningDefault: #ffc107;
+  --buttonColorLinkBackgroundWarningHover: #fcefd3;
+  --buttonColorLinkBackgroundDangerDefault: #c50f1f;
+  --buttonColorLinkBackgroundDangerHover: #fee9e7;
+  --buttonColorLinkBackgroundDefaultDefault: #0c5ff3;
+  --buttonColorLinkBackgroundDefaultHover: #e3efff;
+  --buttonColorLinkBackgroundNeutralDefault: #e0e0e0;
+  --buttonColorLinkBackgroundNeutralHover: #e6e6e6;
+  --buttonColorLinkBackgroundDisabledDefault: #f5f5f5;
+  --buttonColorLinkBackgroundDisabledHover: #f5f5f5;
+  --buttonColorLinkLabelPrimaryDefault: #000aa4;
   --buttonColorLinkLabelPrimaryHover: #000a82;
-  --buttonColorLinkLabelSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --buttonColorLinkLabelSecondaryDefault: #0c5ff3;
   --buttonColorLinkLabelSecondaryHover: #367cf8;
-  --buttonColorLinkLabelTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --buttonColorLinkLabelTertiaryDefault: #0082fb;
   --buttonColorLinkLabelTertiaryHover: #349cfe;
-  --buttonColorLinkLabelSuccessDefault: #19bb57; /** v10: $ui-background */
+  --buttonColorLinkLabelSuccessDefault: #19bb57;
   --buttonColorLinkLabelSuccessHover: #009951;
-  --buttonColorLinkLabelWarningDefault: #e8b931; /** v10: $ui-background */
+  --buttonColorLinkLabelWarningDefault: #e8b931;
   --buttonColorLinkLabelWarningHover: #e5a000;
-  --buttonColorLinkLabelDangerDefault: #f01328; /** v10: $ui-background */
+  --buttonColorLinkLabelDangerDefault: #f01328;
   --buttonColorLinkLabelDangerHover: #de0f1a;
-  --buttonColorLinkLabelDefaultDefault: #000000; /** v10: $ui-background */
-  --buttonColorLinkLabelDefaultHover: #1a1a1a; /** v10: $ui-background */
-  --buttonColorLinkLabelNeutralDefault: #c7c7c7; /** v10: $ui-background */
-  --buttonColorLinkLabelNeutralHover: #b3b3b3; /** v10: $ui-background */
-  --buttonColorLinkLabelDisabledDefault: #adadad; /** v10: $ui-background */
-  --buttonColorLinkLabelDisabledHover: #adadad; /** v10: $ui-background */
-  --buttonColorLinkIconPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --buttonColorLinkLabelDefaultDefault: #000000;
+  --buttonColorLinkLabelDefaultHover: #1a1a1a;
+  --buttonColorLinkLabelNeutralDefault: #c7c7c7;
+  --buttonColorLinkLabelNeutralHover: #b3b3b3;
+  --buttonColorLinkLabelDisabledDefault: #adadad;
+  --buttonColorLinkLabelDisabledHover: #adadad;
+  --buttonColorLinkIconPrimaryDefault: #000aa4;
   --buttonColorLinkIconPrimaryHover: #000a82;
-  --buttonColorLinkIconSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --buttonColorLinkIconSecondaryDefault: #0c5ff3;
   --buttonColorLinkIconSecondaryHover: #367cf8;
-  --buttonColorLinkIconTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --buttonColorLinkIconTertiaryDefault: #0082fb;
   --buttonColorLinkIconTertiaryHover: #349cfe;
-  --buttonColorLinkIconSuccessDefault: #19bb57; /** v10: $ui-background */
+  --buttonColorLinkIconSuccessDefault: #19bb57;
   --buttonColorLinkIconSuccessHover: #009951;
-  --buttonColorLinkIconWarningDefault: #e8b931; /** v10: $ui-background */
+  --buttonColorLinkIconWarningDefault: #e8b931;
   --buttonColorLinkIconWarningHover: #e5a000;
-  --buttonColorLinkIconDangerDefault: #f01328; /** v10: $ui-background */
+  --buttonColorLinkIconDangerDefault: #f01328;
   --buttonColorLinkIconDangerHover: #de0f1a;
-  --buttonColorLinkIconDefaultDefault: #000000; /** v10: $ui-background */
-  --buttonColorLinkIconDefaultHover: #1a1a1a; /** v10: $ui-background */
-  --buttonColorLinkIconNeutralDefault: #c7c7c7; /** v10: $ui-background */
-  --buttonColorLinkIconNeutralHover: #b3b3b3; /** v10: $ui-background */
-  --buttonColorLinkIconDisabledDefault: #adadad; /** v10: $ui-background */
-  --buttonColorLinkIconDisabledHover: #adadad; /** v10: $ui-background */
+  --buttonColorLinkIconDefaultDefault: #000000;
+  --buttonColorLinkIconDefaultHover: #1a1a1a;
+  --buttonColorLinkIconNeutralDefault: #c7c7c7;
+  --buttonColorLinkIconNeutralHover: #b3b3b3;
+  --buttonColorLinkIconDisabledDefault: #adadad;
+  --buttonColorLinkIconDisabledHover: #adadad;
   --buttonSpacingSmallPaddingX: 8px;
   --buttonSpacingSmallPaddingY: 4px;
   --buttonSpacingMediumPaddingX: 8px;
@@ -501,229 +421,229 @@
   --textInputBorderMd: 3px;
   --textInputBorderSm: 2px;
   --textInputBorderXs: 1px;
-  --componentColorDefaultLabelPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --componentColorDefaultLabelPrimaryDefault: #000aa4;
   --componentColorDefaultLabelPrimaryOnDefault: #000a82;
-  --componentColorDefaultLabelSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --componentColorDefaultLabelSecondaryDefault: #0c5ff3;
   --componentColorDefaultLabelSecondaryOnDefault: #367cf8;
-  --componentColorDefaultLabelTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --componentColorDefaultLabelTertiaryDefault: #0082fb;
   --componentColorDefaultLabelTertiaryOnDefault: #349cfe;
-  --componentColorDefaultLabelSuccessDefault: #19bb57; /** v10: $ui-background */
+  --componentColorDefaultLabelSuccessDefault: #19bb57;
   --componentColorDefaultLabelSuccessOnDefault: #009951;
-  --componentColorDefaultLabelSuccessSecondary: #4dd4ac; /** v10: $ui-background */
+  --componentColorDefaultLabelSuccessSecondary: #4dd4ac;
   --componentColorDefaultLabelSuccessOnSecondary: #20c997;
   --componentColorDefaultLabelSuccessTertiary: #79dfc1;
-  --componentColorDefaultLabelSuccessOnTertiary: #a6e9d5; /** v10: $ui-background */
-  --componentColorDefaultLabelDangerDefault: #f01328; /** v10: $ui-background */
+  --componentColorDefaultLabelSuccessOnTertiary: #a6e9d5;
+  --componentColorDefaultLabelDangerDefault: #f01328;
   --componentColorDefaultLabelDangerOnDefault: #de0f1a;
-  --componentColorDefaultLabelDangerSecondary: #c50f1f; /** v10: $ui-background */
+  --componentColorDefaultLabelDangerSecondary: #c50f1f;
   --componentColorDefaultLabelDangerOnSecondary: #f6d1d5;
-  --componentColorDefaultLabelDangerTertiary: #d33f4c; /** v10: $ui-background */
+  --componentColorDefaultLabelDangerTertiary: #d33f4c;
   --componentColorDefaultLabelDangerOnTertiary: #fee9e7;
-  --componentColorDefaultLabelDefaultPureBlack: #000000; /** v10: $ui-background */
-  --componentColorDefaultLabelDefaultOnDefault: #1a1a1a; /** v10: $ui-background */
-  --componentColorDefaultLabelDefaultSecondary: #1f1f1f; /** v10: $ui-background */
-  --componentColorDefaultLabelDefaultOnSecondary: #3d3d3d; /** v10: $ui-background */
-  --componentColorDefaultLabelDefaultTertiary: #424242; /** v10: $ui-background */
-  --componentColorDefaultLabelDefaultOnTertiary: #5c5c5c; /** v10: $ui-background */
-  --componentColorDefaultLabelDefaultOnQuaternary: #808080; /** v10: $ui-background */
-  --componentColorDefaultLabelDefaultQuaternary: #616161; /** v10: $ui-background */
-  --componentColorDefaultLabelNeutralPureWhite: #ffffff; /** v10: $ui-background */
-  --componentColorDefaultLabelNeutralOnDefault: #e6e6e6; /** v10: $ui-background */
-  --componentColorDefaultLabelNeutralTertiary: #c7c7c7; /** v10: $ui-background */
-  --componentColorDefaultLabelNeutralOnSecondary: #cccccc; /** v10: $ui-background */
-  --componentColorDefaultLabelNeutralOnTertiary: #b3b3b3; /** v10: $ui-background */
-  --componentColorDefaultLabelNeutralSecondary: #e0e0e0; /** v10: $ui-background */
-  --componentColorDefaultLabelNeutralQuaternary: #adadad; /** v10: $ui-background */
-  --componentColorDefaultLabelNeutralOnQuaternary: #999999; /** v10: $ui-background */
-  --componentColorDefaultLabelDisabledDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultLabelDisabledOnDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultLabelDisabledSecondary: #474747; /** v10: $ui-background */
-  --componentColorDefaultLabelDisabledOnSecondary: #3d3d3d; /** v10: $ui-background */
-  --componentColorDefaultLabelDisabledTertiary: #616161; /** v10: $ui-background */
-  --componentColorDefaultLabelDisabledOnTertiary: #616161; /** v10: $ui-background */
-  --componentColorDefaultLabelWarningOnDefault: #e5a000; /** Bg/Default/Default Hover */
-  --componentColorDefaultLabelWarningDefault: #e8b931; /** Bg/Default/Default */
-  --componentColorDefaultLabelWarningSecondary: #ffc107; /** Bg/Default/Default */
-  --componentColorDefaultLabelWarningOnSecondary: #ffda6a; /** Bg/Default/Default Hover */
-  --componentColorDefaultLabelWarningTertiary: #ffe69c; /** Bg/Default/Default */
-  --componentColorDefaultLabelWarningOnTertiary: #f9e2ae; /** Bg/Default/Default Hover */
-  --componentColorDefaultLabelUtilitiesDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultLabelUtilitiesOnDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultLabelUtilitiesSecondary: #474747; /** v10: $ui-background */
-  --componentColorDefaultLabelUtilitiesOnSecondary: #3d3d3d; /** v10: $ui-background */
-  --componentColorDefaultLabelUtilitiesTertiary: #616161; /** v10: $ui-background */
-  --componentColorDefaultLabelUtilitiesOnTertiary: #616161; /** v10: $ui-background */
-  --componentColorDefaultBackgroundPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --componentColorDefaultLabelDefaultPureBlack: #000000;
+  --componentColorDefaultLabelDefaultOnDefault: #1a1a1a;
+  --componentColorDefaultLabelDefaultSecondary: #1f1f1f;
+  --componentColorDefaultLabelDefaultOnSecondary: #3d3d3d;
+  --componentColorDefaultLabelDefaultTertiary: #424242;
+  --componentColorDefaultLabelDefaultOnTertiary: #5c5c5c;
+  --componentColorDefaultLabelDefaultOnQuaternary: #808080;
+  --componentColorDefaultLabelDefaultQuaternary: #616161;
+  --componentColorDefaultLabelNeutralPureWhite: #ffffff;
+  --componentColorDefaultLabelNeutralOnDefault: #e6e6e6;
+  --componentColorDefaultLabelNeutralTertiary: #c7c7c7;
+  --componentColorDefaultLabelNeutralOnSecondary: #cccccc;
+  --componentColorDefaultLabelNeutralOnTertiary: #b3b3b3;
+  --componentColorDefaultLabelNeutralSecondary: #e0e0e0;
+  --componentColorDefaultLabelNeutralQuaternary: #adadad;
+  --componentColorDefaultLabelNeutralOnQuaternary: #999999;
+  --componentColorDefaultLabelDisabledDefault: #adadad;
+  --componentColorDefaultLabelDisabledOnDefault: #adadad;
+  --componentColorDefaultLabelDisabledSecondary: #474747;
+  --componentColorDefaultLabelDisabledOnSecondary: #3d3d3d;
+  --componentColorDefaultLabelDisabledTertiary: #616161;
+  --componentColorDefaultLabelDisabledOnTertiary: #616161;
+  --componentColorDefaultLabelWarningOnDefault: #e5a000;
+  --componentColorDefaultLabelWarningDefault: #e8b931;
+  --componentColorDefaultLabelWarningSecondary: #ffc107;
+  --componentColorDefaultLabelWarningOnSecondary: #ffda6a;
+  --componentColorDefaultLabelWarningTertiary: #ffe69c;
+  --componentColorDefaultLabelWarningOnTertiary: #f9e2ae;
+  --componentColorDefaultLabelUtilitiesDefault: #adadad;
+  --componentColorDefaultLabelUtilitiesOnDefault: #adadad;
+  --componentColorDefaultLabelUtilitiesSecondary: #474747;
+  --componentColorDefaultLabelUtilitiesOnSecondary: #3d3d3d;
+  --componentColorDefaultLabelUtilitiesTertiary: #616161;
+  --componentColorDefaultLabelUtilitiesOnTertiary: #616161;
+  --componentColorDefaultBackgroundPrimaryDefault: #000aa4;
   --componentColorDefaultBackgroundPrimaryOnDefault: #000a82;
-  --componentColorDefaultBackgroundSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --componentColorDefaultBackgroundSecondaryDefault: #0c5ff3;
   --componentColorDefaultBackgroundSecondaryOnDefault: #367cf8;
-  --componentColorDefaultBackgroundTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --componentColorDefaultBackgroundTertiaryDefault: #0082fb;
   --componentColorDefaultBackgroundTertiaryOnDefault: #349cfe;
-  --componentColorDefaultBackgroundSuccessDefault: #19bb57; /** v10: $ui-background */
+  --componentColorDefaultBackgroundSuccessDefault: #19bb57;
   --componentColorDefaultBackgroundSuccessOnDefault: #009951;
   --componentColorDefaultBackgroundSuccessOnTertiary: #daf3eb;
-  --componentColorDefaultBackgroundSuccessTertiary: #79dfc1; /** v10: $ui-background */
+  --componentColorDefaultBackgroundSuccessTertiary: #79dfc1;
   --componentColorDefaultBackgroundSuccessOnSecondary: #4dd4ac;
-  --componentColorDefaultBackgroundSuccessSecondary: #20c997; /** v10: $ui-background */
-  --componentColorDefaultBackgroundWarningDefault: #e8b931; /** v10: $ui-background */
+  --componentColorDefaultBackgroundSuccessSecondary: #20c997;
+  --componentColorDefaultBackgroundWarningDefault: #e8b931;
   --componentColorDefaultBackgroundWarningOnDefault: #e5a000;
   --componentColorDefaultBackgroundWarningOnTertiary: #fcefd3;
   --componentColorDefaultBackgroundWarningOnSecondary: #ffda6a;
-  --componentColorDefaultBackgroundWarningTertiary: #ffe69c; /** v10: $ui-background */
-  --componentColorDefaultBackgroundWarningSecondary: #ffc107; /** v10: $ui-background */
-  --componentColorDefaultBackgroundDangerDefault: #f01328; /** v10: $ui-background */
+  --componentColorDefaultBackgroundWarningTertiary: #ffe69c;
+  --componentColorDefaultBackgroundWarningSecondary: #ffc107;
+  --componentColorDefaultBackgroundDangerDefault: #f01328;
   --componentColorDefaultBackgroundDangerOnDefault: #de0f1a;
   --componentColorDefaultBackgroundDangerOnTertiary: #fee9e7;
   --componentColorDefaultBackgroundDangerOnSecondary: #f6d1d5;
-  --componentColorDefaultBackgroundDangerTertiary: #d33f4c; /** v10: $ui-background */
-  --componentColorDefaultBackgroundDangerSecondary: #c50f1f; /** v10: $ui-background */
-  --componentColorDefaultBackgroundDefaultPureBlack: #000000; /** v10: $ui-background */
-  --componentColorDefaultBackgroundDefaultOnDefault: #1a1a1a; /** v10: $ui-background */
-  --componentColorDefaultBackgroundDefaultQuaternary: #616161; /** v10: $ui-background */
+  --componentColorDefaultBackgroundDangerTertiary: #d33f4c;
+  --componentColorDefaultBackgroundDangerSecondary: #c50f1f;
+  --componentColorDefaultBackgroundDefaultPureBlack: #000000;
+  --componentColorDefaultBackgroundDefaultOnDefault: #1a1a1a;
+  --componentColorDefaultBackgroundDefaultQuaternary: #616161;
   --componentColorDefaultBackgroundDefaultOnTertiary: #5c5c5c;
   --componentColorDefaultBackgroundDefaultOnQuaternary: #808080;
   --componentColorDefaultBackgroundDefaultOnSecondary: #3d3d3d;
-  --componentColorDefaultBackgroundDefaultTertiary: #424242; /** v10: $ui-background */
-  --componentColorDefaultBackgroundDefaultSecondary: #1f1f1f; /** v10: $ui-background */
-  --componentColorDefaultBackgroundNeutralPureWhite: #ffffff; /** v10: $ui-background */
-  --componentColorDefaultBackgroundNeutralOnDefault: #e6e6e6; /** v10: $ui-background */
-  --componentColorDefaultBackgroundNeutralQuaternary: #adadad; /** v10: $ui-background */
+  --componentColorDefaultBackgroundDefaultTertiary: #424242;
+  --componentColorDefaultBackgroundDefaultSecondary: #1f1f1f;
+  --componentColorDefaultBackgroundNeutralPureWhite: #ffffff;
+  --componentColorDefaultBackgroundNeutralOnDefault: #e6e6e6;
+  --componentColorDefaultBackgroundNeutralQuaternary: #adadad;
   --componentColorDefaultBackgroundNeutralOnTertiary: #b3b3b3;
   --componentColorDefaultBackgroundNeutralOnQuaternary: #999999;
   --componentColorDefaultBackgroundNeutralOnSecondary: #cccccc;
-  --componentColorDefaultBackgroundNeutralTertiary: #c7c7c7; /** v10: $ui-background */
-  --componentColorDefaultBackgroundNeutralSecondary: #e0e0e0; /** v10: $ui-background */
-  --componentColorDefaultBackgroundDisabledDefault: #f5f5f5; /** v10: $ui-background */
-  --componentColorDefaultBackgroundDisabledOnDefault: #f5f5f5; /** v10: $ui-background */
-  --componentColorDefaultBackgroundDisabledTertiary: #616161; /** v10: $ui-background */
+  --componentColorDefaultBackgroundNeutralTertiary: #c7c7c7;
+  --componentColorDefaultBackgroundNeutralSecondary: #e0e0e0;
+  --componentColorDefaultBackgroundDisabledDefault: #f5f5f5;
+  --componentColorDefaultBackgroundDisabledOnDefault: #f5f5f5;
+  --componentColorDefaultBackgroundDisabledTertiary: #616161;
   --componentColorDefaultBackgroundDisabledOnTertiary: #616161;
   --componentColorDefaultBackgroundDisabledOnSecondary: #3d3d3d;
-  --componentColorDefaultBackgroundDisabledSecondary: #474747; /** v10: $ui-background */
+  --componentColorDefaultBackgroundDisabledSecondary: #474747;
   --componentColorDefaultBackgroundDisabledDisabledBackground: #818b98;
-  --componentColorDefaultBackgroundQuaternaryDefault: #cde3ff; /** v10: $ui-background */
-  --componentColorDefaultBackgroundQuaternaryOnDefault: #e3efff; /** v10: $ui-background */
-  --componentColorDefaultBackgroundUtilitiesDefault: #f5f5f5; /** v10: $ui-background */
-  --componentColorDefaultBackgroundUtilitiesOnDefault: #f5f5f5; /** v10: $ui-background */
-  --componentColorDefaultBackgroundUtilitiesSecondary: #474747; /** v10: $ui-background */
+  --componentColorDefaultBackgroundQuaternaryDefault: #cde3ff;
+  --componentColorDefaultBackgroundQuaternaryOnDefault: #e3efff;
+  --componentColorDefaultBackgroundUtilitiesDefault: #f5f5f5;
+  --componentColorDefaultBackgroundUtilitiesOnDefault: #f5f5f5;
+  --componentColorDefaultBackgroundUtilitiesSecondary: #474747;
   --componentColorDefaultBackgroundUtilitiesOnSecondary: #3d3d3d;
-  --componentColorDefaultBackgroundUtilitiesTertiary: #616161; /** v10: $ui-background */
+  --componentColorDefaultBackgroundUtilitiesTertiary: #616161;
   --componentColorDefaultBackgroundUtilitiesOnTertiary: #616161;
   --componentColorDefaultBackgroundUtilitiesDisabledBackground: #818b98;
   --componentColorDefaultBackgroundUtilitiesTabHover: #edefff;
   --componentColorDefaultBackgroundUtilitiesTagBackground: #ddf4ff;
   --componentColorDefaultBackgroundUtilitiesButtonBackground: #f6f8fa;
-  --componentColorDefaultBackgroundUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
+  --componentColorDefaultBackgroundUtilitiesReadOnly: #eff2f5;
   --componentColorDefaultBackgroundUtilitiesRateStar: #ffda6a;
   --componentColorDefaultBackgroundUtilitiesRateStarYellow: #eaa300;
-  --componentColorDefaultIconPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --componentColorDefaultIconPrimaryDefault: #000aa4;
   --componentColorDefaultIconPrimaryOnDefault: #000a82;
-  --componentColorDefaultIconSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --componentColorDefaultIconSecondaryDefault: #0c5ff3;
   --componentColorDefaultIconSecondaryOnDefault: #367cf8;
-  --componentColorDefaultIconTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --componentColorDefaultIconTertiaryDefault: #0082fb;
   --componentColorDefaultIconTertiaryOnDefault: #349cfe;
-  --componentColorDefaultIconSuccessDefault: #19bb57; /** v10: $ui-background */
+  --componentColorDefaultIconSuccessDefault: #19bb57;
   --componentColorDefaultIconSuccessOnDefault: #009951;
-  --componentColorDefaultIconSuccessSecondary: #20c997; /** v10: $ui-background */
+  --componentColorDefaultIconSuccessSecondary: #20c997;
   --componentColorDefaultIconSuccessOnSecondary: #4dd4ac;
-  --componentColorDefaultIconSuccessTertiary: #79dfc1; /** v10: $ui-background */
+  --componentColorDefaultIconSuccessTertiary: #79dfc1;
   --componentColorDefaultIconSuccessOnTertiary: #a6e9d5;
-  --componentColorDefaultIconWarningDefault: #e8b931; /** v10: $ui-background */
+  --componentColorDefaultIconWarningDefault: #e8b931;
   --componentColorDefaultIconWarningOnDefault: #e5a000;
-  --componentColorDefaultIconWarningTertiary: #ffe69c; /** v10: $ui-background */
+  --componentColorDefaultIconWarningTertiary: #ffe69c;
   --componentColorDefaultIconWarningOnSecondary: #ffda6a;
   --componentColorDefaultIconWarningOnTertiary: #f9e2ae;
-  --componentColorDefaultIconWarningSecondary: #ffc107; /** v10: $ui-background */
-  --componentColorDefaultIconDangerDefault: #f01328; /** v10: $ui-background */
+  --componentColorDefaultIconWarningSecondary: #ffc107;
+  --componentColorDefaultIconDangerDefault: #f01328;
   --componentColorDefaultIconDangerOnDefault: #de0f1a;
-  --componentColorDefaultIconDangerTertiary: #d33f4c; /** v10: $ui-background */
+  --componentColorDefaultIconDangerTertiary: #d33f4c;
   --componentColorDefaultIconDangerOnSecondary: #f6d1d5;
-  --componentColorDefaultIconDangerSecondary: #c50f1f; /** v10: $ui-background */
+  --componentColorDefaultIconDangerSecondary: #c50f1f;
   --componentColorDefaultIconDangerOnTertiary: #fee9e7;
-  --componentColorDefaultIconDefaultPureBlack: #000000; /** v10: $ui-background */
-  --componentColorDefaultIconDefaultOnDefault: #1a1a1a; /** v10: $ui-background */
-  --componentColorDefaultIconDefaultTertiary: #424242; /** v10: $ui-background */
+  --componentColorDefaultIconDefaultPureBlack: #000000;
+  --componentColorDefaultIconDefaultOnDefault: #1a1a1a;
+  --componentColorDefaultIconDefaultTertiary: #424242;
   --componentColorDefaultIconDefaultOnSecondary: #3d3d3d;
   --componentColorDefaultIconDefaultOnTertiary: #5c5c5c;
-  --componentColorDefaultIconDefaultSecondary: #1f1f1f; /** v10: $ui-background */
-  --componentColorDefaultIconDefaultQuaternary: #616161; /** v10: $ui-background */
+  --componentColorDefaultIconDefaultSecondary: #1f1f1f;
+  --componentColorDefaultIconDefaultQuaternary: #616161;
   --componentColorDefaultIconDefaultOnQuaternary: #808080;
-  --componentColorDefaultIconNeutralPureWhite: #ffffff; /** v10: $ui-background */
-  --componentColorDefaultIconNeutralOnDefault: #e6e6e6; /** v10: $ui-background */
+  --componentColorDefaultIconNeutralPureWhite: #ffffff;
+  --componentColorDefaultIconNeutralOnDefault: #e6e6e6;
   --componentColorDefaultIconNeutralOnTertiary: #b3b3b3;
-  --componentColorDefaultIconNeutralTertiary: #c7c7c7; /** v10: $ui-background */
-  --componentColorDefaultIconNeutralQuaternary: #adadad; /** v10: $ui-background */
+  --componentColorDefaultIconNeutralTertiary: #c7c7c7;
+  --componentColorDefaultIconNeutralQuaternary: #adadad;
   --componentColorDefaultIconNeutralOnQuaternary: #999999;
   --componentColorDefaultIconNeutralOnSecondary: #cccccc;
-  --componentColorDefaultIconNeutralSecondary: #e0e0e0; /** v10: $ui-background */
-  --componentColorDefaultIconDisabledDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultIconDisabledOnDefault: #adadad; /** v10: $ui-background */
+  --componentColorDefaultIconNeutralSecondary: #e0e0e0;
+  --componentColorDefaultIconDisabledDefault: #adadad;
+  --componentColorDefaultIconDisabledOnDefault: #adadad;
   --componentColorDefaultIconDisabledOnTertiary: #616161;
   --componentColorDefaultIconDisabledOnSecondary: #3d3d3d;
-  --componentColorDefaultIconDisabledTertiary: #616161; /** v10: $ui-background */
-  --componentColorDefaultIconDisabledSecondary: #474747; /** v10: $ui-background */
+  --componentColorDefaultIconDisabledTertiary: #616161;
+  --componentColorDefaultIconDisabledSecondary: #474747;
   --componentColorDefaultIconDisabledDisabledBackground: #818b98;
-  --componentColorDefaultIconUtilitiesDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultIconUtilitiesOnDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultIconUtilitiesSecondary: #474747; /** v10: $ui-background */
+  --componentColorDefaultIconUtilitiesDefault: #adadad;
+  --componentColorDefaultIconUtilitiesOnDefault: #adadad;
+  --componentColorDefaultIconUtilitiesSecondary: #474747;
   --componentColorDefaultIconUtilitiesOnSecondary: #3d3d3d;
-  --componentColorDefaultIconUtilitiesTertiary: #616161; /** v10: $ui-background */
+  --componentColorDefaultIconUtilitiesTertiary: #616161;
   --componentColorDefaultIconUtilitiesOnTertiary: #616161;
   --componentColorDefaultIconUtilitiesDisabledBackground: #818b98;
-  --componentColorDefaultIconUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
+  --componentColorDefaultIconUtilitiesReadOnly: #eff2f5;
   --componentColorDefaultIconUtilitiesRateStarYellow: #eaa300;
   --componentColorDefaultIconUtilitiesRateStar: #ffda6a;
-  --componentColorDefaultBorderPrimaryDefault: #000aa4; /** v10: $ui-background */
+  --componentColorDefaultBorderPrimaryDefault: #000aa4;
   --componentColorDefaultBorderPrimaryOnDefault: #000a82;
-  --componentColorDefaultBorderSecondaryDefault: #0c5ff3; /** v10: $ui-background */
+  --componentColorDefaultBorderSecondaryDefault: #0c5ff3;
   --componentColorDefaultBorderSecondaryOnDefault: #367cf8;
-  --componentColorDefaultBorderTertiaryDefault: #0082fb; /** v10: $ui-background */
+  --componentColorDefaultBorderTertiaryDefault: #0082fb;
   --componentColorDefaultBorderTertiaryOnDefault: #349cfe;
-  --componentColorDefaultBorderSuccessDefault: #19bb57; /** v10: $ui-background */
+  --componentColorDefaultBorderSuccessDefault: #19bb57;
   --componentColorDefaultBorderSuccessOnDefault: #009951;
-  --componentColorDefaultBorderSuccessSecondary: #20c997; /** v10: $ui-background */
+  --componentColorDefaultBorderSuccessSecondary: #20c997;
   --componentColorDefaultBorderSuccessOnSecondary: #4dd4ac;
-  --componentColorDefaultBorderSuccessTertiary: #79dfc1; /** v10: $ui-background */
+  --componentColorDefaultBorderSuccessTertiary: #79dfc1;
   --componentColorDefaultBorderSuccessOnTertiary: #a6e9d5;
-  --componentColorDefaultBorderWarningDefault: #e8b931; /** v10: $ui-background */
+  --componentColorDefaultBorderWarningDefault: #e8b931;
   --componentColorDefaultBorderWarningOnDefault: #e5a000;
-  --componentColorDefaultBorderWarningSecondary: #ffc107; /** v10: $ui-background */
+  --componentColorDefaultBorderWarningSecondary: #ffc107;
   --componentColorDefaultBorderWarningOnSecondary: #ffda6a;
-  --componentColorDefaultBorderWarningTertiary: #ffe69c; /** v10: $ui-background */
+  --componentColorDefaultBorderWarningTertiary: #ffe69c;
   --componentColorDefaultBorderWarningOnTertiary: #f9e2ae;
-  --componentColorDefaultBorderDangerDefault: #f01328; /** v10: $ui-background */
+  --componentColorDefaultBorderDangerDefault: #f01328;
   --componentColorDefaultBorderDangerOnDefault: #de0f1a;
-  --componentColorDefaultBorderDangerSecondary: #c50f1f; /** v10: $ui-background */
+  --componentColorDefaultBorderDangerSecondary: #c50f1f;
   --componentColorDefaultBorderDangerOnSecondary: #f6d1d5;
-  --componentColorDefaultBorderDangerTertiary: #d33f4c; /** v10: $ui-background */
+  --componentColorDefaultBorderDangerTertiary: #d33f4c;
   --componentColorDefaultBorderDangerOnTertiary: #fee9e7;
-  --componentColorDefaultBorderDefaultPureBlack: #000000; /** v10: $ui-background */
-  --componentColorDefaultBorderDefaultOnDefault: #1a1a1a; /** v10: $ui-background */
-  --componentColorDefaultBorderDefaultSecondary: #1f1f1f; /** v10: $ui-background */
+  --componentColorDefaultBorderDefaultPureBlack: #000000;
+  --componentColorDefaultBorderDefaultOnDefault: #1a1a1a;
+  --componentColorDefaultBorderDefaultSecondary: #1f1f1f;
   --componentColorDefaultBorderDefaultOnSecondary: #3d3d3d;
-  --componentColorDefaultBorderDefaultTertiary: #424242; /** v10: $ui-background */
+  --componentColorDefaultBorderDefaultTertiary: #424242;
   --componentColorDefaultBorderDefaultOnTertiary: #5c5c5c;
-  --componentColorDefaultBorderDefaultQuaternary: #616161; /** v10: $ui-background */
+  --componentColorDefaultBorderDefaultQuaternary: #616161;
   --componentColorDefaultBorderDefaultOnQuaternary: #808080;
-  --componentColorDefaultBorderNeutralPureWhite: #ffffff; /** v10: $ui-background */
-  --componentColorDefaultBorderNeutralOnDefault: #e6e6e6; /** v10: $ui-background */
-  --componentColorDefaultBorderNeutralSecondary: #e0e0e0; /** v10: $ui-background */
+  --componentColorDefaultBorderNeutralPureWhite: #ffffff;
+  --componentColorDefaultBorderNeutralOnDefault: #e6e6e6;
+  --componentColorDefaultBorderNeutralSecondary: #e0e0e0;
   --componentColorDefaultBorderNeutralOnSecondary: #cccccc;
-  --componentColorDefaultBorderNeutralTertiary: #c7c7c7; /** v10: $ui-background */
+  --componentColorDefaultBorderNeutralTertiary: #c7c7c7;
   --componentColorDefaultBorderNeutralOnTertiary: #b3b3b3;
-  --componentColorDefaultBorderNeutralQuaternary: #adadad; /** v10: $ui-background */
+  --componentColorDefaultBorderNeutralQuaternary: #adadad;
   --componentColorDefaultBorderNeutralOnQuaternary: #999999;
-  --componentColorDefaultBorderDisabledDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultBorderDisabledOnDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultBorderDisabledSecondary: #474747; /** v10: $ui-background */
+  --componentColorDefaultBorderDisabledDefault: #adadad;
+  --componentColorDefaultBorderDisabledOnDefault: #adadad;
+  --componentColorDefaultBorderDisabledSecondary: #474747;
   --componentColorDefaultBorderDisabledOnSecondary: #3d3d3d;
-  --componentColorDefaultBorderDisabledTertiary: #616161; /** v10: $ui-background */
+  --componentColorDefaultBorderDisabledTertiary: #616161;
   --componentColorDefaultBorderDisabledOnTertiary: #616161;
   --componentColorDefaultBorderDisabledDisabledBackground: #818b98;
-  --componentColorDefaultBorderUtilitiesDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultBorderUtilitiesOnDefault: #adadad; /** v10: $ui-background */
-  --componentColorDefaultBorderUtilitiesSecondary: #474747; /** v10: $ui-background */
+  --componentColorDefaultBorderUtilitiesDefault: #adadad;
+  --componentColorDefaultBorderUtilitiesOnDefault: #adadad;
+  --componentColorDefaultBorderUtilitiesSecondary: #474747;
   --componentColorDefaultBorderUtilitiesOnSecondary: #3d3d3d;
-  --componentColorDefaultBorderUtilitiesTertiary: #616161; /** v10: $ui-background */
+  --componentColorDefaultBorderUtilitiesTertiary: #616161;
   --componentColorDefaultBorderUtilitiesOnTertiary: #616161;
   --componentColorDefaultBorderUtilitiesDisabledBackground: #818b98;
   --componentColorDefaultBorderUtilitiesComponentBorder: #d1d9e0;
@@ -781,697 +701,697 @@
   --componentIcon4xl: 32px;
   --componentIcon3xl: 28px;
   --componentIcon6xl: 40px;
-  --neutralBlack: #000000; /** #000000 */
-  --neutralGray2: #050505; /** #050505 */
-  --neutralGray4: #0a0a0a; /** #0A0A0A */
-  --neutralGray6: #0f0f0f; /** #0F0F0F */
-  --neutralGray8: #141414; /** #141414 */
-  --neutralGray10: #1a1a1a; /** #1A1A1A */
-  --neutralGray12: #1f1f1f; /** #1F1F1F */
-  --neutralGray14: #242424; /** #242424 */
-  --neutralGray16: #292929; /** #292929 */
-  --neutralGray18: #2e2e2e; /** #2E2E2E */
-  --neutralGray20: #333333; /** #333333 */
-  --neutralGray22: #383838; /** #383838 */
-  --neutralGray24: #3d3d3d; /** #3D3D3D */
-  --neutralGray26: #424242; /** #424242 */
-  --neutralGray28: #474747; /** #474747 */
-  --neutralGray30: #4d4d4d; /** #4D4D4D */
-  --neutralGray32: #525252; /** #525252 */
-  --neutralGray34: #575757; /** #575757 */
-  --neutralGray36: #5c5c5c; /** #5C5C5C */
-  --neutralGray38: #616161; /** #616161 */
-  --neutralGray40: #666666; /** #666666 */
-  --neutralGray42: #6b6b6b; /** #6B6B6B */
-  --neutralGray44: #707070; /** #707070 */
-  --neutralGray46: #757575; /** #757575 */
-  --neutralGray48: #7a7a7a; /** #7A7A7A */
-  --neutralGray50: #808080; /** #808080 */
-  --neutralGray52: #858585; /** #858585 */
-  --neutralGray54: #8a8a8a; /** #8A8A8A */
-  --neutralGray56: #8f8f8f; /** #8F8F8F */
-  --neutralGray58: #949494; /** #949494 */
-  --neutralGray60: #999999; /** #999999 */
-  --neutralGray62: #9e9e9e; /** #9E9E9E */
-  --neutralGray64: #a3a3a3; /** #A3A3A3 */
-  --neutralGray66: #a8a8a8; /** #A8A8A8 */
-  --neutralGray68: #adadad; /** #ADADAD */
-  --neutralGray70: #b3b3b3; /** #B3B3B3 */
-  --neutralGray72: #b8b8b8; /** #B8B8B8 */
-  --neutralGray74: #bdbdbd; /** #BDBDBD */
-  --neutralGray76: #c2c2c2; /** #C2C2C2 */
-  --neutralGray78: #c7c7c7; /** #C7C7C7 */
-  --neutralGray80: #cccccc; /** #CCCCCC */
-  --neutralGray82: #d1d1d1; /** #D1D1D1 */
-  --neutralGray84: #d6d6d6; /** #D6D6D6 */
-  --neutralGray86: #dbdbdb; /** #DBDBDB */
-  --neutralGray88: #e0e0e0; /** #E0E0E0 */
-  --neutralGray90: #e6e6e6; /** #E6E6E6 */
-  --neutralGray92: #ebebeb; /** #EBEBEB */
-  --neutralGray94: #f0f0f0; /** #F0F0F0 */
-  --neutralGray96: #f5f5f5; /** #F5F5F5 */
-  --neutralGray98: #fafafa; /** #FAFAFA */
-  --neutralWhite: #ffffff; /** #FFFFFF */
-  --sharedDarkRedShade50: #130204; /** #130204 */
-  --sharedDarkRedShade40: #230308; /** #230308 */
-  --sharedDarkRedShade30: #420610; /** #420610 */
-  --sharedDarkRedShade20: #590815; /** #590815 */
-  --sharedDarkRedShade10: #690a19; /** #690A19 */
-  --sharedDarkRedPrimary: #750b1c; /** #750B1C */
-  --sharedDarkRedTint10: #861b2c; /** #861B2C */
-  --sharedDarkRedTint20: #962f3f; /** #962F3F */
-  --sharedDarkRedTint30: #ac4f5e; /** #AC4F5E */
-  --sharedDarkRedTint40: #d69ca5; /** #D69CA5 */
-  --sharedDarkRedTint50: #e9c7cd; /** #E9C7CD */
-  --sharedDarkRedTint60: #f9f0f2; /** #F9F0F2 */
-  --sharedBurgundyShade50: #1a0607; /** #1A0607 */
-  --sharedBurgundyShade40: #310b0d; /** #310B0D */
-  --sharedBurgundyShade30: #5c1519; /** #5C1519 */
-  --sharedBurgundyShade20: #7d1d21; /** #7D1D21 */
-  --sharedBurgundyShade10: #942228; /** #942228 */
-  --sharedBurgundyPrimary: #a4262c; /** #A4262C */
-  --sharedBurgundyTint10: #af393e; /** #AF393E */
-  --sharedBurgundyTint20: #ba4d52; /** #BA4D52 */
-  --sharedBurgundyTint30: #c86c70; /** #C86C70 */
-  --sharedBurgundyTint40: #e4afb2; /** #E4AFB2 */
-  --sharedBurgundyTint50: #f0d3d4; /** #F0D3D4 */
-  --sharedBurgundyTint60: #fbf4f4; /** #FBF4F4 */
-  --sharedCranberryShade50: #200205; /** #200205 */
-  --sharedCranberryShade40: #3b0509; /** #3B0509 */
-  --sharedCranberryShade30: #6e0811; /** #6E0811 */
-  --sharedCranberryShade20: #960b18; /** #960B18 */
-  --sharedCranberryShade10: #b10e1c; /** #B10E1C */
-  --sharedCranberryPrimary: #c50f1f; /** #C50F1F */
-  --sharedCranberryTint10: #cc2635; /** #CC2635 */
-  --sharedCranberryTint20: #d33f4c; /** #D33F4C */
-  --sharedCranberryTint30: #dc626d; /** #DC626D */
-  --sharedCranberryTint40: #eeacb2; /** #EEACB2 */
-  --sharedCranberryTint50: #f6d1d5; /** #F6D1D5 */
-  --sharedCranberryTint60: #fee9e7; /** #FDF3F4 */
-  --sharedRedShade50: #210809; /** #210809 */
-  --sharedRedShade40: #2c0b0e; /** #3F1011 */
-  --sharedRedShade30: #58151c; /** #751D1F */
-  --sharedRedShade20: #842029; /** #9F282B */
-  --sharedRedShade10: #b02a37; /** #BC2F32 */
-  --sharedRedPrimary: #e71226; /** #D13438 */
-  --sharedRedTint10: #e35d6a; /** #D7494C */
-  --sharedRedTint20: #ea868f; /** #DC5E62 */
-  --sharedRedTint30: #f1aeb5; /** #E37D80 */
-  --sharedRedTint40: #f8d7da; /** #F1BBBC */
-  --sharedRedTint50: #f8dadb; /** #F8DADB */
-  --sharedRedTint60: #fee9e7; /** #FDF6F6 */
-  --sharedDarkOrangeShade50: #230900; /** #230900 */
-  --sharedDarkOrangeShade40: #411200; /** #411200 */
-  --sharedDarkOrangeShade30: #7a2101; /** #7A2101 */
-  --sharedDarkOrangeShade20: #a62d01; /** #A62D01 */
-  --sharedDarkOrangeShade10: #c43501; /** #C43501 */
-  --sharedDarkOrangePrimary: #da3b01; /** #DA3B01 */
-  --sharedDarkOrangeTint10: #de501c; /** #DE501C */
-  --sharedDarkOrangeTint20: #e36537; /** #E36537 */
-  --sharedDarkOrangeTint30: #e9835e; /** #E9835E */
-  --sharedDarkOrangeTint40: #f4bfab; /** #F4BFAB */
-  --sharedDarkOrangeTint50: #f9dcd1; /** #F9DCD1 */
-  --sharedDarkOrangeTint60: #fdf6f3; /** #FDF6F3 */
-  --sharedBronzeShade50: #1b0a01; /** #1B0A01 */
-  --sharedBronzeShade40: #321303; /** #321303 */
-  --sharedBronzeShade30: #5e2405; /** #5E2405 */
-  --sharedBronzeShade20: #7f3107; /** #7F3107 */
-  --sharedBronzeShade10: #963a08; /** #963A08 */
-  --sharedBronzePrimary: #a74109; /** #A74109 */
-  --sharedBronzeTint10: #b2521e; /** #B2521E */
-  --sharedBronzeTint20: #bc6535; /** #BC6535 */
-  --sharedBronzeTint30: #ca8057; /** #CA8057 */
-  --sharedBronzeTint40: #e5bba4; /** #E5BBA4 */
-  --sharedBronzeTint50: #f1d9cc; /** #F1D9CC */
-  --sharedBronzeTint60: #fbf5f2; /** #FBF5F2 */
-  --sharedPumpkinShade50: #200d03; /** #200D03 */
-  --sharedPumpkinShade40: #3d1805; /** #3D1805 */
-  --sharedPumpkinShade30: #712d09; /** #712D09 */
-  --sharedPumpkinShade20: #9a3d0c; /** #9A3D0C */
-  --sharedPumpkinShade10: #b6480e; /** #B6480E */
-  --sharedPumpkinPrimary: #ca5010; /** #CA5010 */
-  --sharedPumpkinTint10: #d06228; /** #D06228 */
-  --sharedPumpkinTint20: #d77440; /** #D77440 */
-  --sharedPumpkinTint30: #df8e64; /** #DF8E64 */
-  --sharedPumpkinTint40: #efc4ad; /** #EFC4AD */
-  --sharedPumpkinTint50: #f7dfd2; /** #F7DFD2 */
-  --sharedPumpkinTint60: #fdf7f4; /** #FDF7F4 */
-  --sharedOrangeShade50: #271002; /** #271002 */
-  --sharedOrangeShade40: #331904; /** #4A1E04 */
-  --sharedOrangeShade30: #653208; /** #8A3707 */
-  --sharedOrangeShade20: #984c0c; /** #BC4B09 */
-  --sharedOrangeShade10: #ca6510; /** #DE590B */
-  --sharedOrangePrimary: #fd7e14; /** #F7630C */
-  --sharedOrangeTint10: #fd9843; /** #F87528 */
-  --sharedOrangeTint20: #feb272; /** #F98845 */
-  --sharedOrangeTint30: #fecba1; /** #FAA06B */
-  --sharedOrangeTint40: #ffe5d0; /** #FDCFB4 */
-  --sharedOrangeTint50: #fff1e7; /** #FEE5D7 */
-  --sharedOrangeTint60: #fff9f5; /** #FFF9F5 */
-  --sharedPeachShade50: #291600; /** #291600 */
-  --sharedPeachShade40: #4d2a00; /** #4D2A00 */
-  --sharedPeachShade30: #8f4e00; /** #8F4E00 */
-  --sharedPeachShade20: #c26a00; /** #C26A00 */
-  --sharedPeachShade10: #e67e00; /** #E67E00 */
-  --sharedPeachPrimary: #ff8c00; /** #FF8C00 */
-  --sharedPeachTint10: #ff9a1f; /** #FF9A1F */
-  --sharedPeachTint20: #ffa83d; /** #FFA83D */
-  --sharedPeachTint30: #ffba66; /** #FFBA66 */
-  --sharedPeachTint40: #ffddb3; /** #FFDDB3 */
-  --sharedPeachTint50: #ffedd6; /** #FFEDD6 */
-  --sharedPeachTint60: #fffaf5; /** #FFFAF5 */
-  --sharedMarigoldShade50: #251a00; /** #251A00 */
-  --sharedMarigoldShade40: #463100; /** #463100 */
-  --sharedMarigoldShade30: #835b00; /** #835B00 */
-  --sharedMarigoldShade20: #b27c00; /** #B27C00 */
-  --sharedMarigoldShade10: #d39300; /** #D39300 */
-  --sharedMarigoldPrimary: #eaa300; /** #EAA300 */
-  --sharedMarigoldTint10: #edad1c; /** #EDAD1C */
-  --sharedMarigoldTint20: #efb839; /** #EFB839 */
-  --sharedMarigoldTint30: #f2c661; /** #F2C661 */
-  --sharedMarigoldTint40: #f9e2ae; /** #F9E2AE */
-  --sharedMarigoldTint50: #fcefd3; /** #FCEFD3 */
-  --sharedMarigoldTint60: #fefbf4; /** #FEFBF4 */
-  --sharedYellowShade50: #282400; /** #282400 */
-  --sharedYellowShade40: #4c4400; /** #4C4400 */
-  --sharedYellowShade30: #817400; /** #817400 */
-  --sharedYellowShade20: #c0ad00; /** #C0AD00 */
-  --sharedYellowShade10: #e4cc00; /** #E4CC00 */
-  --sharedYellowPrimary: #fde300; /** #FDE300 */
-  --sharedYellowTint10: #fde61e; /** #FDE61E */
-  --sharedYellowTint20: #fdea3d; /** #FDEA3D */
-  --sharedYellowTint30: #feee66; /** #FEEE66 */
-  --sharedYellowTint40: #fef7b2; /** #FEF7B2 */
-  --sharedYellowTint50: #fffad6; /** #FFFAD6 */
-  --sharedYellowTint60: #fffef5; /** #FFFEF5 */
-  --sharedGoldShade50: #1f1900; /** #1F1900 */
-  --sharedGoldShade40: #332701; /** #3A2F00 */
-  --sharedGoldShade30: #664d03; /** #6C5700 */
-  --sharedGoldShade20: #997404; /** #937700 */
-  --sharedGoldShade10: #cc9a06; /** #AE8C00 */
-  --sharedGoldPrimary: #ffc107; /** #C19C00 */
-  --sharedGoldTint10: #ffcd39; /** #C8A718 */
-  --sharedGoldTint20: #ffda6a; /** #D0B232 */
-  --sharedGoldTint30: #ffe69c; /** #DAC157 */
-  --sharedGoldTint40: #ffe69c; /** #ECDFA5 */
-  --sharedGoldTint50: #fff3cd; /** #F5EECE */
-  --sharedGoldTint60: #fdfbf2; /** #FDFBF2 */
-  --sharedBrassShade50: #181202; /** #181202 */
-  --sharedBrassShade40: #2e2103; /** #2E2103 */
-  --sharedBrassShade30: #553e06; /** #553E06 */
-  --sharedBrassShade20: #745408; /** #745408 */
-  --sharedBrassShade10: #89640a; /** #89640A */
-  --sharedBrassPrimary: #986f0b; /** #986F0B */
-  --sharedBrassTint10: #a47d1e; /** #A47D1E */
-  --sharedBrassTint20: #b18c34; /** #B18C34 */
-  --sharedBrassTint30: #c1a256; /** #C1A256 */
-  --sharedBrassTint40: #e0cea2; /** #E0CEA2 */
-  --sharedBrassTint50: #efe4cb; /** #EFE4CB */
-  --sharedBrassTint60: #fbf8f2; /** #FBF8F2 */
-  --sharedBrownShade50: #170e07; /** #170E07 */
-  --sharedBrownShade40: #2b1a0e; /** #2B1A0E */
-  --sharedBrownShade30: #50301a; /** #50301A */
-  --sharedBrownShade20: #6c4123; /** #6C4123 */
-  --sharedBrownShade10: #804d29; /** #804D29 */
-  --sharedBrownPrimary: #8e562e; /** #8E562E */
-  --sharedBrownTint10: #9c663f; /** #9C663F */
-  --sharedBrownTint20: #a97652; /** #A97652 */
-  --sharedBrownTint30: #bb8f6f; /** #BB8F6F */
-  --sharedBrownTint40: #ddc3b0; /** #DDC3B0 */
-  --sharedBrownTint50: #edded3; /** #EDDED3 */
-  --sharedBrownTint60: #faf7f4; /** #FAF7F4 */
-  --sharedDarkBrownShade50: #0c0704; /** #0C0704 */
-  --sharedDarkBrownShade40: #170c08; /** #170C08 */
-  --sharedDarkBrownShade30: #2b1710; /** #2B1710 */
-  --sharedDarkBrownShade20: #3a1f15; /** #3A1F15 */
-  --sharedDarkBrownShade10: #452519; /** #452519 */
-  --sharedDarkBrownPrimary: #4d291c; /** #4D291C */
-  --sharedDarkBrownTint10: #623a2b; /** #623A2B */
-  --sharedDarkBrownTint20: #784d3e; /** #784D3E */
-  --sharedDarkBrownTint30: #946b5c; /** #946B5C */
-  --sharedDarkBrownTint40: #caada3; /** #CAADA3 */
-  --sharedDarkBrownTint50: #e3d2cb; /** #E3D2CB */
-  --sharedDarkBrownTint60: #f8f3f2; /** #F8F3F2 */
-  --sharedLimeShade50: #121b06; /** #121B06 */
-  --sharedLimeShade40: #23330b; /** #23330B */
-  --sharedLimeShade30: #405f14; /** #405F14 */
-  --sharedLimeShade20: #57811b; /** #57811B */
-  --sharedLimeShade10: #689920; /** #689920 */
-  --sharedLimePrimary: #73aa24; /** #73AA24 */
-  --sharedLimeTint10: #81b437; /** #81B437 */
-  --sharedLimeTint20: #90be4c; /** #90BE4C */
-  --sharedLimeTint30: #a4cc6c; /** #A4CC6C */
-  --sharedLimeTint40: #cfe5af; /** #CFE5AF */
-  --sharedLimeTint50: #e5f1d3; /** #E5F1D3 */
-  --sharedLimeTint60: #f8fcf4; /** #F8FCF4 */
-  --sharedForestShade50: #0c1501; /** #0C1501 */
-  --sharedForestShade40: #162702; /** #162702 */
-  --sharedForestShade30: #294903; /** #294903 */
-  --sharedForestShade20: #376304; /** #376304 */
-  --sharedForestShade10: #427505; /** #427505 */
-  --sharedForestPrimary: #498205; /** #498205 */
-  --sharedForestTint10: #599116; /** #599116 */
-  --sharedForestTint20: #6ba02b; /** #6BA02B */
-  --sharedForestTint30: #85b44c; /** #85B44C */
-  --sharedForestTint40: #bdd99b; /** #BDD99B */
-  --sharedForestTint50: #dbebc7; /** #DBEBC7 */
-  --sharedForestTint60: #f6faf0; /** #F6FAF0 */
-  --sharedSeafoamShade50: #002111; /** #002111 */
-  --sharedSeafoamShade40: #003d20; /** #003D20 */
-  --sharedSeafoamShade30: #00723b; /** #00723B */
-  --sharedSeafoamShade20: #009b51; /** #009B51 */
-  --sharedSeafoamShade10: #00b85f; /** #00B85F */
-  --sharedSeafoamPrimary: #00cc6a; /** #00CC6A */
-  --sharedSeafoamTint10: #19d279; /** #19D279 */
-  --sharedSeafoamTint20: #34d889; /** #34D889 */
-  --sharedSeafoamTint30: #5ae0a0; /** #5AE0A0 */
-  --sharedSeafoamTint40: #a8f0cd; /** #A8F0CD */
-  --sharedSeafoamTint50: #cff7e4; /** #CFF7E4 */
-  --sharedSeafoamTint60: #f3fdf8; /** #F3FDF8 */
-  --sharedLightGreenShade50: #031a02; /** #031A02 */
-  --sharedLightGreenShade40: #063004; /** #063004 */
-  --sharedLightGreenShade30: #0b5a08; /** #0B5A08 */
-  --sharedLightGreenShade20: #0e7a0b; /** #0E7A0B */
-  --sharedLightGreenShade10: #11910d; /** #11910D */
-  --sharedLightGreenPrimary: #13a10e; /** #13A10E */
-  --sharedLightGreenTint10: #27ac22; /** #27AC22 */
-  --sharedLightGreenTint20: #3db838; /** #3DB838 */
-  --sharedLightGreenTint30: #5ec75a; /** #5EC75A */
-  --sharedLightGreenTint40: #a7e3a5; /** #A7E3A5 */
-  --sharedLightGreenTint50: #cef0cd; /** #CEF0CD */
-  --sharedLightGreenTint60: #f2fbf2; /** #F2FBF2 */
-  --sharedGreenShade50: #031403; /** #031403 */
-  --sharedGreenShade40: #052505; /** #052505 */
-  --sharedGreenShade30: #094509; /** #094509 */
-  --sharedGreenShade20: #0c5e0c; /** #0C5E0C */
-  --sharedGreenShade10: #0e700e; /** #0E700E */
-  --sharedGreenPrimary: #107c10; /** #107C10 */
-  --sharedGreenTint10: #218c21; /** #218C21 */
-  --sharedGreenTint20: #359b35; /** #359B35 */
-  --sharedGreenTint30: #54b054; /** #54B054 */
-  --sharedGreenTint40: #9fd89f; /** #9FD89F */
-  --sharedGreenTint50: #c9eac9; /** #C9EAC9 */
-  --sharedGreenTint60: #f1faf1; /** #F1FAF1 */
-  --sharedDarkGreenShade50: #021102; /** #021102 */
-  --sharedDarkGreenShade40: #051b11; /** #032003 */
-  --sharedDarkGreenShade30: #0a3622; /** #063B06 */
-  --sharedDarkGreenShade20: #0f5132; /** #085108 */
-  --sharedDarkGreenShade10: #146c43; /** #0A5F0A */
-  --sharedDarkGreenPrimary: #198754; /** #0B6A0B */
-  --sharedDarkGreenTint10: #479f76; /** #1A7C1A */
-  --sharedDarkGreenTint20: #75b798; /** #2D8E2D */
-  --sharedDarkGreenTint30: #a3cfbb; /** #4DA64D */
-  --sharedDarkGreenTint40: #d1e7dd; /** #9AD29A */
-  --sharedDarkGreenTint50: #e1ede8; /** #C6E7C6 */
-  --sharedDarkGreenTint60: #f0f9f0; /** #F0F9F0 */
-  --sharedLightTealShade50: #001d1f; /** #001D1F */
-  --sharedLightTealShade40: #00373a; /** #00373A */
-  --sharedLightTealShade30: #00666d; /** #00666D */
-  --sharedLightTealShade20: #008b94; /** #008B94 */
-  --sharedLightTealShade10: #00a5af; /** #00A5AF */
-  --sharedLightTealPrimary: #00b7c3; /** #00B7C3 */
-  --sharedLightTealTint10: #18bfca; /** #18BFCA */
-  --sharedLightTealTint20: #32c8d1; /** #32C8D1 */
-  --sharedLightTealTint30: #58d3db; /** #58D3DB */
-  --sharedLightTealTint40: #a6e9ed; /** #A6E9ED */
-  --sharedLightTealTint50: #cef3f5; /** #CEF3F5 */
-  --sharedLightTealTint60: #f2fcfd; /** #F2FCFD */
-  --sharedTealShade50: #06281e; /** #001516 */
-  --sharedTealShade40: #0d503c; /** #012728 */
-  --sharedTealShade30: #13795b; /** #02494C */
-  --sharedTealShade20: #1aa179; /** #026467 */
-  --sharedTealShade10: #1aa179; /** #037679 */
-  --sharedTealPrimary: #20c997; /** #038387 */
-  --sharedTealTint10: #4dd4ac; /** #159195 */
-  --sharedTealTint20: #79dfc1; /** #2AA0A4 */
-  --sharedTealTint30: #a6e9d5; /** #4CB4B7 */
-  --sharedTealTint40: #d2f4ea; /** #9BD9DB */
-  --sharedTealTint50: #daf3eb; /** #C7EBEC */
-  --sharedTealTint60: #f0fafa; /** #F0FAFA */
-  --sharedDarkTealShade50: #001010; /** #001010 */
-  --sharedDarkTealShade40: #001f1f; /** #001F1F */
-  --sharedDarkTealShade30: #003939; /** #003939 */
-  --sharedDarkTealShade20: #004e4e; /** #004E4E */
-  --sharedDarkTealShade10: #005c5c; /** #005C5C */
-  --sharedDarkTealPrimary: #006666; /** #006666 */
-  --sharedDarkTealTint10: #0e7878; /** #0E7878 */
-  --sharedDarkTealTint20: #218b8b; /** #218B8B */
-  --sharedDarkTealTint30: #41a3a3; /** #41A3A3 */
-  --sharedDarkTealTint40: #92d1d1; /** #92D1D1 */
-  --sharedDarkTealTint50: #c2e7e7; /** #C2E7E7 */
-  --sharedDarkTealTint60: #eff9f9; /** #EFF9F9 */
-  --sharedCyanShade50: #00181e; /** #00181E */
-  --sharedCyanShade40: #032830; /** #002E38 */
-  --sharedCyanShade30: #055160; /** #005669 */
-  --sharedCyanShade20: #087990; /** #00748F */
-  --sharedCyanShade10: #0aa2c0; /** #008AA9 */
-  --sharedCyanPrimary: #0dcaf0; /** #0099BC */
-  --sharedCyanTint10: #3dd5f3; /** #18A4C4 */
-  --sharedCyanTint20: #6edff6; /** #31AFCC */
-  --sharedCyanTint30: #9eeaf9; /** #56BFD7 */
-  --sharedCyanTint40: #cff4fc; /** #A4DEEB */
-  --sharedCyanTint50: #e1f6fb; /** #CDEDF4 */
-  --sharedCyanTint60: #f2fafc; /** #F2FAFC */
-  --sharedSteelShade50: #000f12; /** #000F12 */
-  --sharedSteelShade40: #001b22; /** #001B22 */
-  --sharedSteelShade30: #00333f; /** #00333F */
-  --sharedSteelShade20: #004555; /** #004555 */
-  --sharedSteelShade10: #005265; /** #005265 */
-  --sharedSteelPrimary: #005b70; /** #005B70 */
-  --sharedSteelTint10: #0f6c81; /** #0F6C81 */
-  --sharedSteelTint20: #237d92; /** #237D92 */
-  --sharedSteelTint30: #4496a9; /** #4496A9 */
-  --sharedSteelTint40: #94c8d4; /** #94C8D4 */
-  --sharedSteelTint50: #c3e1e8; /** #C3E1E8 */
-  --sharedSteelTint60: #eff7f9; /** #EFF7F9 */
-  --sharedLightBlueShade50: #091823; /** #091823 */
-  --sharedLightBlueShade40: #112d42; /** #112D42 */
-  --sharedLightBlueShade30: #20547c; /** #20547C */
-  --sharedLightBlueShade20: #2c72a8; /** #2C72A8 */
-  --sharedLightBlueShade10: #3487c7; /** #3487C7 */
-  --sharedLightBluePrimary: #3a96dd; /** #3A96DD */
-  --sharedLightBlueTint10: #4fa1e1; /** #4FA1E1 */
-  --sharedLightBlueTint20: #65ade5; /** #65ADE5 */
-  --sharedLightBlueTint30: #83bdeb; /** #83BDEB */
-  --sharedLightBlueTint40: #bfddf5; /** #BFDDF5 */
-  --sharedLightBlueTint50: #dcedfa; /** #DCEDFA */
-  --sharedLightBlueTint60: #f6fafe; /** #F6FAFE */
-  --sharedBlueShade50: #001322; /** #001322 */
-  --sharedBlueShade40: #001c46; /** #002440 */
-  --sharedBlueShade30: #002f74; /** #004377 */
-  --sharedBlueShade20: #0042a2; /** #005BA1 */
-  --sharedBlueShade10: #0055d1; /** #006CBF */
-  --sharedBluePrimary: #0065f8; /** #0078D4 */
-  --sharedBlueTint10: #2e83ff; /** #1A86D9 */
-  --sharedBlueTint20: #5d9fff; /** #3595DE */
-  --sharedBlueTint30: #8bbaff; /** #5CAAE5 */
-  --sharedBlueTint40: #b9d6ff; /** #A9D3F2 */
-  --sharedBlueTint50: #d0e3ff; /** #D0E7F8 */
-  --sharedBlueTint60: #e4efff; /** #F3F9FD */
-  --sharedRoyalBlueShade50: #000c16; /** #000C16 */
-  --sharedRoyalBlueShade40: #00172a; /** #00172A */
-  --sharedRoyalBlueShade30: #002c4e; /** #002C4E */
-  --sharedRoyalBlueShade20: #003b6a; /** #003B6A */
-  --sharedRoyalBlueShade10: #00467e; /** #00467E */
-  --sharedRoyalBluePrimary: #004e8c; /** #004E8C */
-  --sharedRoyalBlueTint10: #125e9a; /** #125E9A */
-  --sharedRoyalBlueTint20: #286fa8; /** #286FA8 */
-  --sharedRoyalBlueTint30: #4a89ba; /** #4A89BA */
-  --sharedRoyalBlueTint40: #9abfdc; /** #9ABFDC */
-  --sharedRoyalBlueTint50: #c7dced; /** #C7DCED */
-  --sharedRoyalBlueTint60: #f0f6fa; /** #F0F6FA */
-  --sharedDarkBlueShade50: #000910; /** #000910 */
-  --sharedDarkBlueShade40: #00111f; /** #00111F */
-  --sharedDarkBlueShade30: #002039; /** #002039 */
-  --sharedDarkBlueShade20: #002b4e; /** #002B4E */
-  --sharedDarkBlueShade10: #00335c; /** #00335C */
-  --sharedDarkBluePrimary: #003966; /** #003966 */
-  --sharedDarkBlueTint10: #0e4a78; /** #0E4A78 */
-  --sharedDarkBlueTint20: #215c8b; /** #215C8B */
-  --sharedDarkBlueTint30: #4178a3; /** #4178A3 */
-  --sharedDarkBlueTint40: #92b5d1; /** #92B5D1 */
-  --sharedDarkBlueTint50: #c2d6e7; /** #C2D6E7 */
-  --sharedDarkBlueTint60: #eff4f9; /** #EFF4F9 */
-  --sharedCornflowerShade50: #0d1126; /** #0D1126 */
-  --sharedCornflowerShade40: #182047; /** #182047 */
-  --sharedCornflowerShade30: #2c3c85; /** #2C3C85 */
-  --sharedCornflowerShade20: #3c51b4; /** #3C51B4 */
-  --sharedCornflowerShade10: #4760d5; /** #4760D5 */
-  --sharedCornflowerPrimary: #4f6bed; /** #4F6BED */
-  --sharedCornflowerTint10: #637cef; /** #637CEF */
-  --sharedCornflowerTint20: #778df1; /** #778DF1 */
-  --sharedCornflowerTint30: #93a4f4; /** #93A4F4 */
-  --sharedCornflowerTint40: #c8d1fa; /** #C8D1FA */
-  --sharedCornflowerTint50: #e1e6fc; /** #E1E6FC */
-  --sharedCornflowerTint60: #f7f9fe; /** #F7F9FE */
-  --sharedNavyShade50: #00061d; /** #00061D */
-  --sharedNavyShade40: #000c36; /** #000C36 */
-  --sharedNavyShade30: #001665; /** #001665 */
-  --sharedNavyShade20: #001e89; /** #001E89 */
-  --sharedNavyShade10: #0023a2; /** #0023A2 */
-  --sharedNavyPrimary: #0027b4; /** #0027B4 */
-  --sharedNavyTint10: #173bbd; /** #173BBD */
-  --sharedNavyTint20: #3050c6; /** #3050C6 */
-  --sharedNavyTint30: #546fd2; /** #546FD2 */
-  --sharedNavyTint40: #a3b2e8; /** #A3B2E8 */
-  --sharedNavyTint50: #ccd5f3; /** #CCD5F3 */
-  --sharedNavyTint60: #f2f4fc; /** #F2F4FC */
-  --sharedLavenderShade50: #120f25; /** #120F25 */
-  --sharedLavenderShade40: #140330; /** #221D46 */
-  --sharedLavenderShade30: #290661; /** #3F3682 */
-  --sharedLavenderShade20: #3d0a91; /** #5649B0 */
-  --sharedLavenderShade10: #520dc2; /** #6656D1 */
-  --sharedLavenderPrimary: #6610f2; /** #7160E8 */
-  --sharedLavenderTint10: #8540f5; /** #8172EB */
-  --sharedLavenderTint20: #a370f7; /** #9184EE */
-  --sharedLavenderTint30: #c29ffa; /** #A79CF1 */
-  --sharedLavenderTint40: #e0cffc; /** #D2CCF8 */
-  --sharedLavenderTint50: #d2ccf8; /** #E7E4FB */
-  --sharedLavenderTint60: #f9f8fe; /** #F9F8FE */
-  --sharedPurpleShade50: #0f0717; /** #0F0717 */
-  --sharedPurpleShade40: #160d27; /** #1C0E2B */
-  --sharedPurpleShade30: #2c1a4d; /** #341A51 */
-  --sharedPurpleShade20: #432874; /** #46236E */
-  --sharedPurpleShade10: #59359a; /** #532982 */
-  --sharedPurplePrimary: #6f42c1; /** #5C2E91 */
-  --sharedPurpleTint10: #8c68cd; /** #6B3F9E */
-  --sharedPurpleTint20: #a98eda; /** #7C52AB */
-  --sharedPurpleTint30: #c5b3e6; /** #9470BD */
-  --sharedPurpleTint40: #e2d9f3; /** #C6B1DE */
-  --sharedPurpleTint50: #e0d3ed; /** #E0D3ED */
-  --sharedPurpleTint60: #f7f4fb; /** #F7F4FB */
-  --sharedDarkPurpleShade50: #0a0411; /** #0A0411 */
-  --sharedDarkPurpleShade40: #130820; /** #130820 */
-  --sharedDarkPurpleShade30: #240f3c; /** #240F3C */
-  --sharedDarkPurpleShade20: #311552; /** #311552 */
-  --sharedDarkPurpleShade10: #3a1861; /** #3A1861 */
-  --sharedDarkPurplePrimary: #401b6c; /** #401B6C */
-  --sharedDarkPurpleTint10: #512b7e; /** #512B7E */
-  --sharedDarkPurpleTint20: #633e8f; /** #633E8F */
-  --sharedDarkPurpleTint30: #7e5ca7; /** #7E5CA7 */
-  --sharedDarkPurpleTint40: #b9a3d3; /** #B9A3D3 */
-  --sharedDarkPurpleTint50: #d8cce7; /** #D8CCE7 */
-  --sharedDarkPurpleTint60: #f5f2f9; /** #F5F2F9 */
-  --sharedOrchidShade50: #16101d; /** #16101D */
-  --sharedOrchidShade40: #281e37; /** #281E37 */
-  --sharedOrchidShade30: #4c3867; /** #4C3867 */
-  --sharedOrchidShade20: #674c8c; /** #674C8C */
-  --sharedOrchidShade10: #795aa6; /** #795AA6 */
-  --sharedOrchidPrimary: #8764b8; /** #8764B8 */
-  --sharedOrchidTint10: #9373c0; /** #9373C0 */
-  --sharedOrchidTint20: #a083c9; /** #A083C9 */
-  --sharedOrchidTint30: #b29ad4; /** #B29AD4 */
-  --sharedOrchidTint40: #d7caea; /** #D7CAEA */
-  --sharedOrchidTint50: #e9e2f4; /** #E9E2F4 */
-  --sharedOrchidTint60: #f9f8fc; /** #F9F8FC */
-  --sharedGrapeShade50: #160418; /** #160418 */
-  --sharedGrapeShade40: #29072e; /** #29072E */
-  --sharedGrapeShade30: #4c0d55; /** #4C0D55 */
-  --sharedGrapeShade20: #671174; /** #671174 */
-  --sharedGrapeShade10: #7a1589; /** #7A1589 */
-  --sharedGrapePrimary: #881798; /** #881798 */
-  --sharedGrapeTint10: #952aa4; /** #952AA4 */
-  --sharedGrapeTint20: #a33fb1; /** #A33FB1 */
-  --sharedGrapeTint30: #b55fc1; /** #B55FC1 */
-  --sharedGrapeTint40: #d9a7e0; /** #D9A7E0 */
-  --sharedGrapeTint50: #eaceef; /** #EACEEF */
-  --sharedGrapeTint60: #faf2fb; /** #FAF2FB */
-  --sharedBerryShade50: #1f091d; /** #1F091D */
-  --sharedBerryShade40: #3a1136; /** #3A1136 */
-  --sharedBerryShade30: #6d2064; /** #6D2064 */
-  --sharedBerryShade20: #932b88; /** #932B88 */
-  --sharedBerryShade10: #af33a1; /** #AF33A1 */
-  --sharedBerryPrimary: #c239b3; /** #C239B3 */
-  --sharedBerryTint10: #c94cbc; /** #C94CBC */
-  --sharedBerryTint20: #d161c4; /** #D161C4 */
-  --sharedBerryTint30: #da7ed0; /** #DA7ED0 */
-  --sharedBerryTint40: #edbbe7; /** #EDBBE7 */
-  --sharedBerryTint50: #f5daf2; /** #F5DAF2 */
-  --sharedBerryTint60: #fdf5fc; /** #FDF5FC */
-  --sharedLilacShade50: #1c0b1f; /** #1C0B1F */
-  --sharedLilacShade40: #35153a; /** #35153A */
-  --sharedLilacShade30: #63276d; /** #63276D */
-  --sharedLilacShade20: #863593; /** #863593 */
-  --sharedLilacShade10: #9f3faf; /** #9F3FAF */
-  --sharedLilacPrimary: #b146c2; /** #B146C2 */
-  --sharedLilacTint10: #ba58c9; /** #BA58C9 */
-  --sharedLilacTint20: #c36bd1; /** #C36BD1 */
-  --sharedLilacTint30: #cf87da; /** #CF87DA */
-  --sharedLilacTint40: #e6bfed; /** #E6BFED */
-  --sharedLilacTint50: #f2dcf5; /** #F2DCF5 */
-  --sharedLilacTint60: #fcf6fd; /** #FCF6FD */
-  --sharedPinkShade50: #24091b; /** #24091B */
-  --sharedPinkShade40: #2b0a1a; /** #441232 */
-  --sharedPinkShade30: #561435; /** #80215D */
-  --sharedPinkShade20: #801f4f; /** #AD2D7E */
-  --sharedPinkShade10: #ab296a; /** #CD3595 */
-  --sharedPinkPrimary: #d63384; /** #E43BA6 */
-  --sharedPinkTint10: #de5c9d; /** #E750B0 */
-  --sharedPinkTint20: #e685b5; /** #EA66BA */
-  --sharedPinkTint30: #efadce; /** #EF85C8 */
-  --sharedPinkTint40: #f7d6e6; /** #F7C0E3 */
-  --sharedPinkTint50: #f8e6ef; /** #FBDDF0 */
-  --sharedPinkTint60: #fef6fb; /** #FEF6FB */
-  --sharedHotPinkShade50: #240016; /** #240016 */
-  --sharedHotPinkShade40: #44002a; /** #44002A */
-  --sharedHotPinkShade30: #7f004e; /** #7F004E */
-  --sharedHotPinkShade20: #ad006a; /** #AD006A */
-  --sharedHotPinkShade10: #cc007e; /** #CC007E */
-  --sharedHotPinkPrimary: #e3008c; /** #E3008C */
-  --sharedHotPinkTint10: #e61c99; /** #E61C99 */
-  --sharedHotPinkTint20: #ea38a6; /** #EA38A6 */
-  --sharedHotPinkTint30: #ee5fb7; /** #EE5FB7 */
-  --sharedHotPinkTint40: #f7adda; /** #F7ADDA */
-  --sharedHotPinkTint50: #fbd2eb; /** #FBD2EB */
-  --sharedHotPinkTint60: #fef4fa; /** #FEF4FA */
-  --sharedMagentaShade50: #1f0013; /** #1F0013 */
-  --sharedMagentaShade40: #390024; /** #390024 */
-  --sharedMagentaShade30: #6b0043; /** #6B0043 */
-  --sharedMagentaShade20: #91005a; /** #91005A */
-  --sharedMagentaShade10: #ac006b; /** #AC006B */
-  --sharedMagentaPrimary: #bf0077; /** #BF0077 */
-  --sharedMagentaTint10: #c71885; /** #C71885 */
-  --sharedMagentaTint20: #ce3293; /** #CE3293 */
-  --sharedMagentaTint30: #d957a8; /** #D957A8 */
-  --sharedMagentaTint40: #eca5d1; /** #ECA5D1 */
-  --sharedMagentaTint50: #f5cee6; /** #F5CEE6 */
-  --sharedMagentaTint60: #fcf2f9; /** #FCF2F9 */
-  --sharedPlumShade50: #13000c; /** #13000C */
-  --sharedPlumShade40: #240017; /** #240017 */
-  --sharedPlumShade30: #43002b; /** #43002B */
-  --sharedPlumShade20: #5a003b; /** #5A003B */
-  --sharedPlumShade10: #6b0045; /** #6B0045 */
-  --sharedPlumPrimary: #77004d; /** #77004D */
-  --sharedPlumTint10: #87105d; /** #87105D */
-  --sharedPlumTint20: #98246f; /** #98246F */
-  --sharedPlumTint30: #ad4589; /** #AD4589 */
-  --sharedPlumTint40: #d696c0; /** #D696C0 */
-  --sharedPlumTint50: #e9c4dc; /** #E9C4DC */
-  --sharedPlumTint60: #faf0f6; /** #FAF0F6 */
-  --sharedBeigeShade50: #141313; /** #141313 */
-  --sharedBeigeShade40: #252323; /** #252323 */
-  --sharedBeigeShade30: #444241; /** #444241 */
-  --sharedBeigeShade20: #5d5958; /** #5D5958 */
-  --sharedBeigeShade10: #6e6968; /** #6E6968 */
-  --sharedBeigePrimary: #7a7574; /** #7A7574 */
-  --sharedBeigeTint10: #8a8584; /** #8A8584 */
-  --sharedBeigeTint20: #9a9594; /** #9A9594 */
-  --sharedBeigeTint30: #afabaa; /** #AFABAA */
-  --sharedBeigeTint40: #d7d4d4; /** #D7D4D4 */
-  --sharedBeigeTint50: #eae8e8; /** #EAE8E8 */
-  --sharedBeigeTint60: #faf9f9; /** #FAF9F9 */
-  --sharedMinkShade50: #0f0e0e; /** #0F0E0E */
-  --sharedMinkShade40: #1c1b1a; /** #1C1B1A */
-  --sharedMinkShade30: #343231; /** #343231 */
-  --sharedMinkShade20: #474443; /** #474443 */
-  --sharedMinkShade10: #54514f; /** #54514F */
-  --sharedMinkPrimary: #5d5a58; /** #5D5A58 */
-  --sharedMinkTint10: #706d6b; /** #706D6B */
-  --sharedMinkTint20: #84817e; /** #84817E */
-  --sharedMinkTint30: #9e9b99; /** #9E9B99 */
-  --sharedMinkTint40: #cecccb; /** #CECCCB */
-  --sharedMinkTint50: #e5e4e3; /** #E5E4E3 */
-  --sharedMinkTint60: #f8f8f8; /** #F8F8F8 */
-  --sharedSilverShade50: #151818; /** #151818 */
-  --sharedSilverShade40: #282d2e; /** #282D2E */
-  --sharedSilverShade30: #4a5356; /** #4A5356 */
-  --sharedSilverShade20: #657174; /** #657174 */
-  --sharedSilverShade10: #78868a; /** #78868A */
-  --sharedSilverPrimary: #859599; /** #859599 */
-  --sharedSilverTint10: #92a1a5; /** #92A1A5 */
-  --sharedSilverTint20: #a0aeb1; /** #A0AEB1 */
-  --sharedSilverTint30: #b3bfc2; /** #B3BFC2 */
-  --sharedSilverTint40: #d8dfe0; /** #D8DFE0 */
-  --sharedSilverTint50: #eaeeef; /** #EAEEEF */
-  --sharedSilverTint60: #fafbfb; /** #FAFBFB */
-  --sharedPlatinumShade50: #111314; /** #111314 */
-  --sharedPlatinumShade40: #1f2426; /** #1F2426 */
-  --sharedPlatinumShade30: #3b4447; /** #3B4447 */
-  --sharedPlatinumShade20: #505c60; /** #505C60 */
-  --sharedPlatinumShade10: #5f6d71; /** #5F6D71 */
-  --sharedPlatinumPrimary: #69797e; /** #69797E */
-  --sharedPlatinumTint10: #79898d; /** #79898D */
-  --sharedPlatinumTint20: #89989d; /** #89989D */
-  --sharedPlatinumTint30: #a0adb2; /** #A0ADB2 */
-  --sharedPlatinumTint40: #cdd6d8; /** #CDD6D8 */
-  --sharedPlatinumTint50: #e4e9ea; /** #E4E9EA */
-  --sharedPlatinumTint60: #f8f9fa; /** #F8F9FA */
-  --sharedAnchorShade50: #090a0b; /** #090A0B */
-  --sharedAnchorShade40: #111315; /** #111315 */
-  --sharedAnchorShade30: #202427; /** #202427 */
-  --sharedAnchorShade20: #2b3135; /** #2B3135 */
-  --sharedAnchorShade10: #333a3f; /** #333A3F */
-  --sharedAnchorPrimary: #394146; /** #394146 */
-  --sharedAnchorTint10: #4d565c; /** #4D565C */
-  --sharedAnchorTint20: #626c72; /** #626C72 */
-  --sharedAnchorTint30: #808a90; /** #808A90 */
-  --sharedAnchorTint40: #bcc3c7; /** #BCC3C7 */
-  --sharedAnchorTint50: #dbdfe1; /** #DBDFE1 */
-  --sharedAnchorTint60: #f6f7f8; /** #F6F7F8 */
-  --sharedCharcoalShade50: #090909; /** #090909 */
-  --sharedCharcoalShade40: #111111; /** #111111 */
-  --sharedCharcoalShade30: #202020; /** #202020 */
-  --sharedCharcoalShade20: #2b2b2b; /** #2B2B2B */
-  --sharedCharcoalShade10: #333333; /** #333333 */
-  --sharedCharcoalPrimary: #393939; /** #393939 */
-  --sharedCharcoalTint10: #515151; /** #515151 */
-  --sharedCharcoalTint20: #686868; /** #686868 */
-  --sharedCharcoalTint30: #888888; /** #888888 */
-  --sharedCharcoalTint40: #c4c4c4; /** #C4C4C4 */
-  --sharedCharcoalTint50: #dfdfdf; /** #DFDFDF */
-  --sharedCharcoalTint60: #f7f7f7; /** #F7F7F7 */
-  --alphaWhite0: rgba(255, 255, 255, 0); /** #FFFFFF00 */
-  --alphaWhite5: rgba(255, 255, 255, 0.05); /** #FFFFFF0D */
-  --alphaWhite10: rgba(255, 255, 255, 0.1); /** #FFFFFF1A */
-  --alphaWhite20: rgba(255, 255, 255, 0.2); /** #FFFFFF33 */
-  --alphaWhite30: rgba(255, 255, 255, 0.3); /** #FFFFFF4D */
-  --alphaWhite40: rgba(255, 255, 255, 0.4); /** #FFFFFF66 */
-  --alphaWhite50: rgba(255, 255, 255, 0.5); /** #FFFFFF80 */
-  --alphaWhite60: rgba(255, 255, 255, 0.6); /** #FFFFFF99 */
-  --alphaWhite70: rgba(255, 255, 255, 0.7); /** #FFFFFFB2 */
-  --alphaWhite80: rgba(255, 255, 255, 0.8); /** #FFFFFFCC */
-  --alphaWhite90: rgba(255, 255, 255, 0.9); /** #FFFFFFE5 */
-  --alphaBlack0: rgba(0, 0, 0, 0); /** #00000000 */
-  --alphaBlack5: rgba(0, 0, 0, 0.05); /** #0000000D */
-  --alphaBlack10: rgba(0, 0, 0, 0.1); /** #0000001A */
-  --alphaBlack20: rgba(0, 0, 0, 0.2); /** #00000033 */
-  --alphaBlack30: rgba(0, 0, 0, 0.3); /** #0000004D */
-  --alphaBlack40: rgba(0, 0, 0, 0.4); /** #00000066 */
-  --alphaBlack50: rgba(0, 0, 0, 0.5); /** #00000080 */
-  --alphaBlack60: rgba(0, 0, 0, 0.6); /** #00000099 */
-  --alphaBlack70: rgba(0, 0, 0, 0.7); /** #000000B2 */
-  --alphaBlack80: rgba(0, 0, 0, 0.8); /** #000000CC */
-  --alphaBlack90: rgba(0, 0, 0, 0.9); /** #000000E5 */
-  --alphaGrey145: rgba(36, 36, 36, 0.05); /** #2424240D */
-  --alphaGrey1410: rgba(36, 36, 36, 0.1); /** #2424241A */
-  --alphaGrey1420: rgba(36, 36, 36, 0.2); /** #24242433 */
-  --alphaGrey1430: rgba(36, 36, 36, 0.3); /** #2424244D */
-  --alphaGrey1440: rgba(36, 36, 36, 0.4); /** #24242466 */
-  --alphaGrey1450: rgba(36, 36, 36, 0.5); /** #24242480 */
-  --alphaGrey1460: rgba(36, 36, 36, 0.6); /** #24242499 */
-  --alphaGrey1470: rgba(36, 36, 36, 0.7); /** #242424B2 */
-  --alphaGrey1480: rgba(36, 36, 36, 0.8); /** #242424CC */
-  --alphaGrey1490: rgba(36, 36, 36, 0.9); /** #242424E5 */
-  --alphaGrey125: rgba(31, 31, 31, 0.05); /** #1F1F1F0D */
-  --alphaGrey1210: rgba(31, 31, 31, 0.1); /** #1F1F1F1A */
-  --alphaGrey1220: rgba(31, 31, 31, 0.2); /** #1F1F1F33 */
-  --alphaGrey1230: rgba(31, 31, 31, 0.3); /** #1F1F1F4D */
-  --alphaGrey1240: rgba(31, 31, 31, 0.4); /** #1F1F1F66 */
-  --alphaGrey1250: rgba(31, 31, 31, 0.5); /** #1F1F1F80 */
-  --alphaGrey1260: rgba(31, 31, 31, 0.6); /** #1F1F1F99 */
-  --alphaGrey1270: rgba(31, 31, 31, 0.7); /** #1F1F1FB2 */
-  --alphaGrey1280: rgba(31, 31, 31, 0.8); /** #1F1F1FCC */
-  --alphaGrey1290: rgba(31, 31, 31, 0.9); /** #1F1F1FE5 */
-  --alphaGrey105: rgba(26, 26, 26, 0.05); /** #1A1A1A0D */
-  --alphaGrey1010: rgba(26, 26, 26, 0.1); /** #1A1A1A1A */
-  --alphaGrey1020: rgba(26, 26, 26, 0.2); /** #1A1A1A33 */
-  --alphaGrey1030: rgba(26, 26, 26, 0.3); /** #1A1A1A4D */
-  --alphaGrey1040: rgba(26, 26, 26, 0.4); /** #1A1A1A66 */
-  --alphaGrey1050: rgba(26, 26, 26, 0.5); /** #1A1A1A80 */
-  --alphaGrey1060: rgba(26, 26, 26, 0.6); /** #1A1A1A99 */
-  --alphaGrey1070: rgba(26, 26, 26, 0.7); /** #1A1A1AB2 */
-  --alphaGrey1080: rgba(26, 26, 26, 0.8); /** #1A1A1ACC */
-  --alphaGrey1090: rgba(26, 26, 26, 0.9); /** #1A1A1AE5 */
+  --neutralBlack: #000000;
+  --neutralGray2: #050505;
+  --neutralGray4: #0a0a0a;
+  --neutralGray6: #0f0f0f;
+  --neutralGray8: #141414;
+  --neutralGray10: #1a1a1a;
+  --neutralGray12: #1f1f1f;
+  --neutralGray14: #242424;
+  --neutralGray16: #292929;
+  --neutralGray18: #2e2e2e;
+  --neutralGray20: #333333;
+  --neutralGray22: #383838;
+  --neutralGray24: #3d3d3d;
+  --neutralGray26: #424242;
+  --neutralGray28: #474747;
+  --neutralGray30: #4d4d4d;
+  --neutralGray32: #525252;
+  --neutralGray34: #575757;
+  --neutralGray36: #5c5c5c;
+  --neutralGray38: #616161;
+  --neutralGray40: #666666;
+  --neutralGray42: #6b6b6b;
+  --neutralGray44: #707070;
+  --neutralGray46: #757575;
+  --neutralGray48: #7a7a7a;
+  --neutralGray50: #808080;
+  --neutralGray52: #858585;
+  --neutralGray54: #8a8a8a;
+  --neutralGray56: #8f8f8f;
+  --neutralGray58: #949494;
+  --neutralGray60: #999999;
+  --neutralGray62: #9e9e9e;
+  --neutralGray64: #a3a3a3;
+  --neutralGray66: #a8a8a8;
+  --neutralGray68: #adadad;
+  --neutralGray70: #b3b3b3;
+  --neutralGray72: #b8b8b8;
+  --neutralGray74: #bdbdbd;
+  --neutralGray76: #c2c2c2;
+  --neutralGray78: #c7c7c7;
+  --neutralGray80: #cccccc;
+  --neutralGray82: #d1d1d1;
+  --neutralGray84: #d6d6d6;
+  --neutralGray86: #dbdbdb;
+  --neutralGray88: #e0e0e0;
+  --neutralGray90: #e6e6e6;
+  --neutralGray92: #ebebeb;
+  --neutralGray94: #f0f0f0;
+  --neutralGray96: #f5f5f5;
+  --neutralGray98: #fafafa;
+  --neutralWhite: #ffffff;
+  --sharedDarkRedShade50: #130204;
+  --sharedDarkRedShade40: #230308;
+  --sharedDarkRedShade30: #420610;
+  --sharedDarkRedShade20: #590815;
+  --sharedDarkRedShade10: #690a19;
+  --sharedDarkRedPrimary: #750b1c;
+  --sharedDarkRedTint10: #861b2c;
+  --sharedDarkRedTint20: #962f3f;
+  --sharedDarkRedTint30: #ac4f5e;
+  --sharedDarkRedTint40: #d69ca5;
+  --sharedDarkRedTint50: #e9c7cd;
+  --sharedDarkRedTint60: #f9f0f2;
+  --sharedBurgundyShade50: #1a0607;
+  --sharedBurgundyShade40: #310b0d;
+  --sharedBurgundyShade30: #5c1519;
+  --sharedBurgundyShade20: #7d1d21;
+  --sharedBurgundyShade10: #942228;
+  --sharedBurgundyPrimary: #a4262c;
+  --sharedBurgundyTint10: #af393e;
+  --sharedBurgundyTint20: #ba4d52;
+  --sharedBurgundyTint30: #c86c70;
+  --sharedBurgundyTint40: #e4afb2;
+  --sharedBurgundyTint50: #f0d3d4;
+  --sharedBurgundyTint60: #fbf4f4;
+  --sharedCranberryShade50: #200205;
+  --sharedCranberryShade40: #3b0509;
+  --sharedCranberryShade30: #6e0811;
+  --sharedCranberryShade20: #960b18;
+  --sharedCranberryShade10: #b10e1c;
+  --sharedCranberryPrimary: #c50f1f;
+  --sharedCranberryTint10: #cc2635;
+  --sharedCranberryTint20: #d33f4c;
+  --sharedCranberryTint30: #dc626d;
+  --sharedCranberryTint40: #eeacb2;
+  --sharedCranberryTint50: #f6d1d5;
+  --sharedCranberryTint60: #fee9e7;
+  --sharedRedShade50: #210809;
+  --sharedRedShade40: #2c0b0e;
+  --sharedRedShade30: #58151c;
+  --sharedRedShade20: #842029;
+  --sharedRedShade10: #b02a37;
+  --sharedRedPrimary: #e71226;
+  --sharedRedTint10: #e35d6a;
+  --sharedRedTint20: #ea868f;
+  --sharedRedTint30: #f1aeb5;
+  --sharedRedTint40: #f8d7da;
+  --sharedRedTint50: #f8dadb;
+  --sharedRedTint60: #fee9e7;
+  --sharedDarkOrangeShade50: #230900;
+  --sharedDarkOrangeShade40: #411200;
+  --sharedDarkOrangeShade30: #7a2101;
+  --sharedDarkOrangeShade20: #a62d01;
+  --sharedDarkOrangeShade10: #c43501;
+  --sharedDarkOrangePrimary: #da3b01;
+  --sharedDarkOrangeTint10: #de501c;
+  --sharedDarkOrangeTint20: #e36537;
+  --sharedDarkOrangeTint30: #e9835e;
+  --sharedDarkOrangeTint40: #f4bfab;
+  --sharedDarkOrangeTint50: #f9dcd1;
+  --sharedDarkOrangeTint60: #fdf6f3;
+  --sharedBronzeShade50: #1b0a01;
+  --sharedBronzeShade40: #321303;
+  --sharedBronzeShade30: #5e2405;
+  --sharedBronzeShade20: #7f3107;
+  --sharedBronzeShade10: #963a08;
+  --sharedBronzePrimary: #a74109;
+  --sharedBronzeTint10: #b2521e;
+  --sharedBronzeTint20: #bc6535;
+  --sharedBronzeTint30: #ca8057;
+  --sharedBronzeTint40: #e5bba4;
+  --sharedBronzeTint50: #f1d9cc;
+  --sharedBronzeTint60: #fbf5f2;
+  --sharedPumpkinShade50: #200d03;
+  --sharedPumpkinShade40: #3d1805;
+  --sharedPumpkinShade30: #712d09;
+  --sharedPumpkinShade20: #9a3d0c;
+  --sharedPumpkinShade10: #b6480e;
+  --sharedPumpkinPrimary: #ca5010;
+  --sharedPumpkinTint10: #d06228;
+  --sharedPumpkinTint20: #d77440;
+  --sharedPumpkinTint30: #df8e64;
+  --sharedPumpkinTint40: #efc4ad;
+  --sharedPumpkinTint50: #f7dfd2;
+  --sharedPumpkinTint60: #fdf7f4;
+  --sharedOrangeShade50: #271002;
+  --sharedOrangeShade40: #331904;
+  --sharedOrangeShade30: #653208;
+  --sharedOrangeShade20: #984c0c;
+  --sharedOrangeShade10: #ca6510;
+  --sharedOrangePrimary: #fd7e14;
+  --sharedOrangeTint10: #fd9843;
+  --sharedOrangeTint20: #feb272;
+  --sharedOrangeTint30: #fecba1;
+  --sharedOrangeTint40: #ffe5d0;
+  --sharedOrangeTint50: #fff1e7;
+  --sharedOrangeTint60: #fff9f5;
+  --sharedPeachShade50: #291600;
+  --sharedPeachShade40: #4d2a00;
+  --sharedPeachShade30: #8f4e00;
+  --sharedPeachShade20: #c26a00;
+  --sharedPeachShade10: #e67e00;
+  --sharedPeachPrimary: #ff8c00;
+  --sharedPeachTint10: #ff9a1f;
+  --sharedPeachTint20: #ffa83d;
+  --sharedPeachTint30: #ffba66;
+  --sharedPeachTint40: #ffddb3;
+  --sharedPeachTint50: #ffedd6;
+  --sharedPeachTint60: #fffaf5;
+  --sharedMarigoldShade50: #251a00;
+  --sharedMarigoldShade40: #463100;
+  --sharedMarigoldShade30: #835b00;
+  --sharedMarigoldShade20: #b27c00;
+  --sharedMarigoldShade10: #d39300;
+  --sharedMarigoldPrimary: #eaa300;
+  --sharedMarigoldTint10: #edad1c;
+  --sharedMarigoldTint20: #efb839;
+  --sharedMarigoldTint30: #f2c661;
+  --sharedMarigoldTint40: #f9e2ae;
+  --sharedMarigoldTint50: #fcefd3;
+  --sharedMarigoldTint60: #fefbf4;
+  --sharedYellowShade50: #282400;
+  --sharedYellowShade40: #4c4400;
+  --sharedYellowShade30: #817400;
+  --sharedYellowShade20: #c0ad00;
+  --sharedYellowShade10: #e4cc00;
+  --sharedYellowPrimary: #fde300;
+  --sharedYellowTint10: #fde61e;
+  --sharedYellowTint20: #fdea3d;
+  --sharedYellowTint30: #feee66;
+  --sharedYellowTint40: #fef7b2;
+  --sharedYellowTint50: #fffad6;
+  --sharedYellowTint60: #fffef5;
+  --sharedGoldShade50: #1f1900;
+  --sharedGoldShade40: #332701;
+  --sharedGoldShade30: #664d03;
+  --sharedGoldShade20: #997404;
+  --sharedGoldShade10: #cc9a06;
+  --sharedGoldPrimary: #ffc107;
+  --sharedGoldTint10: #ffcd39;
+  --sharedGoldTint20: #ffda6a;
+  --sharedGoldTint30: #ffe69c;
+  --sharedGoldTint40: #ffe69c;
+  --sharedGoldTint50: #fff3cd;
+  --sharedGoldTint60: #fdfbf2;
+  --sharedBrassShade50: #181202;
+  --sharedBrassShade40: #2e2103;
+  --sharedBrassShade30: #553e06;
+  --sharedBrassShade20: #745408;
+  --sharedBrassShade10: #89640a;
+  --sharedBrassPrimary: #986f0b;
+  --sharedBrassTint10: #a47d1e;
+  --sharedBrassTint20: #b18c34;
+  --sharedBrassTint30: #c1a256;
+  --sharedBrassTint40: #e0cea2;
+  --sharedBrassTint50: #efe4cb;
+  --sharedBrassTint60: #fbf8f2;
+  --sharedBrownShade50: #170e07;
+  --sharedBrownShade40: #2b1a0e;
+  --sharedBrownShade30: #50301a;
+  --sharedBrownShade20: #6c4123;
+  --sharedBrownShade10: #804d29;
+  --sharedBrownPrimary: #8e562e;
+  --sharedBrownTint10: #9c663f;
+  --sharedBrownTint20: #a97652;
+  --sharedBrownTint30: #bb8f6f;
+  --sharedBrownTint40: #ddc3b0;
+  --sharedBrownTint50: #edded3;
+  --sharedBrownTint60: #faf7f4;
+  --sharedDarkBrownShade50: #0c0704;
+  --sharedDarkBrownShade40: #170c08;
+  --sharedDarkBrownShade30: #2b1710;
+  --sharedDarkBrownShade20: #3a1f15;
+  --sharedDarkBrownShade10: #452519;
+  --sharedDarkBrownPrimary: #4d291c;
+  --sharedDarkBrownTint10: #623a2b;
+  --sharedDarkBrownTint20: #784d3e;
+  --sharedDarkBrownTint30: #946b5c;
+  --sharedDarkBrownTint40: #caada3;
+  --sharedDarkBrownTint50: #e3d2cb;
+  --sharedDarkBrownTint60: #f8f3f2;
+  --sharedLimeShade50: #121b06;
+  --sharedLimeShade40: #23330b;
+  --sharedLimeShade30: #405f14;
+  --sharedLimeShade20: #57811b;
+  --sharedLimeShade10: #689920;
+  --sharedLimePrimary: #73aa24;
+  --sharedLimeTint10: #81b437;
+  --sharedLimeTint20: #90be4c;
+  --sharedLimeTint30: #a4cc6c;
+  --sharedLimeTint40: #cfe5af;
+  --sharedLimeTint50: #e5f1d3;
+  --sharedLimeTint60: #f8fcf4;
+  --sharedForestShade50: #0c1501;
+  --sharedForestShade40: #162702;
+  --sharedForestShade30: #294903;
+  --sharedForestShade20: #376304;
+  --sharedForestShade10: #427505;
+  --sharedForestPrimary: #498205;
+  --sharedForestTint10: #599116;
+  --sharedForestTint20: #6ba02b;
+  --sharedForestTint30: #85b44c;
+  --sharedForestTint40: #bdd99b;
+  --sharedForestTint50: #dbebc7;
+  --sharedForestTint60: #f6faf0;
+  --sharedSeafoamShade50: #002111;
+  --sharedSeafoamShade40: #003d20;
+  --sharedSeafoamShade30: #00723b;
+  --sharedSeafoamShade20: #009b51;
+  --sharedSeafoamShade10: #00b85f;
+  --sharedSeafoamPrimary: #00cc6a;
+  --sharedSeafoamTint10: #19d279;
+  --sharedSeafoamTint20: #34d889;
+  --sharedSeafoamTint30: #5ae0a0;
+  --sharedSeafoamTint40: #a8f0cd;
+  --sharedSeafoamTint50: #cff7e4;
+  --sharedSeafoamTint60: #f3fdf8;
+  --sharedLightGreenShade50: #031a02;
+  --sharedLightGreenShade40: #063004;
+  --sharedLightGreenShade30: #0b5a08;
+  --sharedLightGreenShade20: #0e7a0b;
+  --sharedLightGreenShade10: #11910d;
+  --sharedLightGreenPrimary: #13a10e;
+  --sharedLightGreenTint10: #27ac22;
+  --sharedLightGreenTint20: #3db838;
+  --sharedLightGreenTint30: #5ec75a;
+  --sharedLightGreenTint40: #a7e3a5;
+  --sharedLightGreenTint50: #cef0cd;
+  --sharedLightGreenTint60: #f2fbf2;
+  --sharedGreenShade50: #031403;
+  --sharedGreenShade40: #052505;
+  --sharedGreenShade30: #094509;
+  --sharedGreenShade20: #0c5e0c;
+  --sharedGreenShade10: #0e700e;
+  --sharedGreenPrimary: #107c10;
+  --sharedGreenTint10: #218c21;
+  --sharedGreenTint20: #359b35;
+  --sharedGreenTint30: #54b054;
+  --sharedGreenTint40: #9fd89f;
+  --sharedGreenTint50: #c9eac9;
+  --sharedGreenTint60: #f1faf1;
+  --sharedDarkGreenShade50: #021102;
+  --sharedDarkGreenShade40: #051b11;
+  --sharedDarkGreenShade30: #0a3622;
+  --sharedDarkGreenShade20: #0f5132;
+  --sharedDarkGreenShade10: #146c43;
+  --sharedDarkGreenPrimary: #198754;
+  --sharedDarkGreenTint10: #479f76;
+  --sharedDarkGreenTint20: #75b798;
+  --sharedDarkGreenTint30: #a3cfbb;
+  --sharedDarkGreenTint40: #d1e7dd;
+  --sharedDarkGreenTint50: #e1ede8;
+  --sharedDarkGreenTint60: #f0f9f0;
+  --sharedLightTealShade50: #001d1f;
+  --sharedLightTealShade40: #00373a;
+  --sharedLightTealShade30: #00666d;
+  --sharedLightTealShade20: #008b94;
+  --sharedLightTealShade10: #00a5af;
+  --sharedLightTealPrimary: #00b7c3;
+  --sharedLightTealTint10: #18bfca;
+  --sharedLightTealTint20: #32c8d1;
+  --sharedLightTealTint30: #58d3db;
+  --sharedLightTealTint40: #a6e9ed;
+  --sharedLightTealTint50: #cef3f5;
+  --sharedLightTealTint60: #f2fcfd;
+  --sharedTealShade50: #06281e;
+  --sharedTealShade40: #0d503c;
+  --sharedTealShade30: #13795b;
+  --sharedTealShade20: #1aa179;
+  --sharedTealShade10: #1aa179;
+  --sharedTealPrimary: #20c997;
+  --sharedTealTint10: #4dd4ac;
+  --sharedTealTint20: #79dfc1;
+  --sharedTealTint30: #a6e9d5;
+  --sharedTealTint40: #d2f4ea;
+  --sharedTealTint50: #daf3eb;
+  --sharedTealTint60: #f0fafa;
+  --sharedDarkTealShade50: #001010;
+  --sharedDarkTealShade40: #001f1f;
+  --sharedDarkTealShade30: #003939;
+  --sharedDarkTealShade20: #004e4e;
+  --sharedDarkTealShade10: #005c5c;
+  --sharedDarkTealPrimary: #006666;
+  --sharedDarkTealTint10: #0e7878;
+  --sharedDarkTealTint20: #218b8b;
+  --sharedDarkTealTint30: #41a3a3;
+  --sharedDarkTealTint40: #92d1d1;
+  --sharedDarkTealTint50: #c2e7e7;
+  --sharedDarkTealTint60: #eff9f9;
+  --sharedCyanShade50: #00181e;
+  --sharedCyanShade40: #032830;
+  --sharedCyanShade30: #055160;
+  --sharedCyanShade20: #087990;
+  --sharedCyanShade10: #0aa2c0;
+  --sharedCyanPrimary: #0dcaf0;
+  --sharedCyanTint10: #3dd5f3;
+  --sharedCyanTint20: #6edff6;
+  --sharedCyanTint30: #9eeaf9;
+  --sharedCyanTint40: #cff4fc;
+  --sharedCyanTint50: #e1f6fb;
+  --sharedCyanTint60: #f2fafc;
+  --sharedSteelShade50: #000f12;
+  --sharedSteelShade40: #001b22;
+  --sharedSteelShade30: #00333f;
+  --sharedSteelShade20: #004555;
+  --sharedSteelShade10: #005265;
+  --sharedSteelPrimary: #005b70;
+  --sharedSteelTint10: #0f6c81;
+  --sharedSteelTint20: #237d92;
+  --sharedSteelTint30: #4496a9;
+  --sharedSteelTint40: #94c8d4;
+  --sharedSteelTint50: #c3e1e8;
+  --sharedSteelTint60: #eff7f9;
+  --sharedLightBlueShade50: #091823;
+  --sharedLightBlueShade40: #112d42;
+  --sharedLightBlueShade30: #20547c;
+  --sharedLightBlueShade20: #2c72a8;
+  --sharedLightBlueShade10: #3487c7;
+  --sharedLightBluePrimary: #3a96dd;
+  --sharedLightBlueTint10: #4fa1e1;
+  --sharedLightBlueTint20: #65ade5;
+  --sharedLightBlueTint30: #83bdeb;
+  --sharedLightBlueTint40: #bfddf5;
+  --sharedLightBlueTint50: #dcedfa;
+  --sharedLightBlueTint60: #f6fafe;
+  --sharedBlueShade50: #001322;
+  --sharedBlueShade40: #001c46;
+  --sharedBlueShade30: #002f74;
+  --sharedBlueShade20: #0042a2;
+  --sharedBlueShade10: #0055d1;
+  --sharedBluePrimary: #0065f8;
+  --sharedBlueTint10: #2e83ff;
+  --sharedBlueTint20: #5d9fff;
+  --sharedBlueTint30: #8bbaff;
+  --sharedBlueTint40: #b9d6ff;
+  --sharedBlueTint50: #d0e3ff;
+  --sharedBlueTint60: #e4efff;
+  --sharedRoyalBlueShade50: #000c16;
+  --sharedRoyalBlueShade40: #00172a;
+  --sharedRoyalBlueShade30: #002c4e;
+  --sharedRoyalBlueShade20: #003b6a;
+  --sharedRoyalBlueShade10: #00467e;
+  --sharedRoyalBluePrimary: #004e8c;
+  --sharedRoyalBlueTint10: #125e9a;
+  --sharedRoyalBlueTint20: #286fa8;
+  --sharedRoyalBlueTint30: #4a89ba;
+  --sharedRoyalBlueTint40: #9abfdc;
+  --sharedRoyalBlueTint50: #c7dced;
+  --sharedRoyalBlueTint60: #f0f6fa;
+  --sharedDarkBlueShade50: #000910;
+  --sharedDarkBlueShade40: #00111f;
+  --sharedDarkBlueShade30: #002039;
+  --sharedDarkBlueShade20: #002b4e;
+  --sharedDarkBlueShade10: #00335c;
+  --sharedDarkBluePrimary: #003966;
+  --sharedDarkBlueTint10: #0e4a78;
+  --sharedDarkBlueTint20: #215c8b;
+  --sharedDarkBlueTint30: #4178a3;
+  --sharedDarkBlueTint40: #92b5d1;
+  --sharedDarkBlueTint50: #c2d6e7;
+  --sharedDarkBlueTint60: #eff4f9;
+  --sharedCornflowerShade50: #0d1126;
+  --sharedCornflowerShade40: #182047;
+  --sharedCornflowerShade30: #2c3c85;
+  --sharedCornflowerShade20: #3c51b4;
+  --sharedCornflowerShade10: #4760d5;
+  --sharedCornflowerPrimary: #4f6bed;
+  --sharedCornflowerTint10: #637cef;
+  --sharedCornflowerTint20: #778df1;
+  --sharedCornflowerTint30: #93a4f4;
+  --sharedCornflowerTint40: #c8d1fa;
+  --sharedCornflowerTint50: #e1e6fc;
+  --sharedCornflowerTint60: #f7f9fe;
+  --sharedNavyShade50: #00061d;
+  --sharedNavyShade40: #000c36;
+  --sharedNavyShade30: #001665;
+  --sharedNavyShade20: #001e89;
+  --sharedNavyShade10: #0023a2;
+  --sharedNavyPrimary: #0027b4;
+  --sharedNavyTint10: #173bbd;
+  --sharedNavyTint20: #3050c6;
+  --sharedNavyTint30: #546fd2;
+  --sharedNavyTint40: #a3b2e8;
+  --sharedNavyTint50: #ccd5f3;
+  --sharedNavyTint60: #f2f4fc;
+  --sharedLavenderShade50: #120f25;
+  --sharedLavenderShade40: #140330;
+  --sharedLavenderShade30: #290661;
+  --sharedLavenderShade20: #3d0a91;
+  --sharedLavenderShade10: #520dc2;
+  --sharedLavenderPrimary: #6610f2;
+  --sharedLavenderTint10: #8540f5;
+  --sharedLavenderTint20: #a370f7;
+  --sharedLavenderTint30: #c29ffa;
+  --sharedLavenderTint40: #e0cffc;
+  --sharedLavenderTint50: #d2ccf8;
+  --sharedLavenderTint60: #f9f8fe;
+  --sharedPurpleShade50: #0f0717;
+  --sharedPurpleShade40: #160d27;
+  --sharedPurpleShade30: #2c1a4d;
+  --sharedPurpleShade20: #432874;
+  --sharedPurpleShade10: #59359a;
+  --sharedPurplePrimary: #6f42c1;
+  --sharedPurpleTint10: #8c68cd;
+  --sharedPurpleTint20: #a98eda;
+  --sharedPurpleTint30: #c5b3e6;
+  --sharedPurpleTint40: #e2d9f3;
+  --sharedPurpleTint50: #e0d3ed;
+  --sharedPurpleTint60: #f7f4fb;
+  --sharedDarkPurpleShade50: #0a0411;
+  --sharedDarkPurpleShade40: #130820;
+  --sharedDarkPurpleShade30: #240f3c;
+  --sharedDarkPurpleShade20: #311552;
+  --sharedDarkPurpleShade10: #3a1861;
+  --sharedDarkPurplePrimary: #401b6c;
+  --sharedDarkPurpleTint10: #512b7e;
+  --sharedDarkPurpleTint20: #633e8f;
+  --sharedDarkPurpleTint30: #7e5ca7;
+  --sharedDarkPurpleTint40: #b9a3d3;
+  --sharedDarkPurpleTint50: #d8cce7;
+  --sharedDarkPurpleTint60: #f5f2f9;
+  --sharedOrchidShade50: #16101d;
+  --sharedOrchidShade40: #281e37;
+  --sharedOrchidShade30: #4c3867;
+  --sharedOrchidShade20: #674c8c;
+  --sharedOrchidShade10: #795aa6;
+  --sharedOrchidPrimary: #8764b8;
+  --sharedOrchidTint10: #9373c0;
+  --sharedOrchidTint20: #a083c9;
+  --sharedOrchidTint30: #b29ad4;
+  --sharedOrchidTint40: #d7caea;
+  --sharedOrchidTint50: #e9e2f4;
+  --sharedOrchidTint60: #f9f8fc;
+  --sharedGrapeShade50: #160418;
+  --sharedGrapeShade40: #29072e;
+  --sharedGrapeShade30: #4c0d55;
+  --sharedGrapeShade20: #671174;
+  --sharedGrapeShade10: #7a1589;
+  --sharedGrapePrimary: #881798;
+  --sharedGrapeTint10: #952aa4;
+  --sharedGrapeTint20: #a33fb1;
+  --sharedGrapeTint30: #b55fc1;
+  --sharedGrapeTint40: #d9a7e0;
+  --sharedGrapeTint50: #eaceef;
+  --sharedGrapeTint60: #faf2fb;
+  --sharedBerryShade50: #1f091d;
+  --sharedBerryShade40: #3a1136;
+  --sharedBerryShade30: #6d2064;
+  --sharedBerryShade20: #932b88;
+  --sharedBerryShade10: #af33a1;
+  --sharedBerryPrimary: #c239b3;
+  --sharedBerryTint10: #c94cbc;
+  --sharedBerryTint20: #d161c4;
+  --sharedBerryTint30: #da7ed0;
+  --sharedBerryTint40: #edbbe7;
+  --sharedBerryTint50: #f5daf2;
+  --sharedBerryTint60: #fdf5fc;
+  --sharedLilacShade50: #1c0b1f;
+  --sharedLilacShade40: #35153a;
+  --sharedLilacShade30: #63276d;
+  --sharedLilacShade20: #863593;
+  --sharedLilacShade10: #9f3faf;
+  --sharedLilacPrimary: #b146c2;
+  --sharedLilacTint10: #ba58c9;
+  --sharedLilacTint20: #c36bd1;
+  --sharedLilacTint30: #cf87da;
+  --sharedLilacTint40: #e6bfed;
+  --sharedLilacTint50: #f2dcf5;
+  --sharedLilacTint60: #fcf6fd;
+  --sharedPinkShade50: #24091b;
+  --sharedPinkShade40: #2b0a1a;
+  --sharedPinkShade30: #561435;
+  --sharedPinkShade20: #801f4f;
+  --sharedPinkShade10: #ab296a;
+  --sharedPinkPrimary: #d63384;
+  --sharedPinkTint10: #de5c9d;
+  --sharedPinkTint20: #e685b5;
+  --sharedPinkTint30: #efadce;
+  --sharedPinkTint40: #f7d6e6;
+  --sharedPinkTint50: #f8e6ef;
+  --sharedPinkTint60: #fef6fb;
+  --sharedHotPinkShade50: #240016;
+  --sharedHotPinkShade40: #44002a;
+  --sharedHotPinkShade30: #7f004e;
+  --sharedHotPinkShade20: #ad006a;
+  --sharedHotPinkShade10: #cc007e;
+  --sharedHotPinkPrimary: #e3008c;
+  --sharedHotPinkTint10: #e61c99;
+  --sharedHotPinkTint20: #ea38a6;
+  --sharedHotPinkTint30: #ee5fb7;
+  --sharedHotPinkTint40: #f7adda;
+  --sharedHotPinkTint50: #fbd2eb;
+  --sharedHotPinkTint60: #fef4fa;
+  --sharedMagentaShade50: #1f0013;
+  --sharedMagentaShade40: #390024;
+  --sharedMagentaShade30: #6b0043;
+  --sharedMagentaShade20: #91005a;
+  --sharedMagentaShade10: #ac006b;
+  --sharedMagentaPrimary: #bf0077;
+  --sharedMagentaTint10: #c71885;
+  --sharedMagentaTint20: #ce3293;
+  --sharedMagentaTint30: #d957a8;
+  --sharedMagentaTint40: #eca5d1;
+  --sharedMagentaTint50: #f5cee6;
+  --sharedMagentaTint60: #fcf2f9;
+  --sharedPlumShade50: #13000c;
+  --sharedPlumShade40: #240017;
+  --sharedPlumShade30: #43002b;
+  --sharedPlumShade20: #5a003b;
+  --sharedPlumShade10: #6b0045;
+  --sharedPlumPrimary: #77004d;
+  --sharedPlumTint10: #87105d;
+  --sharedPlumTint20: #98246f;
+  --sharedPlumTint30: #ad4589;
+  --sharedPlumTint40: #d696c0;
+  --sharedPlumTint50: #e9c4dc;
+  --sharedPlumTint60: #faf0f6;
+  --sharedBeigeShade50: #141313;
+  --sharedBeigeShade40: #252323;
+  --sharedBeigeShade30: #444241;
+  --sharedBeigeShade20: #5d5958;
+  --sharedBeigeShade10: #6e6968;
+  --sharedBeigePrimary: #7a7574;
+  --sharedBeigeTint10: #8a8584;
+  --sharedBeigeTint20: #9a9594;
+  --sharedBeigeTint30: #afabaa;
+  --sharedBeigeTint40: #d7d4d4;
+  --sharedBeigeTint50: #eae8e8;
+  --sharedBeigeTint60: #faf9f9;
+  --sharedMinkShade50: #0f0e0e;
+  --sharedMinkShade40: #1c1b1a;
+  --sharedMinkShade30: #343231;
+  --sharedMinkShade20: #474443;
+  --sharedMinkShade10: #54514f;
+  --sharedMinkPrimary: #5d5a58;
+  --sharedMinkTint10: #706d6b;
+  --sharedMinkTint20: #84817e;
+  --sharedMinkTint30: #9e9b99;
+  --sharedMinkTint40: #cecccb;
+  --sharedMinkTint50: #e5e4e3;
+  --sharedMinkTint60: #f8f8f8;
+  --sharedSilverShade50: #151818;
+  --sharedSilverShade40: #282d2e;
+  --sharedSilverShade30: #4a5356;
+  --sharedSilverShade20: #657174;
+  --sharedSilverShade10: #78868a;
+  --sharedSilverPrimary: #859599;
+  --sharedSilverTint10: #92a1a5;
+  --sharedSilverTint20: #a0aeb1;
+  --sharedSilverTint30: #b3bfc2;
+  --sharedSilverTint40: #d8dfe0;
+  --sharedSilverTint50: #eaeeef;
+  --sharedSilverTint60: #fafbfb;
+  --sharedPlatinumShade50: #111314;
+  --sharedPlatinumShade40: #1f2426;
+  --sharedPlatinumShade30: #3b4447;
+  --sharedPlatinumShade20: #505c60;
+  --sharedPlatinumShade10: #5f6d71;
+  --sharedPlatinumPrimary: #69797e;
+  --sharedPlatinumTint10: #79898d;
+  --sharedPlatinumTint20: #89989d;
+  --sharedPlatinumTint30: #a0adb2;
+  --sharedPlatinumTint40: #cdd6d8;
+  --sharedPlatinumTint50: #e4e9ea;
+  --sharedPlatinumTint60: #f8f9fa;
+  --sharedAnchorShade50: #090a0b;
+  --sharedAnchorShade40: #111315;
+  --sharedAnchorShade30: #202427;
+  --sharedAnchorShade20: #2b3135;
+  --sharedAnchorShade10: #333a3f;
+  --sharedAnchorPrimary: #394146;
+  --sharedAnchorTint10: #4d565c;
+  --sharedAnchorTint20: #626c72;
+  --sharedAnchorTint30: #808a90;
+  --sharedAnchorTint40: #bcc3c7;
+  --sharedAnchorTint50: #dbdfe1;
+  --sharedAnchorTint60: #f6f7f8;
+  --sharedCharcoalShade50: #090909;
+  --sharedCharcoalShade40: #111111;
+  --sharedCharcoalShade30: #202020;
+  --sharedCharcoalShade20: #2b2b2b;
+  --sharedCharcoalShade10: #333333;
+  --sharedCharcoalPrimary: #393939;
+  --sharedCharcoalTint10: #515151;
+  --sharedCharcoalTint20: #686868;
+  --sharedCharcoalTint30: #888888;
+  --sharedCharcoalTint40: #c4c4c4;
+  --sharedCharcoalTint50: #dfdfdf;
+  --sharedCharcoalTint60: #f7f7f7;
+  --alphaWhite0: rgba(255, 255, 255, 0);
+  --alphaWhite5: rgba(255, 255, 255, 0.05);
+  --alphaWhite10: rgba(255, 255, 255, 0.1);
+  --alphaWhite20: rgba(255, 255, 255, 0.2);
+  --alphaWhite30: rgba(255, 255, 255, 0.3);
+  --alphaWhite40: rgba(255, 255, 255, 0.4);
+  --alphaWhite50: rgba(255, 255, 255, 0.5);
+  --alphaWhite60: rgba(255, 255, 255, 0.6);
+  --alphaWhite70: rgba(255, 255, 255, 0.7);
+  --alphaWhite80: rgba(255, 255, 255, 0.8);
+  --alphaWhite90: rgba(255, 255, 255, 0.9);
+  --alphaBlack0: rgba(0, 0, 0, 0);
+  --alphaBlack5: rgba(0, 0, 0, 0.05);
+  --alphaBlack10: rgba(0, 0, 0, 0.1);
+  --alphaBlack20: rgba(0, 0, 0, 0.2);
+  --alphaBlack30: rgba(0, 0, 0, 0.3);
+  --alphaBlack40: rgba(0, 0, 0, 0.4);
+  --alphaBlack50: rgba(0, 0, 0, 0.5);
+  --alphaBlack60: rgba(0, 0, 0, 0.6);
+  --alphaBlack70: rgba(0, 0, 0, 0.7);
+  --alphaBlack80: rgba(0, 0, 0, 0.8);
+  --alphaBlack90: rgba(0, 0, 0, 0.9);
+  --alphaGrey145: rgba(36, 36, 36, 0.05);
+  --alphaGrey1410: rgba(36, 36, 36, 0.1);
+  --alphaGrey1420: rgba(36, 36, 36, 0.2);
+  --alphaGrey1430: rgba(36, 36, 36, 0.3);
+  --alphaGrey1440: rgba(36, 36, 36, 0.4);
+  --alphaGrey1450: rgba(36, 36, 36, 0.5);
+  --alphaGrey1460: rgba(36, 36, 36, 0.6);
+  --alphaGrey1470: rgba(36, 36, 36, 0.7);
+  --alphaGrey1480: rgba(36, 36, 36, 0.8);
+  --alphaGrey1490: rgba(36, 36, 36, 0.9);
+  --alphaGrey125: rgba(31, 31, 31, 0.05);
+  --alphaGrey1210: rgba(31, 31, 31, 0.1);
+  --alphaGrey1220: rgba(31, 31, 31, 0.2);
+  --alphaGrey1230: rgba(31, 31, 31, 0.3);
+  --alphaGrey1240: rgba(31, 31, 31, 0.4);
+  --alphaGrey1250: rgba(31, 31, 31, 0.5);
+  --alphaGrey1260: rgba(31, 31, 31, 0.6);
+  --alphaGrey1270: rgba(31, 31, 31, 0.7);
+  --alphaGrey1280: rgba(31, 31, 31, 0.8);
+  --alphaGrey1290: rgba(31, 31, 31, 0.9);
+  --alphaGrey105: rgba(26, 26, 26, 0.05);
+  --alphaGrey1010: rgba(26, 26, 26, 0.1);
+  --alphaGrey1020: rgba(26, 26, 26, 0.2);
+  --alphaGrey1030: rgba(26, 26, 26, 0.3);
+  --alphaGrey1040: rgba(26, 26, 26, 0.4);
+  --alphaGrey1050: rgba(26, 26, 26, 0.5);
+  --alphaGrey1060: rgba(26, 26, 26, 0.6);
+  --alphaGrey1070: rgba(26, 26, 26, 0.7);
+  --alphaGrey1080: rgba(26, 26, 26, 0.8);
+  --alphaGrey1090: rgba(26, 26, 26, 0.9);
   --utilitiesComponentBorder: #d1d9e0;
   --utilitiesButtonBackground: #f6f8fa;
   --utilitiesDisabledBackground: #818b98;
@@ -1657,33 +1577,33 @@
   --backgroundInverse: #000000;
   --overlayLight: rgba(255, 255, 255, 0.4);
   --overlayDark: rgba(0, 0, 0, 0.7);
-  --surfacePrimaryDefault: #000aa4; /** Bg/Default/Default */
-  --surfacePrimaryDefaultHover: #000a82; /** Bg/Default/Default Hover */
-  --surfacePrimarySecondary: #0c5ff3; /** Bg/Default/Secondary */
-  --surfacePrimarySecondaryHover: #367cf8; /** Bg/Default/Secondary Hover */
-  --surfacePrimaryTertiary: #0082fb; /** Bg/Default/Tertiary */
-  --surfacePrimaryTertiaryHover: #349cfe; /** Bg/Default/Tertiary Hover */
-  --surfacePrimaryQuaternary: #cde3ff; /** Bg/Default/Tertiary Hover */
-  --surfacePrimaryQuaternaryHover: #e3efff; /** Bg/Default/Tertiary Hover */
-  --surfaceSuccessDefault: #19bb57; /** Bg/Default/Default */
-  --surfaceSuccessDefaultHover: #009951; /** Bg/Default/Default Hover */
-  --surfaceSuccessSecondary: #20c997; /** Bg/Default/Secondary */
-  --surfaceSuccessSecondaryHover: #4dd4ac; /** Bg/Default/Secondary Hover */
-  --surfaceSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
-  --surfaceSuccessTertiaryHover: #daf3eb; /** Bg/Default/Tertiary Hover */
-  --surfaceWarningDefault: #e8b931; /** Bg/Default/Default */
-  --surfaceWarningDefaultHover: #e5a000; /** Bg/Default/Default Hover */
-  --surfaceWarningSecondary: #ffc107; /** Bg/Default/Secondary */
-  --surfaceWarningSecondaryHover: #ffda6a; /** Bg/Default/Secondary Hover */
-  --surfaceWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
-  --surfaceWarningTertiaryHover: #fcefd3; /** Bg/Default/Tertiary Hover */
-  --surfaceDisabledDefault: #f5f5f5; /** Bg/Default/Default */
-  --surfaceDisabledDefaultHover: #f5f5f5; /** Bg/Default/Default Hover */
-  --surfaceDisabledSecondary: #474747; /** Bg/Default/Secondary */
-  --surfaceDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
-  --surfaceDisabledTertiary: #616161; /** Bg/Default/Tertiary */
-  --surfaceDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
-  --surfaceUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
+  --surfacePrimaryDefault: #000aa4;
+  --surfacePrimaryDefaultHover: #000a82;
+  --surfacePrimarySecondary: #0c5ff3;
+  --surfacePrimarySecondaryHover: #367cf8;
+  --surfacePrimaryTertiary: #0082fb;
+  --surfacePrimaryTertiaryHover: #349cfe;
+  --surfacePrimaryQuaternary: #cde3ff;
+  --surfacePrimaryQuaternaryHover: #e3efff;
+  --surfaceSuccessDefault: #19bb57;
+  --surfaceSuccessDefaultHover: #009951;
+  --surfaceSuccessSecondary: #20c997;
+  --surfaceSuccessSecondaryHover: #4dd4ac;
+  --surfaceSuccessTertiary: #79dfc1;
+  --surfaceSuccessTertiaryHover: #daf3eb;
+  --surfaceWarningDefault: #e8b931;
+  --surfaceWarningDefaultHover: #e5a000;
+  --surfaceWarningSecondary: #ffc107;
+  --surfaceWarningSecondaryHover: #ffda6a;
+  --surfaceWarningTertiary: #ffe69c;
+  --surfaceWarningTertiaryHover: #fcefd3;
+  --surfaceDisabledDefault: #f5f5f5;
+  --surfaceDisabledDefaultHover: #f5f5f5;
+  --surfaceDisabledSecondary: #474747;
+  --surfaceDisabledSecondaryHover: #3d3d3d;
+  --surfaceDisabledTertiary: #616161;
+  --surfaceDisabledTertiaryHover: #616161;
+  --surfaceUtilitiesReadOnly: #eff2f5;
   --surfaceUtilitiesButtonBackground: #f6f8fa;
   --surfaceUtilitiesTagBackground: #ddf4ff;
   --surfaceUtilitiesTabHover: #edefff;
@@ -1691,12 +1611,12 @@
   --surfaceUtilitiesComponentBorder: #d1d9e0;
   --surfaceUtilitiesRateStar: #ffda6a;
   --surfaceUtilitiesRateStarYellow: #eaa300;
-  --surfaceDangerTertiaryHover: #fee9e7; /** Bg/Default/Tertiary Hover */
-  --surfaceDangerDefault: #f01328; /** Bg/Default/Default */
-  --surfaceDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
-  --surfaceDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
-  --surfaceDangerSecondaryHover: #f6d1d5; /** Bg/Default/Secondary Hover */
-  --surfaceDangerDefaultHover: #de0f1a; /** Bg/Default/Default Hover */
+  --surfaceDangerTertiaryHover: #fee9e7;
+  --surfaceDangerDefault: #f01328;
+  --surfaceDangerTertiary: #d33f4c;
+  --surfaceDangerSecondary: #c50f1f;
+  --surfaceDangerSecondaryHover: #f6d1d5;
+  --surfaceDangerDefaultHover: #de0f1a;
   --surfaceDefaultQuaternary: #616161;
   --surfaceDefaultTertiaryHover: #5c5c5c;
   --surfaceDefaultTertiary: #424242;
@@ -1735,29 +1655,496 @@
   --textPrimaryOnDefault: #000a82;
   --textPrimaryOnSecondary: #367cf8;
   --textPrimaryOnTertiary: #349cfe;
-  --textWarningDefault: #e8b931; /** Bg/Default/Default */
-  --textWarningOnDefault: #e5a000; /** Bg/Default/Default Hover */
-  --textWarningOnTertiary: #f9e2ae; /** Bg/Default/Tertiary Hover */
-  --textWarningTertiary: #ffe69c; /** Bg/Default/Tertiary */
-  --textWarningOnSecondary: #ffda6a; /** Bg/Default/Secondary Hover */
-  --textWarningSecondary: #ffc107; /** Bg/Default/Secondary */
-  --textDangerSecondary: #c50f1f; /** Bg/Default/Secondary */
-  --textDangerOnTertiary: #fee9e7; /** Bg/Default/Tertiary Hover */
-  --textDangerTertiary: #d33f4c; /** Bg/Default/Tertiary */
-  --textDangerOnSecondary: #f6d1d5; /** Bg/Default/Secondary Hover */
-  --textDangerOnDefault: #de0f1a; /** Bg/Default/Default Hover */
-  --textDangerDefault: #f01328; /** Bg/Default/Default */
-  --textDisabledOnDisabled: #adadad; /** Bg/Default/Secondary */
-  --textDisabledDefault: #adadad; /** Bg/Default/Default */
-  --textDisabledTertiaryHover: #616161; /** Bg/Default/Tertiary Hover */
-  --textDisabledTertiary: #616161; /** Bg/Default/Tertiary */
-  --textDisabledSecondaryHover: #3d3d3d; /** Bg/Default/Secondary Hover */
-  --textDisabledSecondary: #474747; /** Bg/Default/Secondary */
-  --textSuccessOnTertiary: #a6e9d5; /** Bg/Default/Tertiary Hover */
-  --textSuccessOnDefault: #009951; /** Bg/Default/Default Hover */
-  --textSuccessTertiary: #79dfc1; /** Bg/Default/Tertiary */
-  --textSuccessOnSecondary: #4dd4ac; /** Bg/Default/Secondary Hover */
-  --textSuccessSecondary: #20c997; /** Bg/Default/Secondary */
-  --textSuccessDefault: #19bb57; /** Bg/Default/Default */
-  --textUtilitiesReadOnly: #eff2f5; /** Bg/Utilities/Scrim */
+  --textWarningDefault: #e8b931;
+  --textWarningOnDefault: #e5a000;
+  --textWarningOnTertiary: #f9e2ae;
+  --textWarningTertiary: #ffe69c;
+  --textWarningOnSecondary: #ffda6a;
+  --textWarningSecondary: #ffc107;
+  --textDangerSecondary: #c50f1f;
+  --textDangerOnTertiary: #fee9e7;
+  --textDangerTertiary: #d33f4c;
+  --textDangerOnSecondary: #f6d1d5;
+  --textDangerOnDefault: #de0f1a;
+  --textDangerDefault: #f01328;
+  --textDisabledOnDisabled: #adadad;
+  --textDisabledDefault: #adadad;
+  --textDisabledTertiaryHover: #616161;
+  --textDisabledTertiary: #616161;
+  --textDisabledSecondaryHover: #3d3d3d;
+  --textDisabledSecondary: #474747;
+  --textSuccessOnTertiary: #a6e9d5;
+  --textSuccessOnDefault: #009951;
+  --textSuccessTertiary: #79dfc1;
+  --textSuccessOnSecondary: #4dd4ac;
+  --textSuccessSecondary: #20c997;
+  --textSuccessDefault: #19bb57;
+  --textUtilitiesReadOnly: #eff2f5;
+  --baselineDisplay1FontFamily: Sukhumvit Set;
+  --baselineDisplay1Tracking: 0;
+  --baselineDisplay1LineHeight: 70;
+  --baselineDisplay1FontSize: 58px;
+  --baselineDisplay1FontSizeRem: 3.625rem;
+  --baselineDisplay2FontFamily: Sukhumvit Set;
+  --baselineDisplay2Tracking: 0;
+  --baselineDisplay2FontSize: 52px;
+  --baselineDisplay2FontSizeRem: 3.25rem;
+  --baselineDisplay2LineHeight: 62;
+  --baselineDisplay3FontFamily: Sukhumvit Set;
+  --baselineDisplay3LineHeight: 54;
+  --baselineDisplay3FontSize: 45px;
+  --baselineDisplay3FontSizeRem: 2.8125rem;
+  --baselineDisplay3Tracking: 0;
+  --baselineDisplay4FontFamily: Sukhumvit Set;
+  --baselineDisplay4FontSize: 40px;
+  --baselineDisplay4FontSizeRem: 2.5rem;
+  --baselineDisplay4LineHeight: 48;
+  --baselineDisplay4Tracking: 0;
+  --baselineH1FontFamily: Sukhumvit Set;
+  --baselineH1FontSize: 36px;
+  --baselineH1FontSizeRem: 2.25rem;
+  --baselineH1LineHeight: 44;
+  --baselineH1Tracking: 0;
+  --baselineH2FontFamily: Sukhumvit Set;
+  --baselineH2FontSize: 32px;
+  --baselineH2FontSizeRem: 2rem;
+  --baselineH2LineHeight: 39;
+  --baselineH2Tracking: 0;
+  --baselineH3FontFamily: Sukhumvit Set;
+  --baselineH3FontSize: 28px;
+  --baselineH3FontSizeRem: 1.75rem;
+  --baselineH3LineHeight: 34;
+  --baselineH3Tracking: 0;
+  --baselineH4FontFamily: Sukhumvit Set;
+  --baselineH4FontSize: 25px;
+  --baselineH4FontSizeRem: 1.5625rem;
+  --baselineH4LineHeight: 30;
+  --baselineH4Tracking: 0;
+  --baselineH5FontFamily: Sukhumvit Set;
+  --baselineH5FontSize: 22px;
+  --baselineH5FontSizeRem: 1.375rem;
+  --baselineH5LineHeight: 27;
+  --baselineH5Tracking: 0;
+  --baselineH6FontFamily: Sukhumvit Set;
+  --baselineH6FontSize: 20px;
+  --baselineH6FontSizeRem: 1.25rem;
+  --baselineH6LineHeight: 25;
+  --baselineH6Tracking: 0;
+  --baselineTitleFontFamily: Sukhumvit Set;
+  --baselineTitleFontSize: 18px;
+  --baselineTitleFontSizeRem: 1.125rem;
+  --baselineTitleLineHeight: 25;
+  --baselineTitleTracking: 0;
+  --baselineSubtitleFontFamily: Sukhumvit Set;
+  --baselineSubtitleFontSize: 16px;
+  --baselineSubtitleFontSizeRem: 1rem;
+  --baselineSubtitleLineHeight: 20;
+  --baselineSubtitleTracking: 0;
+  --baselineLabelLgFontFamily: Sukhumvit Set;
+  --baselineLabelLgFontSize: 14px;
+  --baselineLabelLgFontSizeRem: 0.875rem;
+  --baselineLabelLgLineHeight: 20;
+  --baselineLabelLgTracking: 0;
+  --baselineLabelMdFontFamily: Sukhumvit Set;
+  --baselineLabelMdFontSize: 12px;
+  --baselineLabelMdFontSizeRem: 0.75rem;
+  --baselineLabelMdLineHeight: 16;
+  --baselineLabelMdTracking: 0;
+  --baselineLabelSmFontFamily: Sukhumvit Set;
+  --baselineLabelSmFontSize: 11px;
+  --baselineLabelSmFontSizeRem: 0.6875rem;
+  --baselineLabelSmLineHeight: 14;
+  --baselineLabelSmTracking: 0;
+  --baselineParagraphFontFamily: Sukhumvit Set;
+  --baselineParagraphFontSize: 10px;
+  --baselineParagraphFontSizeRem: 0.625rem;
+  --baselineParagraphLineHeight: 14;
+  --baselineParagraphTracking: 0;
+  --baselineCaptionLgFontFamily: Sukhumvit Set;
+  --baselineCaptionLgFontSize: 9px;
+  --baselineCaptionLgFontSizeRem: 0.5625rem;
+  --baselineCaptionLgLineHeight: 10;
+  --baselineCaptionLgTracking: 0;
+  --baselineCaptionMdFontFamily: Sukhumvit Set;
+  --baselineCaptionMdFontSize: 8px;
+  --baselineCaptionMdFontSizeRem: 0.5rem;
+  --baselineCaptionMdLineHeight: 10;
+  --baselineCaptionMdTracking: 0;
+  --baselineCaptionSmFontFamily: Sukhumvit Set;
+  --baselineCaptionSmFontSize: 7px;
+  --baselineCaptionSmFontSizeRem: 0.4375rem;
+  --baselineCaptionSmLineHeight: 10;
+  --baselineCaptionSmTracking: 0;
+  --baselineCaptionXsFontFamily: Sukhumvit Set;
+  --baselineCaptionXsFontSize: 6px;
+  --baselineCaptionXsFontSizeRem: 0.375rem;
+  --baselineCaptionXsLineHeight: 8;
+  --baselineCaptionXsTracking: 0;
+  --dropShadow100: 0px 1px 4px 0px #0c0c0d0d;
+  --dropShadow200: 0px 1px 4px 0px #0c0c0d1a, 0px 1px 4px 0px #0c0c0d0d;
+  --dropShadow300: 0px 4px 4px -1px #0c0c0d1a, 0px 4px 4px -1px #0c0c0d0d;
+  --dropShadow400: 0px 16px 32px -4px #0c0c0d1a, 0px 4px 4px -4px #0c0c0d0d;
+  --dropShadow500: 0px 16px 16px -8px #0c0c0d1a, 0px 4px 4px -4px #0c0c0d0d;
+  --dropShadow600: 0px 16px 32px -8px #0c0c0d66;
+  --innerShadow100: inset 0px 1px 4px 0px #0c0c0d0d;
+  --innerShadow200: inset 0px 1px 4px 0px #0c0c0d0d;
+  --innerShadow300: inset 0px 4px 4px -1px #0c0c0d0d;
+  --innerShadow400: inset 0px 16px 32px -4px #0c0c0d1a;
+  --innerShadow500: inset 0px 16px 16px -8px #0c0c0d1a;
+  --innerShadow600: inset 0px 16px 32px -8px #0c0c0d66;
+  --fontSize0: 6;
+  --fontSize1: 7;
+  --fontSize2: 8;
+  --fontSize3: 9;
+  --fontSize4: 10;
+  --fontSize5: 11;
+  --fontSize6: 12;
+  --fontSize7: 14;
+  --fontSize8: 16;
+  --fontSize9: 18;
+  --fontSize10: 20;
+  --fontSize11: 22;
+  --fontSize12: 25;
+  --fontSize13: 28;
+  --fontSize14: 32;
+  --fontSize15: 36;
+  --fontSize16: 40;
+  --fontSize17: 45;
+  --fontSize18: 52;
+  --fontSize19: 58;
+  --letterSpacing0: 0em;
+  --paragraphSpacing0: 0;
+  --displayDisplay1Thin: 100 58px/70px 'Sukhumvit Set';
+  --displayDisplay1Light: 300 58px/70px 'Sukhumvit Set';
+  --displayDisplay1Normal: text 58px/70px 'Sukhumvit Set';
+  --displayDisplay1Medium: 500 58px/70px 'Sukhumvit Set';
+  --displayDisplay1SemiBold: 600 58px/70px 'Sukhumvit Set';
+  --displayDisplay1Bold: 700 58px/70px 'Sukhumvit Set';
+  --displayDisplay2Thin: 100 52px/62 'Sukhumvit Set';
+  --displayDisplay2Light: 300 52px/62 'Sukhumvit Set';
+  --displayDisplay2Normal: text 52px/62 'Sukhumvit Set';
+  --displayDisplay2Medium: 500 52px/62 'Sukhumvit Set';
+  --displayDisplay2SemiBold: 600 52px/62 'Sukhumvit Set';
+  --displayDisplay2Bold: 700 52px/62 'Sukhumvit Set';
+  --displayDisplay3Thin: 100 45px/54 'Sukhumvit Set';
+  --displayDisplay3Light: 300 45px/54 'Sukhumvit Set';
+  --displayDisplay3Normal: text 45px/54 'Sukhumvit Set';
+  --displayDisplay3Medium: 500 45px/54 'Sukhumvit Set';
+  --displayDisplay3SemiBold: 600 45px/54 'Sukhumvit Set';
+  --displayDisplay3Bold: 700 45px/54 'Sukhumvit Set';
+  --displayDisplay4Thin: 100 40px/48 'Sukhumvit Set';
+  --displayDisplay4Light: 300 40px/48 'Sukhumvit Set';
+  --displayDisplay4Normal: text 40px/48 'Sukhumvit Set';
+  --displayDisplay4Medium: 500 40px/48 'Sukhumvit Set';
+  --displayDisplay4SemiBold: 600 40px/48 'Sukhumvit Set';
+  --displayDisplay4Bold: 700 40px/48 'Sukhumvit Set';
+  --headingH1Thin: 100 36px/44 'Sukhumvit Set';
+  --headingH1Light: 300 36px/44 'Sukhumvit Set';
+  --headingH1Normal: text 36px/44 'Sukhumvit Set';
+  --headingH1Medium: 500 36px/44 'Sukhumvit Set';
+  --headingH1SemiBold: 600 36px/44 'Sukhumvit Set';
+  --headingH1Bold: 700 36px/44 'Sukhumvit Set';
+  --headingH2Thin: 100 32px/39 'Sukhumvit Set';
+  --headingH2Light: 300 32px/39 'Sukhumvit Set';
+  --headingH2Normal: text 32px/39 'Sukhumvit Set';
+  --headingH2Medium: 500 32px/39 'Sukhumvit Set';
+  --headingH2SemiBold: 600 32px/39 'Sukhumvit Set';
+  --headingH2Bold: 700 32px/39 'Sukhumvit Set';
+  --headingH3Thin: 100 28px/34 'Sukhumvit Set';
+  --headingH3Light: 300 28px/34 'Sukhumvit Set';
+  --headingH3Normal: text 28px/34 'Sukhumvit Set';
+  --headingH3Medium: 500 28px/34 'Sukhumvit Set';
+  --headingH3SemiBold: 600 28px/34 'Sukhumvit Set';
+  --headingH3Bold: 700 28px/34 'Sukhumvit Set';
+  --headingH4Thin: 100 25px/30 'Sukhumvit Set';
+  --headingH4Light: 300 25px/30 'Sukhumvit Set';
+  --headingH4Normal: text 25px/30 'Sukhumvit Set';
+  --headingH4Medium: 500 25px/30 'Sukhumvit Set';
+  --headingH4SemiBold: 600 25px/30 'Sukhumvit Set';
+  --headingH4Bold: 700 25px/30 'Sukhumvit Set';
+  --headingH5Thin: 100 22px/27 'Sukhumvit Set';
+  --headingH5Light: 300 22px/27 'Sukhumvit Set';
+  --headingH5Normal: text 22px/27 'Sukhumvit Set';
+  --headingH5Medium: 500 22px/27 'Sukhumvit Set';
+  --headingH5SemiBold: 600 22px/27 'Sukhumvit Set';
+  --headingH5Bold: 700 22px/27 'Sukhumvit Set';
+  --headingH6Thin: 100 20px/25 'Sukhumvit Set';
+  --headingH6Light: 300 20px/25 'Sukhumvit Set';
+  --headingH6Normal: text 20px/25 'Sukhumvit Set';
+  --headingH6Medium: 500 20px/25 'Sukhumvit Set';
+  --headingH6SemiBold: 600 20px/25 'Sukhumvit Set';
+  --headingH6Bold: 700 20px/25 'Sukhumvit Set';
+  --bodyTitleThin: 100 18px/25 'Sukhumvit Set';
+  --bodyTitleLight: 300 18px/25 'Sukhumvit Set';
+  --bodyTitleNormal: text 18px/25 'Sukhumvit Set';
+  --bodyTitleMedium: 500 18px/25 'Sukhumvit Set';
+  --bodyTitleSemiBold: 600 18px/25 'Sukhumvit Set';
+  --bodyTitleBold: 700 18px/25 'Sukhumvit Set';
+  --bodySubtitleThin: 100 16px/20 'Sukhumvit Set';
+  --bodySubtitleLight: 300 16px/20 'Sukhumvit Set';
+  --bodySubtitleNormal: text 16px/20 'Sukhumvit Set';
+  --bodySubtitleMedium: 500 16px/20 'Sukhumvit Set';
+  --bodySubtitleSemiBold: 600 16px/20 'Sukhumvit Set';
+  --bodySubtitleBold: 700 16px/20 'Sukhumvit Set';
+  --bodyLabelLgThin: 100 14px/20 'Sukhumvit Set';
+  --bodyLabelLgLight: 300 14px/20 'Sukhumvit Set';
+  --bodyLabelLgNormal: text 14px/20 'Sukhumvit Set';
+  --bodyLabelLgMedium: 500 14px/20 'Sukhumvit Set';
+  --bodyLabelLgSemiBold: 600 14px/20 'Sukhumvit Set';
+  --bodyLabelLgBold: 700 14px/20 'Sukhumvit Set';
+  --bodyLabelMdThin: 100 12px/16 'Sukhumvit Set';
+  --bodyLabelMdLight: 300 12px/16 'Sukhumvit Set';
+  --bodyLabelMdNormal: text 12px/16 'Sukhumvit Set';
+  --bodyLabelMdMedium: 500 12px/16 'Sukhumvit Set';
+  --bodyLabelMdSemiBold: 600 12px/16 'Sukhumvit Set';
+  --bodyLabelMdBold: 700 12px/16 'Sukhumvit Set';
+  --bodyLabelSmThin: 100 11px/14 'Sukhumvit Set';
+  --bodyLabelSmLight: 300 11px/14 'Sukhumvit Set';
+  --bodyLabelSmNormal: text 11px/14 'Sukhumvit Set';
+  --bodyLabelSmMedium: 500 11px/14 'Sukhumvit Set';
+  --bodyLabelSmSemiBold: 600 11px/14 'Sukhumvit Set';
+  --bodyLabelSmBold: 700 11px/14 'Sukhumvit Set';
+  --bodyParagraphThin: 100 10px/14 'Sukhumvit Set';
+  --bodyParagraphLight: 300 10px/14 'Sukhumvit Set';
+  --bodyParagraphNormal: text 10px/14 'Sukhumvit Set';
+  --bodyParagraphMedium: 500 10px/14 'Sukhumvit Set';
+  --bodyParagraphSemiBold: 600 10px/14 'Sukhumvit Set';
+  --bodyParagraphBold: 700 10px/14 'Sukhumvit Set';
+  --captionCaptionLgThin: 100 9px/10 'Sukhumvit Set';
+  --captionCaptionLgLight: 300 9px/10 'Sukhumvit Set';
+  --captionCaptionLgNormal: text 9px/10 'Sukhumvit Set';
+  --captionCaptionLgMedium: 500 9px/10 'Sukhumvit Set';
+  --captionCaptionLgSemiBold: 600 9px/10 'Sukhumvit Set';
+  --captionCaptionLgBold: 700 9px/10 'Sukhumvit Set';
+  --captionCaptionMdThin: 100 8px/10 'Sukhumvit Set';
+  --captionCaptionMdLight: 300 8px/10 'Sukhumvit Set';
+  --captionCaptionMdNormal: text 8px/10 'Sukhumvit Set';
+  --captionCaptionMdMedium: 500 8px/10 'Sukhumvit Set';
+  --captionCaptionMdSemiBold: 600 8px/10 'Sukhumvit Set';
+  --captionCaptionMdBold: 700 8px/10 'Sukhumvit Set';
+  --captionCaptionSmThin: 100 7px/10 'Sukhumvit Set';
+  --captionCaptionSmLight: 300 7px/10 'Sukhumvit Set';
+  --captionCaptionSmNormal: text 7px/10 'Sukhumvit Set';
+  --captionCaptionSmMedium: 500 7px/10 'Sukhumvit Set';
+  --captionCaptionSmSemiBold: 600 7px/10 'Sukhumvit Set';
+  --captionCaptionSmBold: 700 7px/10 'Sukhumvit Set';
+  --captionCaptionXsThin: 100 6px/8 'Sukhumvit Set';
+  --captionCaptionXsLight: 300 6px/8 'Sukhumvit Set';
+  --captionCaptionXsNormal: text 6px/8 'Sukhumvit Set';
+  --captionCaptionXsMedium: 500 6px/8 'Sukhumvit Set';
+  --captionCaptionXsSemiBold: 600 6px/8 'Sukhumvit Set';
+  --captionCaptionXsBold: 700 6px/8 'Sukhumvit Set';
+  --textCaseNone: none;
+  --textDecorationNone: none;
+  --paragraphIndent0: 0;
+}
+
+@media (max-width: 1024px) {
+  :root {
+    --baselineDisplay1FontFamily: Sukhumvit Set;
+    --baselineDisplay1Tracking: 0;
+    --baselineDisplay1LineHeight: 70px;
+    --baselineDisplay1FontSize: 58px;
+    --baselineDisplay1FontSizeRem: 3.625rem;
+    --baselineDisplay2FontFamily: Sukhumvit Set;
+    --baselineDisplay2Tracking: 0;
+    --baselineDisplay2FontSize: 52px;
+    --baselineDisplay2FontSizeRem: 3.25rem;
+    --baselineDisplay2LineHeight: 62px;
+    --baselineDisplay3FontFamily: Sukhumvit Set;
+    --baselineDisplay3LineHeight: 54px;
+    --baselineDisplay3FontSize: 45px;
+    --baselineDisplay3FontSizeRem: 2.8125rem;
+    --baselineDisplay3Tracking: 0;
+    --baselineDisplay4FontFamily: Sukhumvit Set;
+    --baselineDisplay4FontSize: 40px;
+    --baselineDisplay4FontSizeRem: 2.5rem;
+    --baselineDisplay4LineHeight: 48px;
+    --baselineDisplay4Tracking: 0;
+    --baselineH1FontFamily: Sukhumvit Set;
+    --baselineH1FontSize: 36px;
+    --baselineH1FontSizeRem: 2.25rem;
+    --baselineH1LineHeight: 44px;
+    --baselineH1Tracking: 0;
+    --baselineH2FontFamily: Sukhumvit Set;
+    --baselineH2FontSize: 32px;
+    --baselineH2FontSizeRem: 2rem;
+    --baselineH2LineHeight: 39px;
+    --baselineH2Tracking: 0;
+    --baselineH3FontFamily: Sukhumvit Set;
+    --baselineH3FontSize: 28px;
+    --baselineH3FontSizeRem: 1.75rem;
+    --baselineH3LineHeight: 34px;
+    --baselineH3Tracking: 0;
+    --baselineH4FontFamily: Sukhumvit Set;
+    --baselineH4FontSize: 25px;
+    --baselineH4FontSizeRem: 1.5625rem;
+    --baselineH4LineHeight: 30px;
+    --baselineH4Tracking: 0;
+    --baselineH5FontFamily: Sukhumvit Set;
+    --baselineH5FontSize: 22px;
+    --baselineH5FontSizeRem: 1.375rem;
+    --baselineH5LineHeight: 27px;
+    --baselineH5Tracking: 0;
+    --baselineH6FontFamily: Sukhumvit Set;
+    --baselineH6FontSize: 20px;
+    --baselineH6FontSizeRem: 1.25rem;
+    --baselineH6LineHeight: 25px;
+    --baselineH6Tracking: 0;
+    --baselineTitleFontFamily: Sukhumvit Set;
+    --baselineTitleFontSize: 18px;
+    --baselineTitleFontSizeRem: 1.125rem;
+    --baselineTitleLineHeight: 25px;
+    --baselineTitleTracking: 0;
+    --baselineSubtitleFontFamily: Sukhumvit Set;
+    --baselineSubtitleFontSize: 16px;
+    --baselineSubtitleFontSizeRem: 1rem;
+    --baselineSubtitleLineHeight: 20px;
+    --baselineSubtitleTracking: 0;
+    --baselineLabelLgFontFamily: Sukhumvit Set;
+    --baselineLabelLgFontSize: 14px;
+    --baselineLabelLgFontSizeRem: 0.875rem;
+    --baselineLabelLgLineHeight: 20px;
+    --baselineLabelLgTracking: 0;
+    --baselineLabelMdFontFamily: Sukhumvit Set;
+    --baselineLabelMdFontSize: 12px;
+    --baselineLabelMdFontSizeRem: 0.75rem;
+    --baselineLabelMdLineHeight: 16px;
+    --baselineLabelMdTracking: 0;
+    --baselineLabelSmFontFamily: Sukhumvit Set;
+    --baselineLabelSmFontSize: 11px;
+    --baselineLabelSmFontSizeRem: 0.6875rem;
+    --baselineLabelSmLineHeight: 14px;
+    --baselineLabelSmTracking: 0;
+    --baselineParagraphFontFamily: Sukhumvit Set;
+    --baselineParagraphFontSize: 10px;
+    --baselineParagraphFontSizeRem: 0.625rem;
+    --baselineParagraphLineHeight: 14px;
+    --baselineParagraphTracking: 0;
+    --baselineCaptionLgFontFamily: Sukhumvit Set;
+    --baselineCaptionLgFontSize: 9px;
+    --baselineCaptionLgFontSizeRem: 0.5625rem;
+    --baselineCaptionLgLineHeight: 10px;
+    --baselineCaptionLgTracking: 0;
+    --baselineCaptionMdFontFamily: Sukhumvit Set;
+    --baselineCaptionMdFontSize: 8px;
+    --baselineCaptionMdFontSizeRem: 0.5rem;
+    --baselineCaptionMdLineHeight: 10px;
+    --baselineCaptionMdTracking: 0;
+    --baselineCaptionSmFontFamily: Sukhumvit Set;
+    --baselineCaptionSmFontSize: 7px;
+    --baselineCaptionSmFontSizeRem: 0.4375rem;
+    --baselineCaptionSmLineHeight: 10px;
+    --baselineCaptionSmTracking: 0;
+    --baselineCaptionXsFontFamily: Sukhumvit Set;
+    --baselineCaptionXsFontSize: 6px;
+    --baselineCaptionXsFontSizeRem: 0.375rem;
+    --baselineCaptionXsLineHeight: 8px;
+    --baselineCaptionXsTracking: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --baselineDisplay1FontFamily: Sukhumvit Set;
+    --baselineDisplay1Tracking: 0;
+    --baselineDisplay1LineHeight: 70px;
+    --baselineDisplay1FontSize: 58px;
+    --baselineDisplay1FontSizeRem: 3.625rem;
+    --baselineDisplay2FontFamily: Sukhumvit Set;
+    --baselineDisplay2Tracking: 0;
+    --baselineDisplay2FontSize: 52px;
+    --baselineDisplay2FontSizeRem: 3.25rem;
+    --baselineDisplay2LineHeight: 62px;
+    --baselineDisplay3FontFamily: Sukhumvit Set;
+    --baselineDisplay3LineHeight: 54px;
+    --baselineDisplay3FontSize: 45px;
+    --baselineDisplay3FontSizeRem: 2.8125rem;
+    --baselineDisplay3Tracking: 0;
+    --baselineDisplay4FontFamily: Sukhumvit Set;
+    --baselineDisplay4FontSize: 40px;
+    --baselineDisplay4FontSizeRem: 2.5rem;
+    --baselineDisplay4LineHeight: 48px;
+    --baselineDisplay4Tracking: 0;
+    --baselineH1FontFamily: Sukhumvit Set;
+    --baselineH1FontSize: 36px;
+    --baselineH1FontSizeRem: 2.25rem;
+    --baselineH1LineHeight: 44px;
+    --baselineH1Tracking: 0;
+    --baselineH2FontFamily: Sukhumvit Set;
+    --baselineH2FontSize: 32px;
+    --baselineH2FontSizeRem: 2rem;
+    --baselineH2LineHeight: 39px;
+    --baselineH2Tracking: 0;
+    --baselineH3FontFamily: Sukhumvit Set;
+    --baselineH3FontSize: 28px;
+    --baselineH3FontSizeRem: 1.75rem;
+    --baselineH3LineHeight: 34px;
+    --baselineH3Tracking: 0;
+    --baselineH4FontFamily: Sukhumvit Set;
+    --baselineH4FontSize: 25px;
+    --baselineH4FontSizeRem: 1.5625rem;
+    --baselineH4LineHeight: 30px;
+    --baselineH4Tracking: 0;
+    --baselineH5FontFamily: Sukhumvit Set;
+    --baselineH5FontSize: 22px;
+    --baselineH5FontSizeRem: 1.375rem;
+    --baselineH5LineHeight: 27px;
+    --baselineH5Tracking: 0;
+    --baselineH6FontFamily: Sukhumvit Set;
+    --baselineH6FontSize: 20px;
+    --baselineH6FontSizeRem: 1.25rem;
+    --baselineH6LineHeight: 25px;
+    --baselineH6Tracking: 0;
+    --baselineTitleFontFamily: Sukhumvit Set;
+    --baselineTitleFontSize: 18px;
+    --baselineTitleFontSizeRem: 1.125rem;
+    --baselineTitleLineHeight: 25px;
+    --baselineTitleTracking: 0;
+    --baselineSubtitleFontFamily: Sukhumvit Set;
+    --baselineSubtitleFontSize: 16px;
+    --baselineSubtitleFontSizeRem: 1rem;
+    --baselineSubtitleLineHeight: 20px;
+    --baselineSubtitleTracking: 0;
+    --baselineLabelLgFontFamily: Sukhumvit Set;
+    --baselineLabelLgFontSize: 14px;
+    --baselineLabelLgFontSizeRem: 0.875rem;
+    --baselineLabelLgLineHeight: 20px;
+    --baselineLabelLgTracking: 0;
+    --baselineLabelMdFontFamily: Sukhumvit Set;
+    --baselineLabelMdFontSize: 12px;
+    --baselineLabelMdFontSizeRem: 0.75rem;
+    --baselineLabelMdLineHeight: 16px;
+    --baselineLabelMdTracking: 0;
+    --baselineLabelSmFontFamily: Sukhumvit Set;
+    --baselineLabelSmFontSize: 11px;
+    --baselineLabelSmFontSizeRem: 0.6875rem;
+    --baselineLabelSmLineHeight: 14px;
+    --baselineLabelSmTracking: 0;
+    --baselineParagraphFontFamily: Sukhumvit Set;
+    --baselineParagraphFontSize: 10px;
+    --baselineParagraphFontSizeRem: 0.625rem;
+    --baselineParagraphLineHeight: 14px;
+    --baselineParagraphTracking: 0;
+    --baselineCaptionLgFontFamily: Sukhumvit Set;
+    --baselineCaptionLgFontSize: 9px;
+    --baselineCaptionLgFontSizeRem: 0.5625rem;
+    --baselineCaptionLgLineHeight: 10px;
+    --baselineCaptionLgTracking: 0;
+    --baselineCaptionMdFontFamily: Sukhumvit Set;
+    --baselineCaptionMdFontSize: 8px;
+    --baselineCaptionMdFontSizeRem: 0.5rem;
+    --baselineCaptionMdLineHeight: 10px;
+    --baselineCaptionMdTracking: 0;
+    --baselineCaptionSmFontFamily: Sukhumvit Set;
+    --baselineCaptionSmFontSize: 7px;
+    --baselineCaptionSmFontSizeRem: 0.4375rem;
+    --baselineCaptionSmLineHeight: 10px;
+    --baselineCaptionSmTracking: 0;
+    --baselineCaptionXsFontFamily: Sukhumvit Set;
+    --baselineCaptionXsFontSize: 6px;
+    --baselineCaptionXsFontSizeRem: 0.375rem;
+    --baselineCaptionXsLineHeight: 8px;
+    --baselineCaptionXsTracking: 0;
+  }
 }
