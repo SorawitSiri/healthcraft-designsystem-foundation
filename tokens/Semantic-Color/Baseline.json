@@ -73,7 +73,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -88,7 +88,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -103,7 +103,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -118,7 +118,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -133,7 +133,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -148,7 +148,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -163,7 +163,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -178,7 +178,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -195,7 +195,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -210,7 +210,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -225,7 +225,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -240,7 +240,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -255,7 +255,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -270,7 +270,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -287,7 +287,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -302,7 +302,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -317,7 +317,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -332,7 +332,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -347,7 +347,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -362,7 +362,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -379,7 +379,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -394,7 +394,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -409,7 +409,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -424,7 +424,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -439,7 +439,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -454,7 +454,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -471,13 +471,13 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-utilities-scrim)"
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.ReadOnly}",
+        "$value": "{Utilities.ReadOnly}",
         "$description": "Bg/Utilities/Scrim"
       },
       "ButtonBackground": {
@@ -527,7 +527,8 @@
       "ComponentBorder": {
         "$extensions": {
           "com.figma.scopes": [
-            "ALL_SCOPES"
+            "FRAME_FILL",
+            "SHAPE_FILL"
           ],
           "com.figma.hiddenFromPublishing": false
         },
@@ -537,6 +538,7 @@
       "RateStar": {
         "$extensions": {
           "com.figma.scopes": [
+            "FRAME_FILL",
             "SHAPE_FILL"
           ],
           "com.figma.hiddenFromPublishing": false
@@ -563,7 +565,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -578,7 +580,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -593,7 +595,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -608,7 +610,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -623,7 +625,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -638,7 +640,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -655,7 +657,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -669,7 +671,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -683,7 +685,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -697,7 +699,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-secondary)"
           }
@@ -711,7 +713,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-secondary)"
           }
@@ -725,7 +727,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral)"
           }
@@ -739,7 +741,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -747,13 +749,13 @@
         "$type": "color",
         "$value": "{Neutral.Gray50}"
       },
-      "Pure Black": {
+      "PureBlack": {
         "$extensions": {
           "com.figma.scopes": [
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-default)"
           }
@@ -769,7 +771,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -783,7 +785,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-tertiary)"
           }
@@ -797,7 +799,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-secondary)"
           }
@@ -811,7 +813,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-tertiary)"
           }
@@ -825,7 +827,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-secondary)"
           }
@@ -839,7 +841,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -853,7 +855,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-default)"
           }
@@ -867,7 +869,7 @@
             "FRAME_FILL",
             "SHAPE_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-default)"
           }
@@ -884,7 +886,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-tertiary)"
           }
@@ -897,7 +899,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-secondary)"
           }
@@ -910,7 +912,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-default)"
           }
@@ -923,7 +925,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-default)"
           }
@@ -936,7 +938,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-secondary)"
           }
@@ -949,7 +951,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-tertiary)"
           }
@@ -962,7 +964,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -975,7 +977,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -990,7 +992,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -1003,7 +1005,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral)"
           }
@@ -1016,7 +1018,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-secondary)"
           }
@@ -1029,7 +1031,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -1042,7 +1044,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-secondary)"
           }
@@ -1055,7 +1057,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-default)"
           }
@@ -1068,7 +1070,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -1081,7 +1083,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -1096,7 +1098,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-default)"
           }
@@ -1109,7 +1111,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-secondary)"
           }
@@ -1122,7 +1124,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -1135,7 +1137,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral)"
           }
@@ -1148,7 +1150,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-secondary)"
           }
@@ -1161,7 +1163,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -1176,7 +1178,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -1190,7 +1192,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -1204,7 +1206,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -1218,7 +1220,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -1232,7 +1234,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -1246,7 +1248,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -1262,7 +1264,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -1276,7 +1278,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -1290,7 +1292,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -1304,7 +1306,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -1318,7 +1320,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -1332,7 +1334,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -1348,7 +1350,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -1362,7 +1364,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -1376,7 +1378,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -1390,7 +1392,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -1404,7 +1406,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -1418,7 +1420,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -1434,7 +1436,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -1448,7 +1450,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -1462,7 +1464,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -1476,7 +1478,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -1490,7 +1492,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -1504,7 +1506,7 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -1520,13 +1522,13 @@
           "com.figma.scopes": [
             "TEXT_FILL"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-utilities-scrim)"
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.ReadOnly}",
+        "$value": "{Utilities.ReadOnly}",
         "$description": "Bg/Utilities/Scrim"
       }
     }
@@ -1538,7 +1540,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-default)"
           }
@@ -1551,7 +1553,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral)"
           }
@@ -1564,7 +1566,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-secondary)"
           }
@@ -1577,7 +1579,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-secondary)"
           }
@@ -1590,7 +1592,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -1603,7 +1605,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -1618,7 +1620,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -1632,7 +1634,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -1646,7 +1648,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -1660,7 +1662,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -1674,7 +1676,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -1688,7 +1690,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -1704,7 +1706,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -1718,7 +1720,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -1732,7 +1734,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -1746,7 +1748,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -1760,7 +1762,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -1774,7 +1776,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -1790,7 +1792,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -1804,7 +1806,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -1818,7 +1820,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -1832,7 +1834,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -1846,7 +1848,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -1860,7 +1862,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -1876,7 +1878,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -1889,7 +1891,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -1902,7 +1904,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -1915,7 +1917,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-secondary)"
           }
@@ -1928,7 +1930,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-secondary)"
           }
@@ -1941,7 +1943,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral)"
           }
@@ -1954,7 +1956,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -1967,7 +1969,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-default)"
           }
@@ -1982,7 +1984,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -1995,7 +1997,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-tertiary)"
           }
@@ -2008,7 +2010,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-secondary)"
           }
@@ -2021,7 +2023,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-tertiary)"
           }
@@ -2034,7 +2036,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-secondary)"
           }
@@ -2047,7 +2049,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -2060,7 +2062,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-default)"
           }
@@ -2073,7 +2075,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-default)"
           }
@@ -2088,7 +2090,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -2102,7 +2104,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -2116,7 +2118,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -2130,7 +2132,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -2144,7 +2146,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -2158,7 +2160,7 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -2174,13 +2176,13 @@
           "com.figma.scopes": [
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-utilities-scrim)"
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.ReadOnly}",
+        "$value": "{Utilities.ReadOnly}",
         "$description": "Bg/Utilities/Scrim"
       },
       "ComponentBorder": {
@@ -2223,7 +2225,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-default)"
           }
@@ -2237,7 +2239,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral)"
           }
@@ -2251,7 +2253,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-secondary)"
           }
@@ -2265,7 +2267,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-secondary)"
           }
@@ -2279,7 +2281,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -2293,7 +2295,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -2309,7 +2311,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -2324,7 +2326,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -2339,7 +2341,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -2354,7 +2356,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -2369,7 +2371,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -2384,7 +2386,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -2401,7 +2403,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -2416,7 +2418,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -2431,7 +2433,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -2446,7 +2448,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -2461,7 +2463,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -2476,7 +2478,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -2493,7 +2495,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -2508,7 +2510,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -2523,7 +2525,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -2538,7 +2540,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -2553,7 +2555,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -2568,7 +2570,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -2585,7 +2587,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -2599,7 +2601,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -2613,7 +2615,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -2627,7 +2629,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-secondary)"
           }
@@ -2641,7 +2643,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-secondary)"
           }
@@ -2655,7 +2657,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral)"
           }
@@ -2669,7 +2671,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -2683,7 +2685,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-default)"
           }
@@ -2699,7 +2701,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-on-neutral-tertiary)"
           }
@@ -2713,7 +2715,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-tertiary)"
           }
@@ -2727,7 +2729,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-secondary)"
           }
@@ -2741,7 +2743,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-tertiary)"
           }
@@ -2755,7 +2757,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-secondary)"
           }
@@ -2769,7 +2771,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-neutral-tertiary)"
           }
@@ -2783,7 +2785,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-default)"
           }
@@ -2791,13 +2793,13 @@
         "$type": "color",
         "$value": "{Neutral.Gray90}"
       },
-      "Pure White": {
+      "PureWhite": {
         "$extensions": {
           "com.figma.scopes": [
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-text-default-default)"
           }
@@ -2813,7 +2815,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary-hover)"
           }
@@ -2828,7 +2830,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default)"
           }
@@ -2843,7 +2845,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-tertiary)"
           }
@@ -2858,7 +2860,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary-hover)"
           }
@@ -2873,7 +2875,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-secondary)"
           }
@@ -2888,7 +2890,7 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-default-default-hover)"
           }
@@ -2905,13 +2907,13 @@
             "SHAPE_FILL",
             "STROKE_COLOR"
           ],
-          "com.figma.hiddenFromPublishing": true,
+          "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "var(--sds-color-background-utilities-scrim)"
           }
         },
         "$type": "color",
-        "$value": "{Brand Color.ReadOnly}",
+        "$value": "{Utilities.ReadOnly}",
         "$description": "Bg/Utilities/Scrim"
       },
       "DisabledBackground": {

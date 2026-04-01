@@ -1112,14 +1112,7 @@
       "Alpha.Grey10.60": "8ae2f8b21af5033152ff508941c65dcb12359fe0",
       "Alpha.Grey10.70": "6bb7305ccd881bf091f34962301a1899e0d8f4e1",
       "Alpha.Grey10.80": "32e947f0da26676ab334c0c9c9755d135009ed5e",
-      "Alpha.Grey10.90": "5bea681e42ee612b18b491ae2b42084a1c1d1d6a",
-      "Utilities.ComponentBorder": "2b731810dc367637be233ff0bf5afa15eeee1a9f",
-      "Utilities.ButtonBackground": "69f14e3445bb8707084c35c0fb257b7f4bed5d4b",
-      "Utilities.DisabledBackground": "44c1e13c9439e07a459644061ded00f13c360adc",
-      "Utilities.TagBackground": "462d3d3e5f0c707eebafd00a6431306c67c17bda",
-      "Utilities.TabHover": "a12377f1612cf794432f6b8c0d7f2540fb3613fb",
-      "Utilities.RateStar": "a70e41223e8a9b556658867c26e54c86975fd4de",
-      "Utilities.RateStarYellow": "42d00883c3b6f7c47e65d807c741855e8a525387"
+      "Alpha.Grey10.90": "5bea681e42ee612b18b491ae2b42084a1c1d1d6a"
     },
     "$figmaModeId": "47:0",
     "$figmaCollectionId": "VariableCollectionId:47:237"
@@ -1209,7 +1202,14 @@
       "State Status.Warning.OnPrimary": "18e987a361eec59fd9ebbb135383471ce1358ed2",
       "State Status.Warning.Secondary": "2aa759ef8831bc841c5f8ba324848224179b2db6",
       "State Status.Warning.OnSecondary": "5435f749c7746bf3c30e5c71f635b627662d9bc8",
-      "Brand Color.ReadOnly": "b8d4a0ae038c6c5a6531e564661d33e359f76578"
+      "Utilities.ReadOnly": "b8d4a0ae038c6c5a6531e564661d33e359f76578",
+      "Utilities.RateStarYellow": "f0723724111eeb4aeff1ea46f4103d18118a2aba",
+      "Utilities.TabHover": "04f5d6b28ed0d2e26d6c62a7540aabef7704f663",
+      "Utilities.RateStar": "eff54f714d90b335aca22f7109debcba93e45bf9",
+      "Utilities.TagBackground": "433a540684213fc044d0d13716de9190026d7134",
+      "Utilities.DisabledBackground": "39506e4e0ba01593b7fca532811f73399a70c634",
+      "Utilities.ButtonBackground": "b34be226f95d760176e9bb9b1aae06174595fbfe",
+      "Utilities.ComponentBorder": "36310ec2cc195cdcaddd5f70c60c26b324ef43de"
     },
     "$figmaModeId": "60:0",
     "$figmaCollectionId": "VariableCollectionId:60:237"
@@ -1384,7 +1384,7 @@
       "Icon.Neutral.OnSecondary": "9187bd90be5465ddd6f61b682059477021f7d7fc",
       "Icon.Neutral.Quaternary": "c756dbf2c1f9551498f250bf4b7d1b7157df14a2",
       "Icon.Neutral.OnDefault": "690042c3381194130b0417d5f827febab3819a88",
-      "Icon.Neutral.Pure White": "bee4f48522a44dc5d336026c5ab281f2a14b0904",
+      "Icon.Neutral.PureWhite": "bee4f48522a44dc5d336026c5ab281f2a14b0904",
       "Text.Warning.OnTertiary": "9e5df1d843e8e50c36e9752e4e327a2d4257d970",
       "Text.Warning.Tertiary": "179c6a4df4e906a32023f1219dbff3fb4064e83d",
       "Text.Warning.OnSecondary": "522f2bc802d901dc2b1e3d58a902dd0ec6b7854d",
@@ -1418,7 +1418,7 @@
       "Surface.Default.Secondary": "fdec29fdfac30dba65b5affe31ecca557e6c27b0",
       "Surface.Default.DefaultHover": "e730fa4a67f1f6ebccafdbb35d7732664ca924da",
       "Surface.Default.QuaternaryHover": "d658c430596add3805d383f7485f176d1a17447c",
-      "Surface.Default.Pure Black": "46f7b0af46fb3edc4d19d5dd0fc0d106f5add241",
+      "Surface.Default.PureBlack": "46f7b0af46fb3edc4d19d5dd0fc0d106f5add241",
       "Surface.Neutral.QuaternaryHover": "bd4fd05b351632266f16e2fc2212b5ae3f2feaab",
       "Surface.Neutral.TertiaryHover": "35c623b70bf83754685c7fdeb110a91f46787f15",
       "Surface.Neutral.Secondary": "72b8a629d03943f8127c274f66c8c95eff463fc9",

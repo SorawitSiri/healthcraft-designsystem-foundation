@@ -5640,56 +5640,5 @@
         "$description": "#1A1A1AE5"
       }
     }
-  },
-  "Utilities": {
-    "ComponentBorder": {
-      "$extensions": {
-        "com.figma.hiddenFromPublishing": false
-      },
-      "$type": "color",
-      "$value": "#d1d9e0"
-    },
-    "ButtonBackground": {
-      "$extensions": {
-        "com.figma.hiddenFromPublishing": false
-      },
-      "$type": "color",
-      "$value": "#f6f8fa"
-    },
-    "DisabledBackground": {
-      "$extensions": {
-        "com.figma.hiddenFromPublishing": false
-      },
-      "$type": "color",
-      "$value": "#818b98"
-    },
-    "TagBackground": {
-      "$extensions": {
-        "com.figma.hiddenFromPublishing": false
-      },
-      "$type": "color",
-      "$value": "#ddf4ff"
-    },
-    "TabHover": {
-      "$extensions": {
-        "com.figma.hiddenFromPublishing": false
-      },
-      "$type": "color",
-      "$value": "#edefff"
-    },
-    "RateStar": {
-      "$extensions": {
-        "com.figma.hiddenFromPublishing": false
-      },
-      "$type": "color",
-      "$value": "#ffda6a"
-    },
-    "RateStarYellow": {
-      "$extensions": {
-        "com.figma.hiddenFromPublishing": false
-      },
-      "$type": "color",
-      "$value": "#eaa300"
-    }
   }
 }

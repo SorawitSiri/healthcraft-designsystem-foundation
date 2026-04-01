@@ -163,7 +163,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Default.Pure Black}",
+              "$value": "{Surface.Default.PureBlack}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -189,7 +189,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Neutral.DefaultHover}",
+              "$value": "{Surface.Utilities.ButtonBackground}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -201,7 +201,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Neutral.SecondaryHover}",
+              "$value": "{Surface.Neutral.DefaultHover}",
               "$description": "v10: $ui-background"
             }
           },
@@ -454,7 +454,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}",
+              "$value": "{Icon.Neutral.PureWhite}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -500,7 +500,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}",
+              "$value": "{Icon.Neutral.PureWhite}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -523,7 +523,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}",
+              "$value": "{Icon.Neutral.PureWhite}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -546,7 +546,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}",
+              "$value": "{Icon.Neutral.PureWhite}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -569,7 +569,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}",
+              "$value": "{Icon.Neutral.PureWhite}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -592,7 +592,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}",
+              "$value": "{Icon.Neutral.PureWhite}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -806,7 +806,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.ComponentBorder}",
+              "$value": "{Surface.Utilities.ComponentBorder}",
               "$description": "v10: $ui-background"
             },
             "Hover": {
@@ -1103,7 +1103,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}"
+              "$value": "{Icon.Neutral.PureWhite}"
             }
           },
           "Secondary": {
@@ -1126,7 +1126,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}"
+              "$value": "{Icon.Neutral.PureWhite}"
             }
           },
           "Tertiary": {
@@ -1149,7 +1149,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}"
+              "$value": "{Icon.Neutral.PureWhite}"
             }
           },
           "Success": {
@@ -1172,7 +1172,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}"
+              "$value": "{Icon.Neutral.PureWhite}"
             }
           },
           "Warning": {
@@ -1195,7 +1195,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}"
+              "$value": "{Icon.Neutral.PureWhite}"
             }
           },
           "Danger": {
@@ -2202,7 +2202,7 @@
               "com.figma.scopes": [
                 "GAP"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "number",
             "$value": "{Spacing.Padding.lg}"
@@ -2212,7 +2212,7 @@
               "com.figma.scopes": [
                 "GAP"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "number",
             "$value": "{Spacing.Padding.sm}"
@@ -2226,7 +2226,7 @@
               "com.figma.scopes": [
                 "GAP"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "number",
             "$value": "{Spacing.Padding.lg}"
@@ -2236,7 +2236,7 @@
               "com.figma.scopes": [
                 "GAP"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "number",
             "$value": "{Spacing.Padding.sm}"
@@ -2250,7 +2250,7 @@
               "com.figma.scopes": [
                 "GAP"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "number",
             "$value": "{Spacing.Padding.xl}"
@@ -2260,7 +2260,7 @@
               "com.figma.scopes": [
                 "GAP"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "number",
             "$value": "{Spacing.Padding.md}"
@@ -2274,7 +2274,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.sm}"
@@ -2284,7 +2284,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.md}"
@@ -2294,7 +2294,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.lg}"
@@ -2304,7 +2304,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.xs}"
@@ -2316,7 +2316,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.sm}"
@@ -2326,7 +2326,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.md}"
@@ -2336,7 +2336,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.lg}"
@@ -2346,7 +2346,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.xs}"
@@ -2358,7 +2358,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.none}"
@@ -2368,7 +2368,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.sm}"
@@ -2378,7 +2378,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.md}"
@@ -2388,7 +2388,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.lg}"
@@ -2398,7 +2398,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.xl}"
@@ -2410,7 +2410,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.2xs}"
@@ -2420,7 +2420,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.xs}"
@@ -2430,7 +2430,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.md}"
@@ -2440,7 +2440,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.lg}"
@@ -2450,7 +2450,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.xl}"
@@ -2460,7 +2460,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.2xl}"
@@ -2470,7 +2470,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.sm}"
@@ -2486,7 +2486,7 @@
               "com.figma.scopes": [
                 "STROKE_COLOR"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Border.Utilities.ComponentBorder}"
@@ -2496,7 +2496,7 @@
               "com.figma.scopes": [
                 "STROKE_COLOR"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Border.Primary.Secondary}"
@@ -2506,7 +2506,7 @@
               "com.figma.scopes": [
                 "STROKE_COLOR"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Border.Utilities.ComponentBorder}"
@@ -2516,7 +2516,7 @@
               "com.figma.scopes": [
                 "STROKE_COLOR"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Border.Utilities.ComponentBorder}"
@@ -2526,7 +2526,7 @@
               "com.figma.scopes": [
                 "STROKE_COLOR"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Border.Utilities.ComponentBorder}"
@@ -2536,7 +2536,7 @@
               "com.figma.scopes": [
                 "STROKE_COLOR"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Border.Success.OnDefault}"
@@ -2546,7 +2546,7 @@
               "com.figma.scopes": [
                 "STROKE_COLOR"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Border.Danger.OnDefault}"
@@ -2558,7 +2558,7 @@
               "com.figma.scopes": [
                 "SHAPE_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Icon.Neutral.Quaternary}"
@@ -2568,7 +2568,7 @@
               "com.figma.scopes": [
                 "SHAPE_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Icon.Danger.OnDefault}"
@@ -2578,7 +2578,7 @@
               "com.figma.scopes": [
                 "SHAPE_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Icon.Success.OnDefault}"
@@ -2588,7 +2588,7 @@
               "com.figma.scopes": [
                 "SHAPE_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Icon.Default.Secondary}"
@@ -2600,7 +2600,7 @@
               "com.figma.scopes": [
                 "TEXT_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Text.Default.PureBlack}"
@@ -2610,7 +2610,7 @@
               "com.figma.scopes": [
                 "TEXT_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Text.Neutral.Tertiary}"
@@ -2620,7 +2620,7 @@
               "com.figma.scopes": [
                 "TEXT_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Text.Neutral.Quaternary}"
@@ -2630,7 +2630,7 @@
               "com.figma.scopes": [
                 "TEXT_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Text.Danger.Default}"
@@ -2640,7 +2640,7 @@
               "com.figma.scopes": [
                 "TEXT_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Icon.Primary.Secondary}"
@@ -2650,7 +2650,7 @@
               "com.figma.scopes": [
                 "TEXT_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Text.Default.Secondary}"
@@ -2661,7 +2661,7 @@
                 "com.figma.scopes": [
                   "TEXT_FILL"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
               "$value": "{Text.Default.PureBlack}"
@@ -2671,7 +2671,7 @@
                 "com.figma.scopes": [
                   "TEXT_FILL"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
               "$value": "{Text.Default.Quaternary}"
@@ -2682,7 +2682,7 @@
               "com.figma.scopes": [
                 "TEXT_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Text.Danger.OnDefault}"
@@ -2692,7 +2692,7 @@
               "com.figma.scopes": [
                 "TEXT_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Text.Success.OnDefault}"
@@ -2705,7 +2705,7 @@
                 "FRAME_FILL",
                 "SHAPE_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Surface.Neutral.PureWhite}"
@@ -2716,7 +2716,7 @@
                 "FRAME_FILL",
                 "SHAPE_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Surface.Utilities.ReadOnly}"
@@ -2727,7 +2727,7 @@
                 "FRAME_FILL",
                 "SHAPE_FILL"
               ],
-              "com.figma.hiddenFromPublishing": false
+              "com.figma.hiddenFromPublishing": true
             },
             "$type": "color",
             "$value": "{Surface.Neutral.DefaultHover}"
@@ -2741,7 +2741,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.lg}"
@@ -2751,7 +2751,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.md}"
@@ -2761,7 +2761,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.sm}"
@@ -2771,7 +2771,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.xs}"
@@ -2784,7 +2784,7 @@
             "com.figma.scopes": [
               "GAP"
             ],
-            "com.figma.hiddenFromPublishing": false
+            "com.figma.hiddenFromPublishing": true
           },
           "$type": "number",
           "$value": "{Spacing.Padding.sm}"
@@ -2794,7 +2794,7 @@
             "com.figma.scopes": [
               "GAP"
             ],
-            "com.figma.hiddenFromPublishing": false
+            "com.figma.hiddenFromPublishing": true
           },
           "$type": "number",
           "$value": "{Spacing.Padding.md}"
@@ -2806,7 +2806,7 @@
             "com.figma.scopes": [
               "GAP"
             ],
-            "com.figma.hiddenFromPublishing": false
+            "com.figma.hiddenFromPublishing": true
           },
           "$type": "number",
           "$value": "{Spacing.Padding.lg}"
@@ -2816,7 +2816,7 @@
             "com.figma.scopes": [
               "GAP"
             ],
-            "com.figma.hiddenFromPublishing": false
+            "com.figma.hiddenFromPublishing": true
           },
           "$type": "number",
           "$value": "{Spacing.Padding.sm}"
@@ -2828,7 +2828,7 @@
             "com.figma.scopes": [
               "GAP"
             ],
-            "com.figma.hiddenFromPublishing": false
+            "com.figma.hiddenFromPublishing": true
           },
           "$type": "number",
           "$value": "{Spacing.Padding.lg}"
@@ -2838,7 +2838,7 @@
             "com.figma.scopes": [
               "GAP"
             ],
-            "com.figma.hiddenFromPublishing": false
+            "com.figma.hiddenFromPublishing": true
           },
           "$type": "number",
           "$value": "{Spacing.Padding.sm}"
@@ -2850,7 +2850,7 @@
             "com.figma.scopes": [
               "GAP"
             ],
-            "com.figma.hiddenFromPublishing": false
+            "com.figma.hiddenFromPublishing": true
           },
           "$type": "number",
           "$value": "{Spacing.Padding.lg}"
@@ -2860,7 +2860,7 @@
             "com.figma.scopes": [
               "GAP"
             ],
-            "com.figma.hiddenFromPublishing": false
+            "com.figma.hiddenFromPublishing": true
           },
           "$type": "number",
           "$value": "{Spacing.Padding.md}"
@@ -2873,7 +2873,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.xl}"
@@ -2883,7 +2883,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.lg}"
@@ -2893,7 +2893,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.md}"
@@ -2903,7 +2903,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.sm}"
@@ -2913,7 +2913,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.none}"
@@ -2925,7 +2925,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.2xl}"
@@ -2935,7 +2935,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.xl}"
@@ -2945,7 +2945,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.lg}"
@@ -2955,7 +2955,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.xs}"
@@ -2965,7 +2965,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.md}"
@@ -2975,7 +2975,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.sm}"
@@ -2985,7 +2985,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.2xs}"
@@ -2997,7 +2997,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.lg}"
@@ -3007,7 +3007,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.md}"
@@ -3017,7 +3017,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.sm}"
@@ -3027,7 +3027,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.xs}"
@@ -3939,7 +3939,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Surface.Default.Pure Black}",
+              "$value": "{Surface.Default.PureBlack}",
               "$description": "v10: $ui-background"
             },
             "OnDefault": {
@@ -4196,10 +4196,10 @@
                   "FRAME_FILL",
                   "SHAPE_FILL"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.DisabledBackground}"
+              "$value": "{Surface.Utilities.DisabledBackground}"
             }
           },
           "Quaternary": {
@@ -4305,10 +4305,10 @@
                   "FRAME_FILL",
                   "SHAPE_FILL"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.DisabledBackground}"
+              "$value": "{Surface.Utilities.DisabledBackground}"
             },
             "TabHover": {
               "$extensions": {
@@ -4316,10 +4316,10 @@
                   "FRAME_FILL",
                   "SHAPE_FILL"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.TabHover}"
+              "$value": "{Surface.Utilities.TabHover}"
             },
             "TagBackground": {
               "$extensions": {
@@ -4327,10 +4327,10 @@
                   "FRAME_FILL",
                   "SHAPE_FILL"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.TagBackground}"
+              "$value": "{Surface.Utilities.TagBackground}"
             },
             "ButtonBackground": {
               "$extensions": {
@@ -4338,10 +4338,10 @@
                   "FRAME_FILL",
                   "SHAPE_FILL"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.ButtonBackground}"
+              "$value": "{Surface.Utilities.ButtonBackground}"
             },
             "ReadOnly": {
               "$extensions": {
@@ -4355,7 +4355,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Brand Color.ReadOnly}",
+              "$value": "{Utilities.ReadOnly}",
               "$description": "Bg/Utilities/Scrim"
             },
             "RateStar": {
@@ -4363,7 +4363,7 @@
                 "com.figma.scopes": [
                   "SHAPE_FILL"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
               "$value": "{Surface.Utilities.RateStar}"
@@ -4373,7 +4373,7 @@
                 "com.figma.scopes": [
                   "SHAPE_FILL"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
               "$value": "{Surface.Utilities.RateStarYellow}"
@@ -4774,7 +4774,7 @@
                 "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Icon.Neutral.Pure White}",
+              "$value": "{Icon.Neutral.PureWhite}",
               "$description": "v10: $ui-background"
             },
             "OnDefault": {
@@ -4936,10 +4936,10 @@
                   "SHAPE_FILL",
                   "STROKE_COLOR"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.DisabledBackground}"
+              "$value": "{Surface.Utilities.DisabledBackground}"
             }
           },
           "Utilities": {
@@ -5019,10 +5019,10 @@
                   "SHAPE_FILL",
                   "STROKE_COLOR"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.DisabledBackground}"
+              "$value": "{Surface.Utilities.DisabledBackground}"
             },
             "ReadOnly": {
               "$extensions": {
@@ -5036,7 +5036,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{Brand Color.ReadOnly}",
+              "$value": "{Utilities.ReadOnly}",
               "$description": "Bg/Utilities/Scrim"
             },
             "RateStarYellow": {
@@ -5045,7 +5045,7 @@
                   "SHAPE_FILL",
                   "STROKE_COLOR"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
               "$value": "{Icon.Utilities.RateStar Yellow}"
@@ -5056,7 +5056,7 @@
                   "SHAPE_FILL",
                   "STROKE_COLOR"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
               "$value": "{Icon.Utilities.RateStar}"
@@ -5572,10 +5572,10 @@
                 "com.figma.scopes": [
                   "STROKE_COLOR"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.DisabledBackground}"
+              "$value": "{Surface.Utilities.DisabledBackground}"
             }
           },
           "Utilities": {
@@ -5648,20 +5648,20 @@
                 "com.figma.scopes": [
                   "STROKE_COLOR"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.DisabledBackground}"
+              "$value": "{Surface.Utilities.DisabledBackground}"
             },
             "ComponentBorder": {
               "$extensions": {
                 "com.figma.scopes": [
                   "STROKE_COLOR"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
-              "$value": "{Utilities.ComponentBorder}"
+              "$value": "{Surface.Utilities.ComponentBorder}"
             },
             "RateStarYellow": {
               "$extensions": {
@@ -5669,7 +5669,7 @@
                   "SHAPE_FILL",
                   "STROKE_COLOR"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
               "$value": "{Border.Utilities.RateStarYellow}"
@@ -5680,7 +5680,7 @@
                   "SHAPE_FILL",
                   "STROKE_COLOR"
                 ],
-                "com.figma.hiddenFromPublishing": false
+                "com.figma.hiddenFromPublishing": true
               },
               "$type": "color",
               "$value": "{Border.Utilities.RateStar}"
@@ -5695,7 +5695,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.xs}"
@@ -5705,7 +5705,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.sm}"
@@ -5715,7 +5715,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.md}"
@@ -5725,7 +5725,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.lg}"
@@ -5735,7 +5735,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.6xl}"
@@ -5745,7 +5745,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.5xl}"
@@ -5755,7 +5755,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.4xl}"
@@ -5765,7 +5765,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.3xl}"
@@ -5775,7 +5775,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.2xl}"
@@ -5785,7 +5785,7 @@
           "com.figma.scopes": [
             "CORNER_RADIUS"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Radius.circular}"
@@ -5797,7 +5797,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.xs}"
@@ -5807,7 +5807,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.sm}"
@@ -5817,7 +5817,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.md}"
@@ -5827,7 +5827,7 @@
           "com.figma.scopes": [
             "STROKE_FLOAT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Border.lg}"
@@ -5839,7 +5839,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.none}"
@@ -5849,7 +5849,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.sm}"
@@ -5859,7 +5859,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.md}"
@@ -5869,7 +5869,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.lg}"
@@ -5879,7 +5879,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.xl}"
@@ -5889,7 +5889,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.2xl}"
@@ -5899,7 +5899,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.3xl}"
@@ -5909,7 +5909,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.4xl}"
@@ -6003,7 +6003,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.7xs}"
@@ -6013,7 +6013,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.4xs}"
@@ -6023,7 +6023,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.3xs}"
@@ -6033,7 +6033,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.2xs}"
@@ -6043,7 +6043,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.xs}"
@@ -6053,7 +6053,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.5xs}"
@@ -6063,7 +6063,7 @@
           "com.figma.scopes": [
             "GAP"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Spacing.Gap.6xs}"
@@ -6075,7 +6075,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.2xs}"
@@ -6085,7 +6085,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.xs}"
@@ -6095,7 +6095,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.sm}"
@@ -6105,7 +6105,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.md}"
@@ -6115,7 +6115,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.lg}"
@@ -6125,7 +6125,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.xl}"
@@ -6135,7 +6135,7 @@
           "com.figma.scopes": [
             "WIDTH_HEIGHT"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": "{Icon.2xl}"
