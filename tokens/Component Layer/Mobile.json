@@ -2253,7 +2253,7 @@
               "com.figma.hiddenFromPublishing": false
             },
             "$type": "number",
-            "$value": "{Spacing.Padding.lg}"
+            "$value": "{Spacing.Padding.xl}"
           },
           "y": {
             "$extensions": {
@@ -2311,7 +2311,7 @@
               "com.figma.hiddenFromPublishing": false
             },
             "$type": "number",
-            "$value": "{Spacing.Padding.xl}"
+            "$value": "{Spacing.Padding.md}"
           }
         }
       },
@@ -2325,7 +2325,7 @@
               "com.figma.hiddenFromPublishing": false
             },
             "$type": "number",
-            "$value": "{Spacing.Padding.2xl}"
+            "$value": "{Spacing.Padding.xl}"
           },
           "y": {
             "$extensions": {
@@ -2335,7 +2335,7 @@
               "com.figma.hiddenFromPublishing": false
             },
             "$type": "number",
-            "$value": "{Spacing.Padding.xl}"
+            "$value": "{Spacing.Padding.md}"
           }
         }
       }

@@ -6,7 +6,7 @@
           "com.figma.scopes": [
             "FONT_FAMILY"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "text",
         "$value": "Sukhumvit Set"
@@ -16,7 +16,7 @@
           "com.figma.scopes": [
             "FONT_FAMILY"
           ],
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "text",
         "$value": "Sukhumvit Set"
@@ -236,73 +236,73 @@
     "Line Height": {
       "80": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 8
       },
       "90": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 9
       },
       "100": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 10
       },
       "120": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 12
       },
       "140": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 14
       },
       "160": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 16
       },
       "200": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 20
       },
       "220": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 22
       },
-      "250": {
-        "$extensions": {
-          "com.figma.hiddenFromPublishing": false
-        },
-        "$type": "number",
-        "$value": 25
-      },
-      "270": {
+      "240": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
-        "$value": 27
+        "$value": 24
+      },
+      "280": {
+        "$extensions": {
+          "com.figma.hiddenFromPublishing": true
+        },
+        "$type": "number",
+        "$value": 28
       },
       "300": {
         "$extensions": {
@@ -318,12 +318,12 @@
         "$type": "number",
         "$value": 34
       },
-      "390": {
+      "380": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
-        "$value": 39
+        "$value": 38
       },
       "400": {
         "$extensions": {
@@ -371,21 +371,21 @@
     "Tracking": {
       "Small": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 0.1
       },
       "None": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 0
       },
       "ExtraSmall": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": -0.25
@@ -522,12 +522,26 @@
         "$type": "number",
         "$value": 12
       },
+      "350": {
+        "$extensions": {
+          "com.figma.hiddenFromPublishing": true
+        },
+        "$type": "number",
+        "$value": 14
+      },
       "400": {
         "$extensions": {
           "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": 16
+      },
+      "450": {
+        "$extensions": {
+          "com.figma.hiddenFromPublishing": true
+        },
+        "$type": "number",
+        "$value": 18
       },
       "500": {
         "$extensions": {
@@ -629,49 +643,49 @@
       },
       "Negative50": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": -2
       },
       "Negative200": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": -8
       },
       "Negative100": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": -4
       },
       "Negative150": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": -6
       },
       "Negative300": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": -12
       },
       "Negative400": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": -16
       },
       "Negative500": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": false
+          "com.figma.hiddenFromPublishing": true
         },
         "$type": "number",
         "$value": -20

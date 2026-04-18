@@ -249,7 +249,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Typography.Line Height.390}"
+        "$value": "{Typography.Line Height.380}"
       },
       "Tracking": {
         "$extensions": {
@@ -381,7 +381,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Typography.Line Height.270}"
+        "$value": "{Typography.Line Height.280}"
       },
       "Tracking": {
         "$extensions": {
@@ -425,7 +425,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Typography.Line Height.250}"
+        "$value": "{Typography.Line Height.240}"
       },
       "Tracking": {
         "$extensions": {
@@ -469,7 +469,7 @@
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
-        "$value": "{Typography.Line Height.250}"
+        "$value": "{Typography.Line Height.240}"
       },
       "Tracking": {
         "$extensions": {

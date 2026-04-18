@@ -83,13 +83,19 @@
       },
       "11xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.1800}"
       },
       "5xs": {
         "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
@@ -97,6 +103,9 @@
       },
       "4xs": {
         "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
@@ -104,6 +113,9 @@
       },
       "3xs": {
         "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
@@ -111,6 +123,9 @@
       },
       "2xs": {
         "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
@@ -118,69 +133,99 @@
       },
       "16xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.6400}"
       },
       "6xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.800}"
       },
       "15xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.4800}"
       },
       "14xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.3200}"
       },
       "13xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.2400}"
       },
       "10xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.1600}"
       },
       "9xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.1400}"
       },
       "8xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.1200}"
       },
       "5xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.700}"
       },
       "6xs": {
         "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
@@ -188,13 +233,19 @@
       },
       "7xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.1000}"
       },
       "7xs": {
         "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
@@ -202,13 +253,19 @@
       },
       "12xl": {
         "$extensions": {
-          "com.figma.hiddenFromPublishing": true
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
         "$value": "{Static.Spacing.2000}"
       },
       "xs": {
         "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
           "com.figma.hiddenFromPublishing": false
         },
         "$type": "number",
@@ -275,6 +332,36 @@
         },
         "$type": "number",
         "$value": "{Static.Spacing.300}"
+      },
+      "2xl": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        },
+        "$type": "number",
+        "$value": "{Static.Spacing.450}"
+      },
+      "3xl": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        },
+        "$type": "number",
+        "$value": "{Static.Spacing.500}"
+      },
+      "4xl": {
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        },
+        "$type": "number",
+        "$value": "{Static.Spacing.600}"
       }
     }
   },
@@ -284,7 +371,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.2xl}"
@@ -294,7 +381,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.xl}"
@@ -304,7 +391,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.sm}"
@@ -314,7 +401,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.lg}"
@@ -324,7 +411,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.md}"
@@ -344,7 +431,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.2xs}"
@@ -354,7 +441,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.5xl}"
@@ -364,7 +451,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.4xl}"
@@ -374,7 +461,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.3xl}"
@@ -384,7 +471,7 @@
         "com.figma.scopes": [
           "WIDTH_HEIGHT"
         ],
-        "com.figma.hiddenFromPublishing": true
+        "com.figma.hiddenFromPublishing": false
       },
       "$type": "number",
       "$value": "{Static.Icon.6xl}"
